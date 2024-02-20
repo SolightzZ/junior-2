@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraf:goat_horn"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#  ",
+      "# #",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:bone"
+      }
+    },
+    "result": {
+      "item": "minecraft:goat_horn"
+    }
+  }
+}

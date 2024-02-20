@@ -1,0 +1,24 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:stained_glass_block_to_sand_block"
+		},
+		"tags": [
+			"stonecutter"
+		],
+		"ingredients": [
+			{
+				"count": 1,
+				"item": "minecraft:stained_glass"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:sand",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"format_version": {},
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "minecraft:moss_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"###",
+			"#0#",
+			"###"
+		],
+		"key": {
+			"0": {
+				"item": "minecraft:vine"
+			},
+			"#": {
+				"item": "minecraft:grass"
+			}
+		},
+		"result": {
+			"item": "minecraft:moss_block",
+			"data": 0,
+            "count": 8
+		}
+	}
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:soul_sand"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:soul_soil"
+      },
+      {
+        "item": "minecraft:sand"
+      }
+    ],
+    "result": {
+      "item": "minecraft:soul_sand"
+    }
+  }
+}

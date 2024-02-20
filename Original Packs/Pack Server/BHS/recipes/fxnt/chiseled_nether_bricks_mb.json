@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:chiseled_nether_bricks_mb"},"ingredients":[{"data":0,"item":"chiseled_nether_bricks"}],"result":{"count":2,"item":"fxnt:chiseled_nether_bricks_mb"},"tags":["stonecutter"]}}

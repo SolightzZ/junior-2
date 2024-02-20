@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "nicothekid:stonecut_x_waxed_oxidized_cut_copper_stairs_x_waxed_oxidized_cut_copper_slab"
+    },
+    "priority": 4,
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:waxed_oxidized_cut_copper_stairs",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:waxed_oxidized_cut_copper_slab",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

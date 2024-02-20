@@ -1,0 +1,28 @@
+//bridge-file-version: #20
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:quick_trapdoor_dark_oak"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ooo",
+			"ooo"
+		],
+		"key": {
+			"o": {
+				"item": "minecraft:log2",
+				"data": 1
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:dark_oak_trapdoor",
+				"count": 8
+			}
+		]
+	}
+}

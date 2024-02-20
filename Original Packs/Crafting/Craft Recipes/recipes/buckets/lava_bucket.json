@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:lava_bucket"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:magma"
+      },
+      "B": {
+        "item": "minecraft:bucket",
+        "data": 0
+      }
+    },
+    "result": [
+      {
+        "item": "minecraft:bucket",
+        "data": 10
+      },
+      { 
+        "item": "minecraft:cobblestone"
+      }
+    ]
+  }
+}

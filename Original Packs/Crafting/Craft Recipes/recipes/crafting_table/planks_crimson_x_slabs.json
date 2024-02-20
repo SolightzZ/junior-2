@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:planks_crimson_x_slabs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:crimson_slab",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:crimson_planks",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

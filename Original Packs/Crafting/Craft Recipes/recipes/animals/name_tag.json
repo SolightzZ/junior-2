@@ -1,0 +1,27 @@
+{
+"format_version": "1.12",
+"minecraft:recipe_shaped": {
+"description": {
+	"identifier": "minecraft:name_tag"
+	},
+"tags": [ "crafting_table" ],
+"pattern": [
+				"  T",
+				" F ",
+				"#"],
+	"key": {
+		"T": {
+			"item": "minecraft:tripwire_hook"
+		},
+		"F": {
+			"item": "minecraft:feather"
+		},
+		"#": {
+			"item": "minecraft:paper"
+			}
+		},
+"result": {
+		"item": "minecraft:name_tag"
+		}
+	}
+}

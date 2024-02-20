@@ -1,0 +1,27 @@
+{
+"format_version": "1.12",
+"minecraft:recipe_shaped": {
+  "description": {
+    "identifier": "minecraft:wither_rose1"
+    },
+    "tags": [ "crafting_table" ],
+      "pattern": [
+        "###",
+        "#x#",
+        "###"],
+    "key": {
+    "#": {
+      "item": "minecraft:skull",
+      "data": 1
+      },
+    "x": {
+      "item": "minecraft:red_flower",
+      "data": 1
+      }
+    },
+"result": {
+    "item": "minecraft:wither_rose",
+    "count": 2
+    }
+  }
+}

@@ -1,0 +1,57 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "polish:craft_red_sand"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:sand",
+				"data": 0
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 1
+			},
+			{
+				"item": "minecraft:sand",
+				"data": 0
+			},
+			{
+				"item": "minecraft:sand",
+				"data": 0
+			},
+			{
+				"item": "minecraft:sand",
+				"data": 0
+			},
+			{
+				"item": "minecraft:sand",
+				"data": 0
+			},
+			{
+				"item": "minecraft:sand",
+				"data": 0
+			},
+			{
+				"item": "minecraft:sand",
+				"data": 0
+			},
+			{
+				"item": "minecraft:sand",
+				"data": 0
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:sand",
+				"data": 1,
+				"count": 8
+			}
+		]
+	}
+}

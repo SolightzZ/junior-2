@@ -1,0 +1,25 @@
+{
+"format_version": "1.12",
+"minecraft:recipe_shaped": {
+"description": {
+	"identifier": "minecraft:shulker_shell"
+	},
+"tags": [ "crafting_table" ],
+"pattern": [
+				"XXX",
+				"XYX",
+				"XXX"],
+	"key": {
+		"X": {
+			"item": "minecraft:dragon_breath"
+		},
+		"Y": {
+			"item": "minecraft:heart_of_the_sea"
+            }
+		},
+"result": {
+		"item": "minecraft:shulker_shell",
+                                      "count": 6
+		}
+	}
+}

@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:concrete_15_mb"},"ingredients":[{"data":15,"item":"concrete"}],"result":{"count":2,"item":"fxnt:concrete_15_mb"},"tags":["stonecutter"]}}

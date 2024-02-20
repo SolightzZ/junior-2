@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:glow_lichen"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "BA",
+      "AA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:vine",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:glow_ink_sac",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:glow_lichen",
+      "count": 3
+    }
+  }
+}

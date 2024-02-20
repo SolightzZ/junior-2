@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:sticky_piston_mb"},"ingredients":[{"item":"sticky_piston"}],"result":{"count":2,"item":"fxnt:sticky_piston_mb"},"tags":["stonecutter"]}}

@@ -1,0 +1,39 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:experience_bottle_x_quartz"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "CDC",
+      "BBB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:redstone",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:dye",
+        "data": 4
+      },
+      "C": {
+        "item": "minecraft:quartz",
+        "data": 0
+      },
+      "D": {
+        "item": "minecraft:glass_bottle",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:experience_bottle",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,33 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:craft_horse_armor_iron"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"  C",
+			"ABA",
+			"C C"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:iron_block"
+			},
+			"B": {
+				"item": "minecraft:leather"
+			},
+			"C": {
+				"item": "minecraft:iron_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:horsearmoriron"
+			}
+		]
+	}
+}

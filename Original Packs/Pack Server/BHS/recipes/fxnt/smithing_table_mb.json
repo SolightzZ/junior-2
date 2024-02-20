@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:smithing_table_mb"},"ingredients":[{"data":0,"item":"smithing_table"}],"result":{"count":2,"item":"fxnt:smithing_table_mb"},"tags":["stonecutter"]}}

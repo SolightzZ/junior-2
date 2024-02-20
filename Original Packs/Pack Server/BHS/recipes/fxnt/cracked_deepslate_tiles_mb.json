@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:cracked_deepslate_tiles_mb"},"ingredients":[{"data":0,"item":"cracked_deepslate_tiles"}],"result":{"count":2,"item":"fxnt:cracked_deepslate_tiles_mb"},"tags":["stonecutter"]}}

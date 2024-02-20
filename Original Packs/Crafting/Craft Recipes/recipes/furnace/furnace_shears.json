@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "minecraft:furnace_shears"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "minecraft:shears",
+    "output": "minecraft:iron_ingot"
+  }
+  
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:warped_wart_block_x_warped_fungus"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "BAB",
+      "AAA",
+      "BAB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:warped_fungus",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:warped_roots",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:warped_wart_block",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

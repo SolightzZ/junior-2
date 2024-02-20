@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:grass"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:dirt"
+      },
+      {
+        "item": "minecraft:tallgrass"
+      }
+    ],
+    "result": {
+      "item": "minecraft:grass"
+    }
+  }
+}

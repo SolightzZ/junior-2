@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:end_stone_mb"},"ingredients":[{"data":0,"item":"end_stone"}],"result":{"count":2,"item":"fxnt:end_stone_mb"},"tags":["stonecutter"]}}

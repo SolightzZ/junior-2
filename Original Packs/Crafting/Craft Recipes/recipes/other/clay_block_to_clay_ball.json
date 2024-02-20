@@ -1,0 +1,24 @@
+//bridge-file-version: #1
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:clay_block_to_clay_ball"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"count": 1,
+				"item": "minecraft:clay"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:clay_ball",
+				"count": 4
+			}
+		]
+	}
+}

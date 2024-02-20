@@ -1,0 +1,33 @@
+//bridge-file-version: #9
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:craft_horse_armor_gold"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"  C",
+			"ABA",
+			"C C"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:gold_block"
+			},
+			"B": {
+				"item": "minecraft:leather"
+			},
+			"C": {
+				"item": "minecraft:gold_ingot"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:horsearmorgold"
+			}
+		]
+	}
+}

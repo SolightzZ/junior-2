@@ -1,0 +1,36 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "polish:craft_sapling_acacia"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:leaves2",
+				"data": 0
+			},
+			{
+				"item": "minecraft:leaves2",
+				"data": 0
+			},
+			{
+				"item": "minecraft:leaves2",
+				"data": 0
+			},
+			{
+				"item": "minecraft:leaves2",
+				"data": 0
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:sapling",
+				"data": 4
+			}
+		]
+	}
+}

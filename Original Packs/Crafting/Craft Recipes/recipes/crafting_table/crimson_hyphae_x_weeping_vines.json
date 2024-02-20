@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:crimson_hyphae_x_weeping_vines"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:weeping_vines",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:crimson_hyphae",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

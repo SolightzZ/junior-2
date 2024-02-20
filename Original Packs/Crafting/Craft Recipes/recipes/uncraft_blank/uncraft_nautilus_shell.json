@@ -1,0 +1,23 @@
+//bridge-file-version: #5
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "polish:uncraft_nautilus_shell"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:nautilus_shell"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:prismarine_shard",
+				"count": 32
+			}
+		]
+	}
+}

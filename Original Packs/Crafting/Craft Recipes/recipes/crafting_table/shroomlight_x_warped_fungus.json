@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:shroomlight_x_warped_fungus"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "BBB",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:warped_fungus",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:glowstone_dust",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:shroomlight",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,30 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:craft_notch_apple"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AAA",
+			"ABA",
+			"AAA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:gold_block"
+			},
+			"B": {
+				"item": "minecraft:golden_apple"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:appleEnchanted"
+			}
+		]
+	}
+}

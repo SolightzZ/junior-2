@@ -1,0 +1,193 @@
+{
+  "tiers": [
+    {
+      "groups": [
+        {
+          "num_to_select": 12,
+          "trades": [
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:egg",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:iron_nugget",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:iron_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:egg",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:wheat_seeds",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:iron_nugget",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:iron_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:wheat_seeds",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:bread",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:iron_nugget",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:iron_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bread",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:nautilus_shell",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:iron_nugget",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:iron_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:nautilus_shell",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:bone",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:bone",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:ink_sac",
+                  "quantity": 1
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 1
+                }
+              ]
+            },
+            {
+              "max_uses": 5,
+              "wants": [
+                {
+                  "item": "minecraft:gold_nugget",
+                  "quantity": 2
+                }
+              ],
+              "gives": [
+                {
+                  "item": "minecraft:ink_sac",
+                  "quantity": 1
+                }
+              ]
+            }     
+          ]
+        }
+      ]
+    }
+  ]
+}

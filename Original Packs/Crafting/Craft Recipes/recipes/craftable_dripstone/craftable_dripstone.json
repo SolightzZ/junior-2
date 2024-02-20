@@ -1,0 +1,33 @@
+{
+    "format_version": {},
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "S#S",
+            "DSD",
+            "S#S"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:deepslate"
+            },
+            "D": {
+                "item": "minecraft:dirt",
+                "data": 0
+            },
+            "S": {
+                "item": "minecraft:sand",
+                "data": 0
+            }
+        },
+        "result": {
+            "item": "minecraft:dripstone_block",
+            "count": 4
+        },
+        "description": {
+            "identifier": "minecraft:dripstone_block"
+        }
+    }
+}

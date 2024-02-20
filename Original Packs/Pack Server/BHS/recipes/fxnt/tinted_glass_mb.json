@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:tinted_glass_mb"},"ingredients":[{"data":0,"item":"tinted_glass"}],"result":{"count":2,"item":"fxnt:tinted_glass_mb"},"tags":["stonecutter"]}}

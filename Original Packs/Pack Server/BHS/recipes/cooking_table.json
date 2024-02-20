@@ -1,0 +1,35 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eggfood:cooking_table"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "#R#",
+            "#C#",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:cobblestone",
+                "data": 0
+            },
+            "R": {
+                "item": "minecraft:redstone",
+                "data": 0
+            },
+            "C": {
+                "item": "minecraft:crafting_table",
+                "data": 0
+            }
+        },
+        "result": {
+            "item": "eggfood:cooking_table",
+            "data": 0,
+            "count": 1
+       }
+   }
+}

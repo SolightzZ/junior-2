@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_494da2c9"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AA ",
+      "AA "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:red_mushroom",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:red_mushroom_block",
+      "count": 1,
+      "data": 1
+    }
+  }
+}

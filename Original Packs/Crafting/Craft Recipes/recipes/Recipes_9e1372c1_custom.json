@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_064d9484"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " AA",
+      " AA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:cobblestone",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:stone",
+      "count": 2,
+      "data": 0
+    }
+  }
+}

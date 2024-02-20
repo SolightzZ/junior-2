@@ -1,0 +1,25 @@
+//bridge-file-version: #8
+{
+	"format_version": 1.16,
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:oak_trapdoor_to_oak_plank"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"data": 0,
+				"item": "minecraft:trapdoor"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:planks",
+				"data": 0,
+				"count": 3
+			}
+		]
+	}
+}

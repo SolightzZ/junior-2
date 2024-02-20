@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:glow_ink_sac"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:ink_sac"
+      },
+      {
+        "item": "minecraft:glowstone_dust"
+      }
+    ],
+    "result": {
+      "item": "minecraft:glow_ink_sac"
+    }
+  }
+}

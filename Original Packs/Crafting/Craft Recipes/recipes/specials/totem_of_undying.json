@@ -1,0 +1,27 @@
+{
+"format_version": "1.12",
+"minecraft:recipe_shaped": {
+"description": {
+	"identifier": "minecraft:totem_of_undying"
+	},
+"tags": [ "crafting_table" ],
+"pattern": [
+				" # ",
+				"PXP",
+				" P "],
+	"key": {
+		"P": {
+			"item": "minecraft:gold_ingot_block"
+		},
+		"X": {
+			"item": "minecraft:emerald_block"
+		},
+		"#": {
+			"item": "minecraft:golden_helmet"
+			}
+		},
+"result": {
+		"item": "minecraft:totem_of_undying"
+		}
+	}
+}

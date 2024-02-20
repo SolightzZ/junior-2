@@ -1,0 +1,15 @@
+{
+    "format_version": {},
+    "minecraft:recipe_furnace": {
+        "tags": [
+            "furnace"
+        ],
+        "output": "minecraft:budding_amethyst",
+        "input": {
+            "item": "minecraft:amethyst_block"
+        },
+        "description": {
+            "identifier": "minecraft:budding_amethyst"
+        }
+    }
+}

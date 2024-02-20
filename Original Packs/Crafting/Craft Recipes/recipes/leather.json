@@ -1,0 +1,16 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "minecraft:leather"
+		},
+		"tags": [
+			"furnace",
+			"blast_furnace",
+			"smoker"
+		],
+		"input": "minecraft:rotten_flesh",
+		"output": "minecraft:leather"
+	}
+}

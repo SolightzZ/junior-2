@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:warped_nylium_x_warped_roots"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AA",
+      "BB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:warped_roots",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:netherrack",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:warped_nylium",
+      "data": 0,
+      "count": 2
+    }
+  }
+}

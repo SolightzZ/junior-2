@@ -1,0 +1,52 @@
+//bridge-file-version: #12
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "polish:craft_slimeball"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:sugar"
+			},
+			{
+				"item": "minecraft:potion",
+				"data": 0
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 2
+			},
+			{
+				"item": "minecraft:sugar"
+			},
+			{
+				"item": "minecraft:sugar"
+			},
+			{
+				"item": "minecraft:sugar"
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 2
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 2
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 2
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:slime_ball",
+				"count": 1
+			}
+		]
+	}
+}

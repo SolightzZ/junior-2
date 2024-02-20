@@ -1,0 +1,29 @@
+//bridge-file-version: #20
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:cut_red_sandstone_slab_to_cut_red_sandstone_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:stone_slab4",
+				"data": 4
+			}
+		},
+		"pattern": [
+			"#",
+			"#"
+		],
+		"result": [
+			{
+				"item": "minecraft:red_sandstone",
+				"data": 2,
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,29 @@
+//bridge-file-version: #21
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:mossy_stone_brick_slab_to_mossy_stone_brick_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:stone_slab4",
+				"data": 0
+			}
+		},
+		"pattern": [
+			"#",
+			"#"
+		],
+		"result": [
+			{
+				"item": "minecraft:stonebrick",
+				"data": 1,
+				"count": 1
+			}
+		]
+	}
+}

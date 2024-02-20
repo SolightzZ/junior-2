@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_a2887173"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B",
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:blaze_powder",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:blaze_rod",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

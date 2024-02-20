@@ -1,0 +1,25 @@
+{
+    "format_version": {},
+    "minecraft:recipe_shapeless": {
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:dirt",
+                "data": 0
+            },
+            {
+                "item": "minecraft:dye",
+                "data": 15
+            }
+        ],
+        "result": {
+            "item": "minecraft:dirt_with_roots",
+            "count": 1
+        },
+        "description": {
+            "identifier": "minecraft:dirt_with_roots"
+        }
+    }
+}

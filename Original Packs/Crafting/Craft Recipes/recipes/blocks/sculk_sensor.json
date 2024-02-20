@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:sculk_sensor"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "FEF",
+      "ABD",
+      "FCF"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:observer"
+      },
+      "B": {
+        "item": "minecraft:kelp"
+      },
+      "C": {
+        "item": "minecraft:grass"
+      },
+      "D": {
+        "item": "minecraft:tripwire_hook"
+      },
+      "E": {
+        "item": "minecraft:daylight_detector"
+      },
+      "F": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "minecraft:sculk_sensor",
+      "count": 3
+    }
+  }
+}

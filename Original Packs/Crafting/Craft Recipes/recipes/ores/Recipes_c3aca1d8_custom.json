@@ -1,0 +1,19 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "tags": [
+      "furnace"
+    ],
+    "output": {
+      "item": "minecraft:iron_block",
+      "data": 0
+    },
+    "input": {
+      "item": "minecraft:anvil",
+      "data": 8
+    },
+    "description": {
+      "identifier": "recipes_a468ae2b"
+    }
+  }
+}

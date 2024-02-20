@@ -1,0 +1,31 @@
+{
+    "format_version": {},
+    "minecraft:recipe_shaped": {
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "SSS",
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:concrete_powder",
+                "data": 0
+            },
+            "S": {
+                "item": "minecraft:stone",
+                "data": 3
+            }
+        },
+        "result": {
+            "item": "minecraft:calcite",
+            "data": 0,
+            "count": 6
+        },
+        "description": {
+            "identifier": "minecraft:calcite"
+        }
+    }
+}

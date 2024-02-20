@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraft:iron_horse_armor"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:iron_ingot"
+      },
+      {
+        "item": "minecraft:horsearmorleather"
+      }
+    ],
+    "result": {
+      "item": "minecraft:horsearmoriron"
+    }
+  }
+}

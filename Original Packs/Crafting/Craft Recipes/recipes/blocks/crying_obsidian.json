@@ -1,0 +1,23 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:enchanting_table"
+            },
+            {
+                "item": "minecraft:ghast_tear"
+            }
+        ],
+        "result": {
+            "item": "minecraft:crying_obsidian",
+            "count": 1
+        },
+        "description": {
+            "identifier": "crafting:recipe"
+        }
+    }
+}

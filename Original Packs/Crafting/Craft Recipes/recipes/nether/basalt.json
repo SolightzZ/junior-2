@@ -1,0 +1,41 @@
+{
+"format_version": "1.12",
+"minecraft:recipe_shaped": {
+  "description": {
+    "identifier": "minecraft:basalt"
+  },
+"tags": [ "crafting_table" ],
+"pattern": [
+        "X",
+        "Y",
+        "Z"],
+  "key": {
+    "X": {
+      "item": "minecraft:packed_ice"
+    },
+    "Y": {
+      "item": "minecraft:bucket",
+      "data": 10
+    },
+    "Z": {
+      "item": "minecraft:soul_soil_block"
+    }
+  },
+    "result": [
+      {
+        "item": "minecraft:basalt_block",
+        "count": 8
+      },
+      {
+        "item": "minecraft:packed_ice"
+      },
+      {
+        "item": "minecraft:bucket",
+        "data": 0
+      },
+      {
+        "item": "minecraft:soul_soil_block"
+      }
+    ]
+  }
+}

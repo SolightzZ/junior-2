@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "minecraf:glow_lichen"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:vine"
+      },
+      {
+        "item": "minecraft:glow_ink_sac"
+      }
+    ],
+    "result": {
+      "item": "minecraft:glow_lichen"
+    }
+  }
+}

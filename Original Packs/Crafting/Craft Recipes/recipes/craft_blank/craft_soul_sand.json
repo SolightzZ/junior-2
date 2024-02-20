@@ -1,0 +1,47 @@
+//bridge-file-version: #7
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "polish:craft_soul_sand"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:bone"
+			},
+			{
+				"item": "minecraft:bone"
+			},
+			{
+				"item": "minecraft:bone"
+			},
+			{
+				"item": "minecraft:bone"
+			},
+			{
+				"item": "minecraft:blaze_powder"
+			},
+			{
+				"item": "minecraft:netherrack"
+			},
+			{
+				"item": "minecraft:netherrack"
+			},
+			{
+				"item": "minecraft:netherrack"
+			},
+			{
+				"item": "minecraft:netherrack"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:soul_sand",
+				"count": 4
+			}
+		]
+	}
+}

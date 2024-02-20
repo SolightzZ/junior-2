@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:ender_chest_mb"},"ingredients":[{"data":0,"item":"ender_chest"}],"result":{"count":2,"item":"fxnt:ender_chest_mb"},"tags":["stonecutter"]}}

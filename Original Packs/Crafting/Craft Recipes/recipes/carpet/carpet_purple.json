@@ -1,0 +1,49 @@
+//bridge-file-version: #15
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"tags": [
+			"crafting_table"
+		],
+		"description": {
+			"identifier": "polish:carpet_purple_dye"
+		},
+		"ingredients": [
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 5
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:carpet",
+				"data": 10,
+				"count": 8
+			}
+		]
+	}
+}

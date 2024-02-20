@@ -1,0 +1,91 @@
+resourcePack.subpackResolution=%s
+toggle.quickloot=Quick Loot
+options.maxFramerate=FPS
+options.guiScale.optionName=GUI Scale
+accessibility.chat.howtoopen= Welcome to Sleelplite Junior Chapter 1§r 
+options.renderDistanceRecommendedFormat=%s chunks
+
+chat.type.sleeping= §r%s §6Went to bed. Sweet Dreams.
+
+multiplayer.player.joined=§7[§r§7] %s §ejoined the 
+multiplayer.player.left=§7[§r§7] %s §eleft the 
+
+// Egg items
+item.spawn_egg.entity.extra_chests:chest_drop.name=§rExtra chests Egg
+
+item.elytra.name=§dElytra§f
+item.netherStar.name=§dNether Star§f
+item.diamond.name=Diamond
+
+item.rotten_flesh.name=RottenFlesh
+item.ghast_tear.name=GhastTear
+
+pauseScreen.back=§7[§r§7] Resume Sever
+pauseScreen.currentWorld=Current Worl
+pauseScreen.header=Game Menu
+pauseScreen.options=Options (§k!!!§r§f)
+pauseScreen.quit=§7[§r§7] §cQuit Exit Server
+pauseScreen.secondaryClientLeave=§7[§r§7] §cQuit Exit Server
+pauseScreen.feed=Feed
+pauseScreen.invite=§7[§r§7] Invite 
+pauseScreen.ipAddress=IP: %1
+pauseScreen.error.noIpAddress=No IP found
+pauseScreen.error.noPort=No Port found
+pauseScreen.title=Game Paused
+pauseScreen.betaFeedback=Beta Feedback
+pauseScreen.xboxLiveDisconnect=Oops! Your Microsoft Account was disconnected. To invite more players, sign in on the Main Menu and restart your world.
+pauseScreen.joinCode.Label=JOIN CODE
+pauseScreen.joinCode.Icon=%3 join code icon, %1 of %2	# Example: Apple join code icon, 2 of 5
+
+permissions.operator=Admin 
+permissions.member=support
+permissions.visitor=joined
+
+tile.bed.noSleep=§7[§r§7] sleep only at night 
+tile.bed.notSafe=§7[§r§7] §cMonsters are nearby the player.
+tile.bed.notValid=
+tile.bed.occupied=
+tile.bed.respawnSet=§7[§r§7] Spawn point saved
+tile.bed.tooFar=
+tile.bed.obstructed=
+tile.bedrock.name=§aBedrock
+
+trial.upsell.trialLabel= 
+trial.upsell.title= 
+trial.upsell.description=  
+trial.upsell.description.updated= 
+trial.upsell.description.worldsDontTransferToFullGame.line1= 
+trial.upsell.description.worldsDontTransferToFullGame.line2=  
+trial.upsell.unlock=  
+trial.upsell.startTrial=  
+trial.upsell.continueTrial= 
+
+content.import.failed=Failed to import '%s'
+content.import.failed.subtitle=See output log for more details
+content.import.failed.subtitle_duplicate=Duplicate pack detected
+content.import.failed.subtitle_malformed_zip=Not a valid zip archive
+content.import.failed.subtitle_premiumcontent=Content in this world is not supported by Minecraft: Education Edition.
+content.import.failed.title_premiumcontent=Content Not Supported
+content.import.succeeded=Successfully imported '%s'
+content.import.succeeded_with_warnings=Successfully imported '%s' with warnings
+content.import.succeeded_with_warnings.subtitle=Click here for more info
+content.import.started=§l§bSever started...
+
+menu.returnToGame=Resume Sever
+
+entity.add:floating_text.name=Floating text - §dspecial§f
+entity.add:floating_text.name=Floating text - §dspecial§f
+item.spawn_egg.entity.add:floating_text.name=Floating text - §dspecial§f
+
+//block//
+tile.add:sleep.name=sleeplite Block - §dspecial§f
+tile.add:uss.name=Universe Survival Block - §dspecial§f
+tile.add:mw.name=MyWorld Block - §dspecial§f
+tile.add:mon.name=§bBlock of Diamonds
+
+action.hint.exit.chest_minecart=press shift to exit - §dspecial§f
+action.hint.exit.hopper_minecart=press shift to exit - §dspecial§f
+action.hint.exit.ravager=press shift to exit  - §dspecial§f
+action.interact.ride.player=Mount - §dspecial§f
+action.hint.exit.player=Jump or sneak to dismount - §dspecial§f
+

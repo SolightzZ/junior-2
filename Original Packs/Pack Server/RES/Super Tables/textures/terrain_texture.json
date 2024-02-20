@@ -1,0 +1,34 @@
+//bridge-file-version: #2
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+	"texture_data": {
+		"cooking_table_front": {
+			"textures": [
+				"textures/blocks/cooking_table_front"
+			]
+		},
+		"cooking_table_top": {
+			"textures": [
+				"textures/blocks/cooking_table_top"
+			]
+		},
+		"cooking_table_side_1": {
+			"textures": [
+				"textures/blocks/cooking_table_side1"
+			]
+		},
+		"cooking_table_side_2": {
+			"textures": [
+				"textures/blocks/cooking_table_side2"
+			]
+		},
+		"cooking_table_bottom": {
+			"textures": [
+				"textures/blocks/cooking_table_bottom"
+			]
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_ab946fc4"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:crimson_fence",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:crimson_planks",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

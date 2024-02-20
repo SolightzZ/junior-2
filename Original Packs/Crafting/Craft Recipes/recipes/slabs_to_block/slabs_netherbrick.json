@@ -1,0 +1,27 @@
+//bridge-file-version: #15
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:slabs_netherbrick"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:double_stone_slab",
+				"data": 7
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:nether_brick",
+				"data": 0
+			}
+		]
+	}
+}

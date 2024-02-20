@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:honeycomb_block_mb"},"ingredients":[{"data":0,"item":"honeycomb_block"}],"result":{"count":2,"item":"fxnt:honeycomb_block_mb"},"tags":["stonecutter"]}}

@@ -1,0 +1,28 @@
+//bridge-file-version: #21
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:mossy_cobblestone_slab_to_mossy_cobblestone_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:stone_slab2",
+				"data": 5
+			}
+		},
+		"pattern": [
+			"#",
+			"#"
+		],
+		"result": [
+			{
+				"item": "minecraft:mossy_cobblestone",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "minecraft:furnace_detector_rail"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "minecraft:detector_rail",
+    "output": "minecraft:iron_ingot"
+  }
+}

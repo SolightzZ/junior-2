@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:bookshelf_mb"},"ingredients":[{"data":0,"item":"bookshelf"}],"result":{"count":2,"item":"fxnt:bookshelf_mb"},"tags":["stonecutter"]}}

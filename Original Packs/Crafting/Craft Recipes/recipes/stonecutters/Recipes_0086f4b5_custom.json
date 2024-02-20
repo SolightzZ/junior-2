@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_62f17fcd"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "item": "minecraft:planks",
+        "data": 2
+      }
+    ],
+    "result": {
+      "item": "minecraft:birch_stairs",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

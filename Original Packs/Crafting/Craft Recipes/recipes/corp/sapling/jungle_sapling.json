@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:jungle_sapling"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#",
+      "*"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:leaves",
+        "data": 3
+      },
+      "*": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": {
+        "item": "minecraft:sapling",
+        "data": 3
+    }
+  }
+}

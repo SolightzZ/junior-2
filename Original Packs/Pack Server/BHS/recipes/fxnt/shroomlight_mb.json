@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:shroomlight_mb"},"ingredients":[{"data":0,"item":"shroomlight"}],"result":{"count":2,"item":"fxnt:shroomlight_mb"},"tags":["stonecutter"]}}
