@@ -48,8 +48,7 @@
 ### Multiplayer player joined New
 ### Multiplayer player left New
 ### Chat type sleeping New
-### tile.bed.noSleep=§7[§r§7] sleep only at night 
-### tile.bed.notSafe=§7[§r§7] §cMonsters are nearby the player.
-### tile.bed.respawnSet=§7[§r§7] Spawn point saved
-
+### Tile bed noSleep New
+### Tile bed notSafe New
+### Tile bed respawnSet New
 
