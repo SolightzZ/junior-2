@@ -1,7 +1,5 @@
 
-<center>
-<a href="https://github.com/SolightzZ/junior-2/blob/main/Img%20Title/title.png"></a>
-</center>
+ ![](https://media.discordapp.net/attachments/1084301111177007155/1154383489836253246/All_sleepLite_JR.2png.png?width=1440&height=602)
 
 <br>
 
