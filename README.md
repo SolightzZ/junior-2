@@ -18,7 +18,7 @@
 ### Item magnet
 ### Head Players
 ### Cooked Axolotl
-### ข้าวเหนียวหมูปิ้ง
+### Grilled Pork with Sticky rice [ ข้าวเหนียวหมูปิ้ง ]
 ### New Cooked
 ### Deathnerite 
 ### Copper Armor and tool
