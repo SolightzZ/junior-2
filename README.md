@@ -3,7 +3,6 @@
 <br>
 
 ## Addon packs
-### Crafting
 ### Dual Rider
 ### Pack Servers
 ### Server chat to Discord
@@ -14,15 +13,35 @@
 <br>
 
 ## New Addons
-
 ### Diamond 1 ore
 ### Item magnet
 ### Head Players
 ### Cooked Axolotl
 ### Grilled Pork with Sticky rice [ ข้าวเหนียวหมูปิ้ง ]
-### New Cooked
+### New Food
 ### Deathnerite 
 ### Copper Armor and tool
+
+<br>
+
+### Buff Mod
+### Elder Guardian 
+### Wither 
+### Ender Dragon  [ Not Explosions Damage]
+### enderman [Boss Bar]
+### husk [Boss Bar]
+### skeleton [Boss Bar]
+### spider [Boss Bar]
+### stray [Boss Bar]
+### warden [Boss Bar]
+### wither_skeleton [Boss Bar]
+### zombie [Boss Bar]
+
+<br>
+
+## Craft Recipes
+###
+
 
 <br>
 
