@@ -1,26 +1,25 @@
 # Sleeplite Junior Season II
 
 ## Addon packs
-
-### Armor stand Model
-### Copper Armor and to
 ### Crafting
-### Deathnerite
 ### Dual Rider
 ### Pack Servers
-### Item magnet
 ### Server chat to Discord
 ### Super Tables
 
-
 ## New Addons
-
-###
-
-
+### Death count
+### Playtime
+### Diamond 1 ore
+### Item magnet
+### Head Players
+### Cooked Axolotl
+### ข้าวเหนียวหมูปิ้ง
+### New Cooked
+### Deathnerite 
+### Copper Armor and tool
 
 ## Resource packs
-
 ### Custom NPC
 ### Clear ? 
 ### Emoji Font
@@ -35,6 +34,7 @@
 ### New Panorama Server
 ### Clear gameover
 ### Chat tweaks on Server
+### Armor stand Model
 
 ## Txts
 
