@@ -8,12 +8,13 @@
 ### Pack Servers
 ### Server chat to Discord
 ### Super Tables
+### Death count
+### Playtime
 
 <br>
 
 ## New Addons
-### Death count
-### Playtime
+
 ### Diamond 1 ore
 ### Item magnet
 ### Head Players
