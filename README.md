@@ -1,11 +1,15 @@
 # Sleeplite Junior Season II
 
+<br>
+
 ## Addon packs
 ### Crafting
 ### Dual Rider
 ### Pack Servers
 ### Server chat to Discord
 ### Super Tables
+
+<br>
 
 ## New Addons
 ### Death count
@@ -18,6 +22,8 @@
 ### New Cooked
 ### Deathnerite 
 ### Copper Armor and tool
+
+<br>
 
 ## Resource packs
 ### Custom NPC
@@ -36,8 +42,9 @@
 ### Chat tweaks on Server
 ### Armor stand Model
 
-## Txts
+<br>
 
+## Txts
 ### Multiplayer player joined New
 ### Multiplayer player left New
 ### Chat type sleeping New
