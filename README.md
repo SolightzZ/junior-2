@@ -2,7 +2,7 @@
 
 <br>
 
-## Addon packs
+# Addon packs
 ### Dual Rider
 ### Pack Servers
 ### Server chat to Discord
@@ -12,7 +12,7 @@
 
 <br>
 
-## New Addons
+# New Addons
 ### Diamond 1 ore
 ### Item magnet
 ### Head Players
@@ -24,7 +24,7 @@
 
 <br>
 
-### Buff Mod
+# Buff Mod
 ### Elder Guardian 
 ### Wither 
 ### Ender Dragon  [ Not Explosions Damage]
@@ -39,13 +39,13 @@
 
 <br>
 
-## Craft Recipes
+# Craft Recipes
 ###
 
 
 <br>
 
-## Resource packs
+# Resource packs
 ### Custom NPC
 ### Clear ? 
 ### Emoji Font
@@ -64,7 +64,7 @@
 
 <br>
 
-## Txts
+# Txts
 ### Multiplayer player joined New
 ### Multiplayer player left New
 ### Chat type sleeping New
