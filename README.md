@@ -35,14 +35,14 @@
 # Mod Batter
 ### Elder Guardian 	[ Health 80 < 120 ]
 ### Wither 		[ Health 600 < 800 ]
-### 
+### -----------------
 ### Ender Dragon  	
 ### Health 200 < 600 
 ### Flying speed 0.7 < 1
 ### Attack 4 < 5
 ### Movement 0.4 < 0.5
 ### Not Explosions Damage
-### 
+### -----------------
 ### enderman 	[Boss Bar]
 ### husk 	[Boss Bar]
 ### skeleton 	[Boss Bar]
