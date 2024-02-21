@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_planks_mangrove_x_slabs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:mangrove_slab"
+      }
+    },
+    "result": {
+      "item": "minecraft:mangrove_planks",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "eggfood:cooking_table",
+			"properties": {
+				"facing:direction": [
+					2,
+					3,
+					4,
+					5
+				]
+			}
+		},
+		"components": {
+			"minecraft:unit_cube": {},
+			"minecraft:crafting_table": {
+				"grid_size": 3,
+				"crafting_tags": [
+					"multiplying_crafting_table"
+				],
+				"custom_description": "Super Crafting table"
+			},
+			"minecraft:map_color": "#B48C4F",
+			"minecraft:material_instances": {
+				"north": {
+					"render_method": "opaque",
+					"texture": "cooking_table_side_1"
+				},
+				"south": {
+					"texture": "cooking_table_front",
+					"render_method": "opaque"
+				},
+				"east": {
+					"texture": "cooking_table_side_2",
+					"render_method": "opaque"
+				},
+				"west": {
+					"texture": "cooking_table_side_2",
+					"render_method": "opaque"
+				},
+				"up": {
+					"render_method": "opaque",
+					"texture": "cooking_table_top"
+				},
+				"down": {
+					"render_method": "opaque",
+					"texture": "cooking_table_bottom"
+				}
+			},
+			"minecraft:destroy_time": 0.5,
+			"minecraft:block_light_emission": 0,
+			"minecraft:block_light_absorption": 1,
+			"minecraft:explosion_resistance": 8,
+			"minecraft:on_player_placing": {
+				"event": "statement_state"
+			},
+			"minecraft:display_name": "cooking_table",
+			"minecraft:creative_category": {
+				"category": "items",
+				"group": "itemGroup.name.items"
+			}
+		},
+		"events": {
+			"statement_state": {
+				"set_block_property": {
+					"facing:direction": "(query.cardinal_facing_2d)"
+				}
+			}
+		},
+		"permutations": [
+			{
+				"condition": "query.block_property('facing:direction') == 2",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						0,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('facing:direction') == 3",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						180,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('facing:direction') == 4",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						90,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('facing:direction') == 5",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						270,
+						0
+					]
+				}
+			}
+		]
+	}
+}

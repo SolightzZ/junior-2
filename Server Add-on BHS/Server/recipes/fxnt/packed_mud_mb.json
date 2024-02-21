@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:packed_mud_mb"},"ingredients":[{"data":0,"item":"packed_mud"}],"result":{"count":2,"item":"fxnt:packed_mud_mb"},"tags":["stonecutter"]}}

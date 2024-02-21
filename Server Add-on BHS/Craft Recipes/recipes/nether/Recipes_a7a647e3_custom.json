@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_312404bb"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:log",
+        "data": 2
+      }
+    },
+    "result": {
+      "item": "minecraft:stick",
+      "count": 16,
+      "data": 0
+    }
+  }
+}

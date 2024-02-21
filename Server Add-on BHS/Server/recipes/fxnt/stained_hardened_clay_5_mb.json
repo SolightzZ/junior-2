@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:stained_hardened_clay_5_mb"},"ingredients":[{"data":5,"item":"stained_hardened_clay"}],"result":{"count":2,"item":"fxnt:stained_hardened_clay_5_mb"},"tags":["stonecutter"]}}

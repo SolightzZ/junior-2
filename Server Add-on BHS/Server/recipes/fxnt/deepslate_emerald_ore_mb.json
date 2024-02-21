@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:deepslate_emerald_ore_mb"},"ingredients":[{"data":0,"item":"deepslate_emerald_ore"}],"result":{"count":2,"item":"fxnt:deepslate_emerald_ore_mb"},"tags":["stonecutter"]}}

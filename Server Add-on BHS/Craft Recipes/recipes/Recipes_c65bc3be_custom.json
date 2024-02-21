@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_0474bc2b"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:lightning_rod",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:copper_ingot",
+      "count": 3,
+      "data": 0
+    }
+  }
+}

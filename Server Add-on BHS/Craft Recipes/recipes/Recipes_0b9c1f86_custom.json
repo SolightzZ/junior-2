@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_f481962b"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:frame",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:leather",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

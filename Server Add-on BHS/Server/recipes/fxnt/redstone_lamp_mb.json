@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:redstone_lamp_mb"},"ingredients":[{"data":0,"item":"redstone_lamp"}],"result":{"count":2,"item":"fxnt:redstone_lamp_mb"},"tags":["stonecutter"]}}

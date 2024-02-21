@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:bucket_of_salmon"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:salmon"
+      },
+      "B": {
+        "item": "minecraft:bucket",
+        "data": 8
+      }
+    },
+    "result": {
+        "item": "minecraft:bucket",
+        "data": 3
+      }
+    }
+  }
+}

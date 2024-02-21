@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:undyed_shulker_box_mb"},"ingredients":[{"data":0,"item":"undyed_shulker_box"}],"result":{"count":2,"item":"fxnt:undyed_shulker_box_mb"},"tags":["stonecutter"]}}

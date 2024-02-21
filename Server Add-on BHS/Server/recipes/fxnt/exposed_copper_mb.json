@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:exposed_copper_mb"},"ingredients":[{"data":0,"item":"exposed_copper"}],"result":{"count":2,"item":"fxnt:exposed_copper_mb"},"tags":["stonecutter"]}}

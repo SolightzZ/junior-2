@@ -1,0 +1,24 @@
+//bridge-file-version: #14
+{
+	"format_version": 1.16,
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:dark_oak_trapdoor_to_dark_oak_plank"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:dark_oak_trapdoor"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:planks",
+				"data": 5,
+				"count": 3
+			}
+		]
+	}
+}

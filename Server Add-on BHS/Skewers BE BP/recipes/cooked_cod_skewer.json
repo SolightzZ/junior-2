@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "cooked_cod_skewer"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:cooked_cod"
+      },
+      "B": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": [
+      {
+        "item": "skw:cooked_cod_skewer"
+      }
+    ]
+  }
+}

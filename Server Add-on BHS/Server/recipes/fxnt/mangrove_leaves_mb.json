@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:mangrove_leaves_mb"},"ingredients":[{"data":0,"item":"mangrove_leaves"}],"result":{"count":2,"item":"fxnt:mangrove_leaves_mb"},"tags":["stonecutter"]}}

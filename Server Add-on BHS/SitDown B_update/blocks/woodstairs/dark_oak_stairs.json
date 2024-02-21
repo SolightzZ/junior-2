@@ -1,0 +1,159 @@
+
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+			"identifier": "nba:dark_oak_stairs",
+			"category": "items",
+			"properties": {
+				"nba:face": [
+					0,
+					1,
+					2,
+					3
+				]
+			}
+		},
+		"components": {
+			"minecraft:destroy_time": 1,
+			"minecraft:explosion_resistance": 2.5,
+			"minecraft:map_color": "#8F7748",
+			"minecraft:breathability": "air",
+			"minecraft:flammable": {
+				"flame_odds": 30,
+				"burn_odds": 30
+			},
+			"minecraft:block_light_absorption": 0,
+			"minecraft:geometry": "geometry.stairs2",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "dark_oak_stairs",
+					"render_method": "opaque"
+				}
+			},
+			"minecraft:on_player_placing": {
+				"event": "nba:face"
+			},
+			"minecraft:on_interact": {
+				"condition": "!query.is_sneaking",
+				"event": "sit"
+			},
+			"minecraft:ticking": {
+				"looping": false,
+				"range": [
+					0,
+					0
+				],
+				"on_tick": {
+					"event": "nba:sit"
+				}
+			},
+			"minecraft:loot": "loot_tables/blocks/dark_oak_stairs.json"
+		},
+		"permutations": [
+			{
+				"condition": "query.block_property('nba:face') == 0",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						180,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('nba:face') == 1",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						0,
+						0
+					],
+					"minecraft:geometry": "geometry.stairs4"
+				}
+			},
+			{
+				"condition": "query.block_property('nba:face') == 2",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						270,
+						0
+					],
+					"minecraft:geometry": "geometry.stairs3"
+				}
+			},
+			{
+				"condition": "query.block_property('nba:face') == 3",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						90,
+						0
+					],
+					"minecraft:geometry": "geometry.stairs"
+				}
+			}
+		],
+		"events": {
+			"nba:sit": {
+				"sequence": [
+					{
+						"condition": "query.block_property('nba:face') == 0",
+						"run_command": {
+							"command": "summon nba:stairs_sit"
+						}
+					},
+					{
+						"condition": "query.block_property('nba:face') == 1",
+						"run_command": {
+							"command": [
+								"summon nba:stairs_sit ~ ~ ~ facing_south"
+							]
+						}
+					},
+					{
+						"condition": "query.block_property('nba:face') == 2",
+						"run_command": {
+							"command": [
+								"summon nba:stairs_sit ~ ~ ~ facing_west"
+							]
+						}
+					},
+					{
+						"condition": "query.block_property('nba:face') == 3",
+						"run_command": {
+							"command": [
+								"summon nba:stairs_sit ~ ~ ~ facing_east"
+							]
+						}
+					}
+				]
+			},
+			"sit": {
+				"sequence": [
+					{
+						"run_command": {
+							"command": [
+								"tag @s add player_chair_interact"
+							],
+							"target": "other"
+						}
+					},
+					{
+						"run_command": {
+							"command": [
+								"event entity @e[type=nba:stairs_sit,r=0.01] player_interact"
+							]
+						}
+					}
+				]
+			},
+			"nba:face": {
+				"set_block_property": {
+					"nba:face": "query.cardinal_facing_2d-2"
+				}
+			}
+		}
+	}
+}

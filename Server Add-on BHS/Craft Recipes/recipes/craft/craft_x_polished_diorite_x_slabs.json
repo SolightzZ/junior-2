@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_polished_diorite_x_slabs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "D",
+      "D"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:double_stone_slab3",
+        "data": 5
+      }
+    },
+    "result": {
+      "item": "minecraft:stone",
+      "data": 4,
+      "count": 1
+    }
+  }
+}

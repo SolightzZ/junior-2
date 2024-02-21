@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:cartography_table_mb"},"ingredients":[{"data":0,"item":"cartography_table"}],"result":{"count":2,"item":"fxnt:cartography_table_mb"},"tags":["stonecutter"]}}

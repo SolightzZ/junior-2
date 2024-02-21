@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:raw_gold_block_mb"},"ingredients":[{"data":0,"item":"raw_gold_block"}],"result":{"count":2,"item":"fxnt:raw_gold_block_mb"},"tags":["stonecutter"]}}

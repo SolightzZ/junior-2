@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_86b4fcab"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AA ",
+      "AA "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:oak_stairs",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:planks",
+      "count": 6,
+      "data": 0
+    }
+  }
+}

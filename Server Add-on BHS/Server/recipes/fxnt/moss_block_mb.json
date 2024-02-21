@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:moss_block_mb"},"ingredients":[{"data":0,"item":"moss_block"}],"result":{"count":2,"item":"fxnt:moss_block_mb"},"tags":["stonecutter"]}}

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "nicothekid:furnace_x_golden_rail"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "minecraft:golden_rail",
+      "data": 0
+    },
+    "output": {
+      "item": "minecraft:gold_nugget",
+      "data": 0,
+      "count": 2
+    }
+  }
+}

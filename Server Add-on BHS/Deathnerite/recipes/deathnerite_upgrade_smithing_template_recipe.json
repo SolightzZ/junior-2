@@ -1,0 +1,45 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "deathnerite_upgrade_smithing_template_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ABA",
+			"BCB",
+			"ABA"
+		],
+		"key": {
+			"B": {
+				"item": "minecraft:nether_wart"
+			},
+			"A": {
+				"item": "minecraft:netherite_scrap"
+			},
+			"C": {
+				"item": "minecraft:skull",
+				"data": 1
+			}
+		},
+		"unlock": [
+			{
+				"item": "minecraft:nether_wart"
+			},
+			{
+			  "item": "minecraft:netherite_scrap"
+			},
+			{
+				"item": "minecraft:skull",
+				"data": 1
+			}
+		  ],
+		"result": [
+			{
+				"item": "true:deathnerite_upgrade_smithing_template"
+			}
+		]
+	}
+}

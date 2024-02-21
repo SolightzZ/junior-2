@@ -1,0 +1,45 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "darkness_upgrade_smithing_template_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"CBC",
+			"BAB",
+			"CBC"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:echo_shard"
+			},
+			"B": {
+				"item": "minecraft:netherite_scrap"
+			},
+			"C": {
+				"item": "minecraft:skull",
+				"data": 1
+			}
+		},
+		"unlock": [
+			{
+				"item": "minecraft:echo_shard"
+			},
+			{
+			  "item": "minecraft:netherite_scrap"
+			},
+			{
+				"item": "minecraft:skull",
+				"data": 1
+			}
+		  ],
+		"result": [
+			{
+				"item": "true:darkness_upgrade_smithing_template"
+			}
+		]
+	}
+}

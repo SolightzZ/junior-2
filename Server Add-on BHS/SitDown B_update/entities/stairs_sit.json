@@ -1,0 +1,443 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "nba:stairs_sit",
+			"runtime_identifier":{},
+			"is_spawnable": false,
+			"is_summonable": true,
+			"is_experimental": false
+		},
+		"component_groups": {
+			"instant_despawn": {
+				"minecraft:instant_despawn": {}
+			}
+		},
+		"components": {
+			"minecraft:type_family": {
+				"family": [
+					"sentar",
+					"inanimate"
+				]
+			},
+			"minecraft:collision_box": {
+				"width": 0,
+				"height": 0
+			},
+			"minecraft:custom_hit_test": {
+				"hitboxes": [
+					{
+						"width": 0,
+						"height": 0,
+						"pivot": [
+							0,
+							0,
+							0
+						]
+					}
+				]
+			},
+
+			"minecraft:health": {
+				"value": 1,
+				"max": 1
+			},
+			"minecraft:fire_immune": {},
+			"minecraft:damage_sensor": {
+				"triggers": {
+					"cause": "all",
+					"deals_damage": false
+				}
+			},
+			"minecraft:rideable": {
+				"seat_count": 1,
+				"family_types": [
+					"player"
+				],
+				"seats": {
+					"position": [
+						0,
+						-0.13,
+						0.14
+					]
+
+				}
+			},
+			"minecraft:environment_sensor": {
+				"triggers": {
+					"filters": {
+						"all_of": {
+							"test": "rider_count",
+							"value": 0
+						},
+						"with_components": "minecraft:is_charged"
+					},
+					"event": "player_exit"
+				}
+			},
+			"minecraft:inside_block_notifier": {
+				"block_list": [
+					{
+						"block": "nba:stone_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:acacia_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:birch_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:crimson_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:dark_oak_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:jungle_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:mangrove_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:oak_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:spruce_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:warped_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:cobblestone_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:polished_andesite_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:andesite_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:blackstone_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:brick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:cobbled_deepslate_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:dark_prismarine_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:deepslate_tile_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:diorite_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:end_brick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:granite_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:mossy_cobblestone_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:mossy_stonebrick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:mud_brick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:nether_brick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:polished_blackstone_brick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:polished_blackstone_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:polished_deepslate_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:polished_diorite_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:polished_granite_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:prismarine_brick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:prismarine_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:purpur_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:quartz_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:red_nether_brick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:red_sandstone_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:sandstone_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:smooth_quartz_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:smooth_red_sandstone_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:smooth_sandstone_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:stonebrick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					},
+					{
+						"block": "nba:deepslate_brick_stairs",
+						"exited_block_event": {
+							"event": "block_on_break",
+							"target": "self"
+						}
+					}
+				]
+			}
+		},
+		"events": {
+			"facing_south": {
+				"run_command": {
+					"command": [
+						"tp @s ~ ~ ~ facing ~ ~ ~-1"
+					]
+				}
+			},
+			"facing_west": {
+				"run_command": {
+					"command": [
+						"tp @s ~ ~ ~ facing ~1 ~ ~"
+					]
+				}
+			},
+			"facing_east": {
+				"run_command": {
+					"command": [
+						"tp @s ~ ~ ~ facing ~-1 ~ ~"
+					]
+				}
+			},
+			"player_interact": {
+				"sequence": [
+					{
+						"filters": {
+							"test": "rider_count",
+							"value": 0
+						},
+						"run_command": {
+							"command": [
+								"ride @p[tag=player_chair_interact,r=3.5] start_riding @s teleport_rider",
+								"tag @p[tag=player_chair_interact,r=3.5] remove player_chair_interact"
+							]
+						}
+					},
+					{
+						"filters": {
+							"test": "rider_count",
+							"operator": ">",
+							"value": 0
+						},
+						"run_command": {
+							"command": [
+								"tag @p[tag=player_chair_interact,r=3.5] remove player_chair_interact"
+							]
+						}
+					},
+					{
+						"run_command": {
+							"command": [
+								"tag @p[tag=player_chair_interact,rm=3.5] remove player_chair_interact"
+							]
+						}
+					}
+				]
+			},
+			"block_on_break": {
+				"add": {
+					"component_groups": [
+						"instant_despawn"
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "raw_chicken_skewer"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:chicken"
+      },
+      "B": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": [
+      {
+        "item": "skw:raw_chicken_skewer"
+      }
+    ]
+  }
+}

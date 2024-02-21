@@ -1,0 +1,599 @@
+{
+ "namespace": "structure_editor",
+ "3d_export_button@common_buttons.light_text_button": {
+  "$pressed_button_name": "button.structure_3D_export",
+  "$button_text": "structure_block.export",
+  "bindings": [
+   {
+    "binding_name": "#3d_export_enabled",
+    "binding_name_override": "#enabled",
+    "binding_condition": "visible"
+   }
+  ]
+ },
+ "save_button@common_buttons.light_text_button": {
+  "$pressed_button_name": "button.structure_save",
+  "$button_text": "structure_block.save",
+  "bindings": [
+   {
+    "binding_name": "#save_enabled",
+    "binding_name_override": "#enabled",
+    "binding_condition": "visible"
+   }
+  ]
+ },
+ "export_button@common_buttons.light_text_button": {
+  "$pressed_button_name": "button.structure_export",
+  "$button_text": "structure_block.export",
+  "bindings": [
+   {
+    "binding_name": "#export_enabled",
+    "binding_name_override": "#enabled",
+    "binding_condition": "visible"
+   }
+  ]
+ },
+ "load_button@common_buttons.light_text_button": {
+  "$pressed_button_name": "button.structure_load",
+  "$button_text": "structure_block.load",
+  "bindings": [
+   {
+    "binding_name": "#load_enabled",
+    "binding_name_override": "#enabled",
+    "binding_condition": "visible"
+   }
+  ]
+ },
+ "detect_button@common_buttons.light_text_button": {
+  "$pressed_button_name": "button.structure_detect",
+  "$button_text": "structure_block.detect"
+ },
+ "import_button@common_buttons.light_text_button": {
+  "$pressed_button_name": "button.structure_import",
+  "$button_text": "structure_block.import",
+  "bindings": [
+   {
+    "binding_name": "#import_enabled",
+    "binding_name_override": "#enabled",
+    "binding_condition": "visible"
+   }
+  ]
+ },
+ "reset_button@common_buttons.light_text_button": {
+  "$pressed_button_name": "button.structure_reset",
+  "$button_text": "structure_block.reset"
+ },
+ "3d_export_mode_panel": {
+  "type": "stack_panel",
+  "orientation": "vertical",
+  "size": [
+   "100%",
+   "100%c"
+  ],
+  "bindings": [
+   {
+    "binding_name": "#3d_export_mode_panel_visible",
+    "binding_name_override": "#visible"
+   }
+  ],
+  "controls": [
+   {
+    "size_offset_panel": {
+     "type": "stack_panel",
+     "orientation": "horizontal",
+     "size": [
+      "100%",
+      "50%c"
+     ],
+     "controls": [
+      {
+       "size_panel@structure_editor.grid_axis_selection_panel": {
+        "size": [
+         "50%",
+         "100%c"
+        ],
+        "anchor_from": "top_left",
+        "anchor_to": "top_left",
+        "$axis_selection_panel_label": "structure_block.size",
+        "$grid_axis_collection_name": "export_size_grid",
+        "$grid_axis_edit_box_name": "#export_size_edit_box"
+       }
+      },
+      {
+       "offset_panel@structure_editor.grid_axis_selection_panel": {
+        "size": [
+         "50%",
+         "100%c"
+        ],
+        "anchor_from": "top_left",
+        "anchor_to": "top_left",
+        "$axis_selection_panel_label": "structure_block.offset",
+        "$grid_axis_collection_name": "export_offset_grid",
+        "$grid_axis_edit_box_name": "#export_offset_edit_box",
+        "$text_box_max_length": 5
+       }
+      }
+     ]
+    }
+   },
+   {
+    "offset_0": {
+     "type": "panel",
+     "size": [
+      "100%",
+      4
+     ]
+    }
+   },
+   {
+    "offset_2": {
+     "type": "panel",
+     "size": [
+      "100%",
+      4
+     ]
+    }
+   },
+   {
+    "remove_blocks@structure_editor.remove_blocks_panel": {
+
+    }
+   }
+  ]
+ },
+ "corner_mode_panel": {
+  "type": "stack_panel",
+  "orientation": "vertical",
+  "size": [
+   "100%",
+   "100%c"
+  ],
+  "bindings": [
+   {
+    "binding_name": "#corner_mode_panel_visible",
+    "binding_name_override": "#visible"
+   }
+  ],
+  "controls": [
+   {
+    "structure_name@structure_editor.structure_name_wrapper": {
+
+    }
+   }
+  ]
+ },
+ "save_button_panel": {
+  "type": "stack_panel",
+  "orientation": "horizontal",
+  "size": [
+   "100% - 34px",
+   30
+  ],
+  "anchor_from": "left_middle",
+  "anchor_to": "left_middle",
+  "controls": [
+   {
+    "divider": {
+     "type": "panel",
+     "size": [
+      "4px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "save@structure_editor.save_button": {
+     "size": [
+      "33% - 3px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "save_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "export@structure_editor.export_button": {
+     "size": [
+      "34% - 4px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "export_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "import_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "reset@structure_editor.reset_button": {
+     "size": [
+      "33% - 3px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "reset_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   }
+  ],
+  "bindings": [
+   {
+    "binding_name": "#save_visible",
+    "binding_name_override": "#visible"
+   }
+  ]
+ },
+ "load_button_panel": {
+  "type": "stack_panel",
+  "orientation": "horizontal",
+  "size": [
+   "100% - 34px",
+   30
+  ],
+  "anchor_from": "left_middle",
+  "anchor_to": "left_middle",
+  "controls": [
+   {
+    "divider": {
+     "type": "panel",
+     "size": [
+      "4px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "load@structure_editor.load_button": {
+     "size": [
+      "33% - 3px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "load_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "export_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "import@structure_editor.import_button": {
+     "size": [
+      "34% - 4px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "import_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "reset@structure_editor.reset_button": {
+     "size": [
+      "33% - 3px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "reset_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   }
+  ],
+  "bindings": [
+   {
+    "binding_name": "#load_visible",
+    "binding_name_override": "#visible"
+   }
+  ]
+ },
+ "3d_export_button_panel": {
+  "type": "stack_panel",
+  "orientation": "horizontal",
+  "size": [
+   "100% - 34px",
+   30
+  ],
+  "anchor_from": "left_middle",
+  "anchor_to": "left_middle",
+  "controls": [
+   {
+    "divider": {
+     "type": "panel",
+     "size": [
+      "4px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "3d_export@structure_editor.3d_export_button": {
+     "size": [
+      "33% - 4px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "3d_export_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "import@structure_editor.import_button": {
+     "size": [
+      "34% - 4px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "import_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "reset@structure_editor.reset_button": {
+     "size": [
+      "33% - 4px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "reset_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   }
+  ],
+  "bindings": [
+   {
+    "binding_name": "#3d_export_visible",
+    "binding_name_override": "#visible"
+   }
+  ]
+ },
+ "data_button_panel": {
+  "type": "stack_panel",
+  "orientation": "horizontal",
+  "size": [
+   "100% - 34px",
+   30
+  ],
+  "anchor_from": "left_middle",
+  "anchor_to": "left_middle",
+  "controls": [
+   {
+    "divider": {
+     "type": "panel",
+     "size": [
+      "4px",
+      " 100%"
+     ]
+    }
+   },
+   {
+    "reset@structure_editor.reset_button": {
+     "size": [
+      "100% - 6px",
+      "100%"
+     ]
+    }
+   },
+   {
+    "reset_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   }
+  ],
+  "bindings": [
+   {
+    "binding_name": "#data_mode_panel_visible",
+    "binding_name_override": "#visible"
+   }
+  ]
+ },
+ "corner_button_panel": {
+  "type": "stack_panel",
+  "orientation": "horizontal",
+  "size": [
+   "100% - 34px",
+   30
+  ],
+  "anchor_from": "left_middle",
+  "anchor_to": "left_middle",
+  "controls": [
+   {
+    "reset_divider": {
+     "type": "panel",
+     "size": [
+      "2px",
+      "100%"
+     ]
+    }
+   }
+  ],
+  "bindings": [
+   {
+    "binding_name": "#corner_mode_panel_visible",
+    "binding_name_override": "#visible"
+   }
+  ]
+ },
+ "button_panel_wrapper": {
+  "type": "image",
+  "texture": "textures/ui/recipe_back_panel",
+  "layer": 2,
+  "offset": [
+   0,
+   2
+  ],
+  "controls": [
+   {
+    "panel": {
+     "type": "panel",
+     "size": [
+      "100% - 6px",
+      "100% - 6px"
+     ],
+     "anchor_from": "center",
+     "anchor_to": "center",
+     "controls": [
+      {
+       "divider": {
+        "type": "panel",
+        "size": [
+         "4px",
+         "100%"
+        ],
+        "anchor_from": "top_left",
+        "anchor_to": "top_left"
+       }
+      },
+      {
+       "save_panel@structure_editor.save_button_panel": {
+        "layer": 3
+       }
+      },
+      {
+
+      },
+      {
+       "corner_panel@structure_editor.corner_button_panel": {
+        "layer": 3
+       }
+      },
+      {
+
+      },
+      {
+       "load_panel@structure_editor.load_button_panel": {
+        "layer": 3
+       }
+      },
+      {
+       "3d_export_panel@structure_editor.3d_export_button_panel": {
+        "layer": 3
+       }
+      },
+      {
+       "data_panel@structure_editor.data_button_panel": {
+        "layer": 3
+       }
+      },
+      {
+       "how_to_play_button@structure_editor.help_button_panel": {
+        "layer": 3
+       }
+      },
+      {
+       "end_divider": {
+        "type": "panel",
+        "size": [
+         "4px",
+         "100%"
+        ],
+        "anchor_from": "top_right",
+        "anchor_to": "top_right"
+       }
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "detect_button_wrapper": {
+  "type": "panel",
+  "size": [
+   "100%",
+   "100%c + 4px"
+  ],
+  "anchor_from": "top_left",
+  "anchor_to": "top_left",
+  "controls": [
+   {
+    "detect@structure_editor.detect_button": {
+     "size": [
+      "100% - 4px",
+      20
+     ],
+     "layer": 3
+    }
+   },
+   {
+    "detect_offset": {
+     "type": "panel",
+     "size": [
+      "100%",
+      2
+     ]
+    }
+   }
+  ]
+ }
+}

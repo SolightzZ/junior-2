@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:birch_slab_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:birch_slab"
+			}
+		},
+		"result": {
+			"item": "minecraft:wooden_slab",
+				"data": 2
+			,
+			"count": 1
+		}
+	}
+}

@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:copper_block_mb"},"ingredients":[{"data":0,"item":"copper_block"}],"result":{"count":2,"item":"fxnt:copper_block_mb"},"tags":["stonecutter"]}}

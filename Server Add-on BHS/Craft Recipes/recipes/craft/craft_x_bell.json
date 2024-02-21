@@ -1,0 +1,38 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_bell"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "BCB",
+      "AAA",
+      "ADA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:gold_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:stone",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:wooden_slab"
+      },
+      "D": {
+        "item": "minecraft:diamond",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:bell",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

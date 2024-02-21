@@ -1,0 +1,27 @@
+//bridge-file-version: #18
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:blackstone_slab_to_blackstone_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:blackstone_slab"
+			}
+		},
+		"pattern": [
+			"#",
+			"#"
+		],
+		"result": [
+			{
+				"item": "minecraft:blackstone",
+				"count": 1
+			}
+		]
+	}
+}

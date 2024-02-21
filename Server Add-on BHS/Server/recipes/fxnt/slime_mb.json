@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:slime_mb"},"ingredients":[{"data":0,"item":"slime"}],"result":{"count":2,"item":"fxnt:slime_mb"},"tags":["stonecutter"]}}

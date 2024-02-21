@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "nicothekid:stonecut_x_mossy_cobblestone_stairs_x_mossy_cobblestone_slab"
+    },
+    "priority": 4,
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:mossy_cobblestone_stairs",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:double_stone_slab2",
+      "data": 5,
+      "count": 1
+    }
+  }
+}

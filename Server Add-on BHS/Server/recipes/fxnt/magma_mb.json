@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:magma_mb"},"ingredients":[{"data":0,"item":"magma"}],"result":{"count":2,"item":"fxnt:magma_mb"},"tags":["stonecutter"]}}

@@ -1,0 +1,37 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "",
+        "name": "Items Magnets§r ",
+        "uuid": "b4d781dc-30cb-4dc9-8c08-1835f88d34ca",
+        "version": [
+            1,
+            1,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            19,
+            20
+        ]
+    },
+    "metadata": {
+        "authors": [
+            "legopitstop"
+        ],
+        "license": "Legopitstop's Common License",
+        "url": "https://legopitstop.weebly.com"
+    },
+    "modules": [
+        {
+            "description": "Easly pickup items from far away! §8Pack by: §6Legopitstop",
+            "type": "resources",
+            "uuid": "e7c093ec-fe51-469f-81a9-6b97bb13277c",
+            "version": [
+                1,
+                1,
+                0
+            ]
+        }
+    ]
+}

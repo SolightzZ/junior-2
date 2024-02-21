@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:honey_block1"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#",
+      "*"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:honey_bottle"
+      },
+      "*": {
+        "item": "minecraft:slime"
+      }
+    },
+    "result": [
+      {
+        "item": "minecraft:honey_block"
+      },
+      {
+        "item": "minecraft:glass_bottle"
+      }
+    ]
+  }
+}

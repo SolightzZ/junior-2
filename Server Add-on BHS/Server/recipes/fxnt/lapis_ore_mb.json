@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:lapis_ore_mb"},"ingredients":[{"data":0,"item":"lapis_ore"}],"result":{"count":2,"item":"fxnt:lapis_ore_mb"},"tags":["stonecutter"]}}

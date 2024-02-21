@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "raw_veggie_skewer"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:carrot"
+      },
+      "B": {
+        "item": "minecraft:potato"
+      },
+      "C": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": [
+      {
+        "item": "skw:raw_veggie_skewer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+{"format_version":"1.12","minecraft:recipe_shapeless":{"description":{"identifier":"fxnt:nether_brick_mb"},"ingredients":[{"data":0,"item":"nether_brick"}],"result":{"count":2,"item":"fxnt:nether_brick_mb"},"tags":["stonecutter"]}}

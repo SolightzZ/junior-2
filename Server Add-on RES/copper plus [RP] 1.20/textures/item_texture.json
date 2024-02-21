@@ -1,0 +1,309 @@
+{
+	"resource_pack_name": "bridgeRP",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"copper_boots": {
+			"textures": [
+				"textures/items/copper_boots"
+			]
+		},
+		"copper_leggings": {
+			"textures": [
+				"textures/items/copper_leggings"
+			]
+		},
+		"copper_chestplate": {
+			"textures": [
+				"textures/items/copper_chestplate"
+			]
+		},
+		"copper_helmet": {
+			"textures": [
+				"textures/items/copper_helmet"
+			]
+		},
+		//copper_sword
+		"copper_sword": {
+			"textures": [
+				"textures/items/copper_sword"
+			]
+		},
+		"exposed_copper_sword": {
+			"textures": [
+				"textures/items/tools/copper_sword/1"
+			]
+		},
+		"weathered_copper_sword": {
+			"textures": [
+				"textures/items/tools/copper_sword/2"
+			]
+		},
+		"oxidized_copper_sword": {
+			"textures": [
+				"textures/items/tools/copper_sword/3"
+			]
+		},
+		//copper axe
+		"copper_axe": {
+			"textures": [
+				"textures/items/copper_axe"
+			]
+		},
+		"exposed_copper_axe": {
+			"textures": [
+				"textures/items/tools/copper_axe/1"
+			]
+		},
+		"weathered_copper_axe": {
+			"textures": [
+				"textures/items/tools/copper_axe/2"
+			]
+		},
+		"oxidized_copper_axe": {
+			"textures": [
+				"textures/items/tools/copper_axe/3"
+			]
+		},
+		//copper hoe
+		"copper_hoe": {
+			"textures": [
+				"textures/items/copper_hoe"
+			]
+		},
+		"exposed_copper_hoe": {
+			"textures": [
+				"textures/items/tools/copper_hoe/1"
+			]
+		},
+		"weathered_copper_hoe": {
+			"textures": [
+				"textures/items/tools/copper_hoe/2"
+			]
+		},
+		"oxidized_copper_hoe": {
+			"textures": [
+				"textures/items/tools/copper_hoe/3"
+			]
+		},
+		//copper_pickaxe
+		"copper_pickaxe": {
+			"textures": [
+				"textures/items/copper_pickaxe"
+			]
+		},
+		"exposed_copper_pickaxe": {
+			"textures": [
+				"textures/items/tools/copper_pickaxe/1"
+			]
+		},
+		"weathered_copper_pickaxe": {
+			"textures": [
+				"textures/items/tools/copper_pickaxe/2"
+			]
+		},
+		"oxidized_copper_pickaxe": {
+			"textures": [
+				"textures/items/tools/copper_pickaxe/3"
+			]
+		},
+		//copper_shovel
+		"copper_shovel": {
+			"textures": [
+				"textures/items/copper_shovel"
+			]
+		},
+		"exposed_copper_shovel": {
+			"textures": [
+				"textures/items/tools/copper_shovel/1"
+			]
+		},
+		"weathered_copper_shovel": {
+			"textures": [
+				"textures/items/tools/copper_shovel/2"
+			]
+		},
+		"oxidized_copper_shovel": {
+			"textures": [
+				"textures/items/tools/copper_shovel/3"
+			]
+		},
+
+		"rose_gold_axe": {
+			"textures": [
+				"textures/items/rose_gold_axe"
+			]
+		},
+		"rose_gold_boots": {
+			"textures": [
+				"textures/items/rose_gold_boots"
+			]
+		},
+		"rose_gold_leggings": {
+			"textures": [
+				"textures/items/rose_gold_leggings"
+			]
+		},
+		"rose_gold_chestplate": {
+			"textures": [
+				"textures/items/rose_gold_chestplate"
+			]
+		},
+		"rose_gold_helmet": {
+			"textures": [
+				"textures/items/rose_gold_helmet"
+			]
+		},
+		"rose_gold_hoe": {
+			"textures": [
+				"textures/items/rose_gold_hoe"
+			]
+		},
+		"rose_gold_pickaxe": {
+			"textures": [
+				"textures/items/rose_gold_pickaxe"
+			]
+		},
+		"rose_gold_shovel": {
+			"textures": [
+				"textures/items/rose_gold_shovel"
+			]
+		},
+		"rose_gold_sword": {
+			"textures": [
+				"textures/items/rose_gold_sword"
+			]
+		},
+		"thunder_sword": {
+			"textures": [
+				"textures/items/thunder_sword"
+			]
+		},
+		"lightning_attracts_item": {
+			"textures": [
+				"textures/items/lightning_attracts_item"
+			]
+		},
+		
+		"ferro_copper_axe": {
+			"textures": [
+				"textures/items/ferro_copper_axe"
+			]
+		},
+		"ferro_copper_boots": {
+			"textures": [
+				"textures/items/ferro_copper_boots"
+			]
+		},
+		"ferro_copper_leggings": {
+			"textures": [
+				"textures/items/ferro_copper_leggings"
+			]
+		},
+		"ferro_copper_chestplate": {
+			"textures": [
+				"textures/items/ferro_copper_chestplate"
+			]
+		},
+		"ferro_copper_helmet": {
+			"textures": [
+				"textures/items/ferro_copper_helmet"
+			]
+		},
+		"ferro_copper_hoe": {
+			"textures": [
+				"textures/items/ferro_copper_hoe"
+			]
+		},
+		"ferro_copper_pickaxe": {
+			"textures": [
+				"textures/items/ferro_copper_pickaxe"
+			]
+		},
+		"ferro_copper_shovel": {
+			"textures": [
+				"textures/items/ferro_copper_shovel"
+			]
+		},
+		"ferro_copper_sword": {
+			"textures": [
+				"textures/items/ferro_copper_sword"
+			]
+		},
+		//True weapons
+		"copper_katana": {
+			"textures": [
+				"textures/items/true_weapons/katanas/copper"
+			]
+		},
+		"copper_long_sword": {
+			"textures": [
+				"textures/items/true_weapons/longs_sword/copper"
+			]
+		},
+		"copper_knife": {
+			"textures": [
+				"textures/items/true_weapons/knife/copper"
+			]
+		},
+		"copper_barbed_mace": {
+			"textures": [
+				"textures/items/true_weapons/barbed_mace/copper"
+			]
+		},
+		"copper_kama": {
+			"textures": [
+				"textures/items/true_weapons/kama/copper"
+			]
+		},
+		"copper_bearded_axe": {
+			"textures": [
+				"textures/items/true_weapons/bearded_axe/copper"
+			]
+		},
+		"copper_dane_axe": {
+			"textures": [
+				"textures/items/true_weapons/dane_axe/copper"
+			]
+		},
+		"copper_wakizashi": {
+			"textures": [
+				"textures/items/true_weapons/wakizashi/copper"
+			]
+		},
+		"copper_ninjatō": {
+			"textures": [
+				"textures/items/true_weapons/ninjatō/copper"
+			]
+		},
+		"copper_ōdachi": {
+			"textures": [
+				"textures/items/true_weapons/ōdachi/copper"
+			]
+		},
+		"copper_naginata": {
+			"textures": [
+				"textures/items/true_weapons/naginata/copper"
+			]
+		},
+		"copper_machete": {
+			"textures": [
+				"textures/items/true_weapons/machete/copper"
+			]
+		},
+		"copper_zweihander": {
+			"textures": [
+				"textures/items/true_weapons/zweihander/copper"
+			]
+		},
+		"copper_seitengewehr": {
+			"textures": [
+				"textures/items/true_weapons/seitengewehr/copper"
+			]
+		},
+		"gold_plate": {
+			"textures": [
+				"textures/items/gold_plate"
+			]
+		}
+	}
+}
