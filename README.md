@@ -36,7 +36,7 @@
 ### Elder Guardian 	[ Health 80 < 120 ]
 ### Wither 		[ Health 600 < 800 ]
 ### -----------------
-### Ender Dragon  	
+### Ender Dragon Buff 	
 ### Health 200 < 600 
 ### Flying speed 0.7 < 1
 ### Attack 4 < 5
