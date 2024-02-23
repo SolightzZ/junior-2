@@ -1,0 +1,22 @@
+## Raws:
+item.skw:raw_beef_skewer=生牛肉串
+item.skw:raw_chicken_skewer=生鸡肉串
+item.skw:raw_cod_skewer=生鳕鱼串
+item.skw:raw_mutton_skewer=生羊肉串
+item.skw:raw_porkchop_skewer=生猪排串
+item.skw:raw_rabbit_skewer=生兔肉串
+item.skw:raw_salmon_skewer=生鲑鱼串
+item.skw:raw_veggie_skewer=生蔬菜串
+
+## Cookeds:
+item.skw:cooked_beef_skewer=熟牛肉串
+item.skw:cooked_chicken_skewer=熟鸡肉串
+item.skw:cooked_cod_skewer=熟鳕鱼串
+item.skw:cooked_mutton_skewer=熟羊肉串
+item.skw:cooked_porkchop_skewer=熟猪排串
+item.skw:cooked_rabbit_skewer=熟兔肉串
+item.skw:cooked_salmon_skewer=熟鲑鱼串
+item.skw:roasted_veggie_skewer=烤蔬菜串
+
+## Miscellaneous:
+item.skw:cookie_skewer=饼干串

@@ -1,0 +1,1 @@
+camera @s set example:example_free ease 15 in_out_sine pos ^5^15^50 rot ~10 ~180

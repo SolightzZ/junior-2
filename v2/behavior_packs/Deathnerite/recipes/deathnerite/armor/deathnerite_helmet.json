@@ -1,0 +1,15 @@
+{
+	"format_version": "1.17",
+	"minecraft:recipe_smithing_transform": {
+	 "description": {
+	   "identifier": "deathnerite_helmet"
+	  },
+	 
+	 "tags": [ "smithing_table" ],
+	 
+	  "template": "true:deathnerite_upgrade_smithing_template",
+	  "base": "minecraft:netherite_helmet",
+	  "addition": "minecraft:netherite_ingot",
+	  "result": "heavy:deathnerite_helmet"
+	}
+}

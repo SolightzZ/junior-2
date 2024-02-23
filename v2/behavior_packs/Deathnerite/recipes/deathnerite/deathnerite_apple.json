@@ -1,0 +1,29 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "heavy:deathnerite_apple"
+		},
+		"tags": [ "crafting_table" ],
+		"ingredients": [
+			{
+				"item": "minecraft:golden_apple"
+			},
+			{
+				"item": "true:deathnerite_upgrade_smithing_template"
+			}
+		],
+		"unlock": [
+			{
+				"item": "minecraft:golden_apple"
+			},
+			{
+				"item": "true:deathnerite_upgrade_smithing_template"
+			}
+		  ],
+		"result": 
+			{
+				"item": "heavy:deathnerite_apple"
+			}
+	}
+}

@@ -1,0 +1,28 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+
+    "camara_1": {
+      "textures": "textures/items/c1"
+    },
+    "camara_2": {
+      "textures": "textures/items/c2"
+    },
+    "camara_3": {
+      "textures": "textures/items/c3"
+    },
+    "camara_4": {
+      "textures": "textures/items/c4"
+    },
+    "camara_5": {
+      "textures": "textures/items/c5"
+    },
+    "camara_6": {
+      "textures": "textures/items/c6"
+    },
+    "camara_": {
+      "textures": "textures/items/camara_"
+    }
+  }
+}

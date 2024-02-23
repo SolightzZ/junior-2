@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "minecraft:arrows_from_iron_nugget"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "XXX",
+      "###",
+      "YYY"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "X": {
+        "item": "minecraft:iron_nugget"
+      },
+      "Y": {
+        "item": "minecraft:feather"
+      }
+    },
+    "result": {
+      "item": "minecraft:arrow",
+      "count": 4
+    }
+  }
+}

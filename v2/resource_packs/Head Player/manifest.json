@@ -1,0 +1,31 @@
+{
+    "metadata": {"authors": [
+        "Bedrock Tweaks",
+        "DrAv0011"
+    ]},
+    "format_version": 2,
+    "header": {
+        "min_engine_version": [
+            1,
+            19,
+            0
+        ],
+        "name": "Player Heads",
+        "description": "Bedrock Tweaks §4Addons RP§r by §5DrAv0011§r\nSelected Packs:\n\tMini Blocks:\n\t\tGem Villagers\n\t\tTreasure Gems\n",
+        "uuid": "d502a0c5-7c9c-46bb-bd6d-ad1dc236c638",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [{
+        "type": "resources",
+        "uuid": "8f61300d-c2fb-4d51-a462-71fe3026e2a3",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    }]
+}

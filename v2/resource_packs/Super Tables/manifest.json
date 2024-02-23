@@ -1,0 +1,19 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Super Tables",
+        "description": "",
+        "uuid": "8bd49954-5ee8-40ee-a48d-1750bfce5e64",
+        "platform_locked": false,
+        "min_engine_version": [ 1, 14, 1 ],
+        "version": [ 0, 0, 1 ]
+    },
+    "modules": [
+        {
+            "description": "Enjoy!!",
+            "type": "resources",
+            "uuid": "4edf2f3f-4e1e-4dd4-9cdd-b63d377dda8f",
+            "version": [ 0, 0, 1 ]
+        }
+    ]
+}

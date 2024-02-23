@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "nicothekid:stonecut_x_red_sandstone_stairs_x_red_sandstone_slab"
+    },
+    "priority": 4,
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:red_sandstone_stairs",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:double_stone_slab2",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

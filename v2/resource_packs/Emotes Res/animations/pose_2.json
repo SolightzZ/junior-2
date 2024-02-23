@@ -1,0 +1,39 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.pose_2": {
+			"loop": true,
+			"animation_length": 30.16667,
+			"anim_time_update": "2",
+			"start_delay": "1",
+			"loop_delay": "10",
+			"bones": {
+				"Head": {
+					"position": [0, 2, 0],
+					"scale": 10
+				},
+				"RightArm": {
+					"position": [-1, 1, 0],
+					"scale": 1
+				},
+				"LeftArm": {
+					"position": [1, 1, 0],
+					"scale": 1
+				},
+				"RightLeg": {
+					"position": [-20, 100, 0],
+					"scale": 10
+				},
+				"LeftLeg": {
+					"rotation": [10, 0, 1.5],
+					"position": [20, 100, 0],
+					"scale": 10
+				},
+				"Body": {
+					"position": [0, 200, 0],
+					"scale": 10
+				}
+			}
+		}
+	}
+}

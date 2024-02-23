@@ -1,0 +1,36 @@
+//bridge-file-version: #18
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.revive": {
+			"timeline": {
+				"0": [
+					"/title @s actionbar §a5s █",
+					"/particle rp:revive ~ ~1 ~",
+					"/playanimation @s animation.humanoid.revive"
+				],
+				"1": [
+					"/title @s actionbar §a4s ██"
+				],
+				"2": [
+					"/title @s actionbar §a3s ███"
+				],
+				"3": [
+					"/title @s actionbar §a2s ████"
+				],
+				"4": [
+					"/title @s actionbar §a1s █████",
+					"/tag @s remove isknockedreviving",
+					"/tag @s remove isreviving",
+					"/tag @e[type=wolf,r=4,c=1] add revivedog"
+				],
+				"5": [
+					"@s minecraft:entity_spawned",
+					"/playanimation @s animation.humanoid.revive_end"
+				]
+			},
+			"animation_length": 5,
+			"loop": false
+		}
+	}
+}

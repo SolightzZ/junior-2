@@ -14,7 +14,7 @@
 <br>
 
 # New Addons
-### Diamond 1 ore
+### Custom Diamond 1 ore fix
 ### Item magnet
 ### Head Players block and Helmet
 ### Head Player Rider
@@ -28,7 +28,6 @@
 ### Parcanite Armor and tool
 ### Copper Armor and tool
 ### SitDown woodslab 1.19
-
 
 <br>
 
@@ -44,7 +43,7 @@
 ### Not Explosions Damage
 ### ------------------------
 ### enderman 	[Boss Bar]
-### husk 	[Boss Bar]
+### husk 	[Boss Bar] ?
 ### skeleton 	[Boss Bar]
 ### spider 	[Boss Bar]
 ### stray 	[Boss Bar]

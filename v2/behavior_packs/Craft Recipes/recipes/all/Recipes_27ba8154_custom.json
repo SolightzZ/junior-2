@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_ca7652b4"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:iron_trapdoor",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:iron_ingot",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

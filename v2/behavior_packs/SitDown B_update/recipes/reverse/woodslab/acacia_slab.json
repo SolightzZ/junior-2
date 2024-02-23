@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:acacia_slab_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:acacia_slab"
+			}
+		},
+		"result": {
+			"item": "minecraft:wooden_slab",
+				"data": 4
+			,
+			"count": 1
+		}
+	}
+}

@@ -1,0 +1,25 @@
+//bridge-file-version: #0
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:quartz_brick_to_quartz_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:quartz_bricks",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:quartz_block",
+				"data": 0,
+				"count": 4
+			}
+		]
+	}
+}

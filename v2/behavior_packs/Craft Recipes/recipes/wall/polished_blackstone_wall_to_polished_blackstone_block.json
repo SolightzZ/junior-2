@@ -1,0 +1,24 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:polished_blackstone_wall_to_polished_blackstone_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:polished_blackstone_wall",
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:polished_blackstone",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,28 @@
+//bridge-file-version: #14
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.knocked": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"knocked": "query.variant == 5"
+						}
+					]
+				},
+				"knocked": {
+					"transitions": [
+						{
+							"default": "query.variant != 5 && query.all_animations_finished || query.variant == 2 || query.is_sneaking"
+						}
+					],
+					"animations": [
+						"knocked"
+					]
+				}
+			}
+		}
+	}
+}

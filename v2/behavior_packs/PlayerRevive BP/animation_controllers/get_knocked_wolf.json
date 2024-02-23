@@ -1,0 +1,28 @@
+//bridge-file-version: #18
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.knockedwolf": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"knocked": "query.variant == 1"
+						}
+					]
+				},
+				"knocked": {
+					"transitions": [
+						{
+							"default": "query.variant != 1 "
+						}
+					],
+					"animations": [
+						"knocked"
+					]
+				}
+			}
+		}
+	}
+}

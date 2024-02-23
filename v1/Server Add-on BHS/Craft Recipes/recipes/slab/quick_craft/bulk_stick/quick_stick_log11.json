@@ -1,0 +1,28 @@
+//bridge-file-version: #14
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:quick_stick_log11"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"l",
+			"l"
+		],
+		"key": {
+			"l": {
+				"item": "minecraft:log2"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:stick",
+				"count": 16
+			}
+		],
+		"group": "quick_stick"
+	}
+}

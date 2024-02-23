@@ -1,0 +1,15 @@
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "nba:mossy_stonebrick_stairs",
+					"weight": 1,
+					"count": 1
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_0225e163"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:cauldron",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:iron_ingot",
+      "count": 7,
+      "data": 0
+    }
+  }
+}
