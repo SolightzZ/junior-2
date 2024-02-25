@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "by SolightzZ!",
+    "name": "Custom Cooked Axolotl",
+    "uuid": "45b26630-2182-4643-bff0-9cb182eb4175",
+    "version": [
+      12,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      10
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "87740e6f-6e28-4fb7-aaff-acb6e9b88508",
+      "version": [
+        12,
+        0,
+        0
+      ]
+    }
+  ]
+}

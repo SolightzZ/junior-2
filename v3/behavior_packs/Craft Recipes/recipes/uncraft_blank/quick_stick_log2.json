@@ -1,0 +1,26 @@
+//bridge-file-version: #7
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "polish:quick_stick_log2"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:log2"
+			},
+			{
+				"item": "minecraft:log2"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:stick",
+				"count": 16
+			}
+		]
+	}
+}

@@ -1,0 +1,35 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_crimson_stem_x_weeping_vines"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABA",
+      "ACA",
+      "ABA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:weeping_vines",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:crimson_fungus",
+        "data": 0
+      },
+      "C": {
+        "item": "minecraft:nether_wart_block",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:crimson_stem",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Sleeplite Data",
+    "description": "Copyright Park by Soligt can only be used on this server Sleeplite Servers By https://github.com/legopitstop ",
+    "uuid": "ef03de6e-b2b8-47d1-ab45-6fc9e418cd64",
+    "version": [
+      1,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      13,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "956184ce-8c1b-498b-94a6-13e8eb16bd8c",
+      "version": [
+        1,
+        0,
+        1
+      ]
+    }
+  ]
+}

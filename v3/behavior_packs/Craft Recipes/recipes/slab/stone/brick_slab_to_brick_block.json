@@ -1,0 +1,28 @@
+//bridge-file-version: #18
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:brick_slab_to_brick_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:stone_slab",
+				"data": 4
+			}
+		},
+		"pattern": [
+			"#",
+			"#"
+		],
+		"result": [
+			{
+				"item": "minecraft:brick_block",
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,29 @@
+//bridge-file-version: #18
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:diorite_slab_to_diorite_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:stone_slab3",
+				"data": 5
+			}
+		},
+		"pattern": [
+			"#",
+			"#"
+		],
+		"result": [
+			{
+				"item": "minecraft:stone",
+				"data": 4,
+				"count": 1
+			}
+		]
+	}
+}

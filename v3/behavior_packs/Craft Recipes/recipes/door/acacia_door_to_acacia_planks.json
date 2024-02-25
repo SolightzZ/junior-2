@@ -1,0 +1,24 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:acacia_door_to_acacia_planks"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:acacia_door"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:planks",
+				"data": 4,
+				"count": 2
+			}
+		]
+	}
+}

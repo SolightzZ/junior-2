@@ -1,0 +1,49 @@
+//Hero Studios and Andriel Games
+//please no change
+{
+  "format_version": "1.10.0",
+  "animations": {
+//animations for tools and sword items
+//first person
+    "animation.item_animated_true.vision": {
+      "loop": true,
+      "bones": {
+        "rightitem": {
+          "position": [ 
+            "c.is_first_person ? 0.15 : 0.0",
+            "c.is_first_person ? 3.5 : 0.0",
+            "c.is_first_person ? 2.0 : 0.0"
+          ],
+          "rotation": [ 
+            "c.is_first_person ? -13.0 : 0.0",
+            "c.is_first_person ? 68.0 : 0.0",
+            "c.is_first_person ? -50.0 : 0.0"
+          ]
+        }
+      }
+    },
+//animations for normal items
+//first person
+    "animation.item_animated_false.vision1": {
+      "loop": true,
+      "bones": {
+        "rightitem": {
+					"position": [ -2.0, -17.0, 1.0 ],
+					"rotation": [ -45.75, -1.0, 197.09 ],
+					"scale": 1.46
+        }
+      }
+    },
+//third person
+    "animation.item_animated_false.vision2": {
+      "loop": true,
+      "bones": {
+        "rightitem": {
+					"position": [ 3.0, 0.55, -9.78 ],
+					"rotation": [ 25.0, 10.0, 200.0 ],
+					"scale": 0.59
+        }
+      }
+    }
+  }
+}

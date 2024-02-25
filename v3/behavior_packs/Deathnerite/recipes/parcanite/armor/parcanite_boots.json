@@ -1,0 +1,15 @@
+{
+	"format_version": "1.17",
+	"minecraft:recipe_smithing_transform": {
+	 "description": {
+	   "identifier": "parcanite_boots"
+	  },
+	 
+	 "tags": [ "smithing_table" ],
+	 
+	  "template": "true:darkness_upgrade_smithing_template",
+	  "base": "heavy:deathnerite_boots",
+	  "addition": "minecraft:netherite_ingot",
+	  "result": "heavy:parcanite_boots"
+	}
+}

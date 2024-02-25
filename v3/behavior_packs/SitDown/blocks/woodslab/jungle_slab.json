@@ -1,0 +1,181 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:block": {
+		"description": {
+            "identifier": "nba:jungle_slab",
+			"category": "items",
+			"properties": {
+				"nba:face": [
+					0,
+					1,
+					2,
+					3
+				]
+			}
+		},
+		"components": {
+			"minecraft:destroy_time": 0.7,
+			"minecraft:explosion_resistance": 2.5,
+			"minecraft:map_color": "#8F7748",
+			"minecraft:breathability": "air",
+			"minecraft:flammable": {
+				"flame_odds": 30,
+				"burn_odds": 30
+			},
+			"minecraft:block_light_absorption": 0,
+			"minecraft:geometry": "geometry.slab",
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "jungle_slab",
+					"render_method": "blend"
+				}
+			},
+			"minecraft:pick_collision": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					8,
+					16
+				]
+			},
+			"minecraft:entity_collision": {
+				"origin": [
+					-8,
+					0,
+					-8
+				],
+				"size": [
+					16,
+					8,
+					16
+				]
+			},
+			"minecraft:on_interact": {
+				"condition": "!query.is_sneaking",
+				"event": "sit"
+			},
+			"minecraft:ticking": {
+				"looping": false,
+				"range": [
+					0,
+					0
+				],
+				"on_tick": {
+					"event": "nba:sit"
+				}
+			},
+			"minecraft:on_player_placing": {
+				"event": "nba:face"
+			},
+			"minecraft:loot": "loot_tables/blocks/jungle_slab.json"
+		},
+		"permutations": [
+			{
+				"condition": "query.block_property('nba:face') == 0",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						0,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('nba:face') == 1",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						0,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('nba:face') == 2",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						0,
+						0
+					]
+				}
+			},
+			{
+				"condition": "query.block_property('nba:face') == 3",
+				"components": {
+					"minecraft:rotation": [
+						0,
+						0,
+						0
+					]
+				}
+			}
+		],
+		"events": {
+			"nba:sit": {
+				"sequence": [
+					{
+						"condition": "query.block_property('nba:face') == 0",
+						"run_command": {
+							"command": [
+								"summon nba:slab_sit"
+							]
+						}
+					},
+					{
+						"condition": "query.block_property('nba:face') == 1",
+						"run_command": {
+							"command": [
+								"summon nba:slab_sit ~ ~ ~ facing_south"
+							]
+						}
+					},
+					{
+						"condition": "query.block_property('nba:face') == 2",
+						"run_command": {
+							"command": [
+								"summon nba:slab_sit ~ ~ ~ facing_west"
+							]
+						}
+					},
+					{
+						"condition": "query.block_property('nba:face') == 3",
+						"run_command": {
+							"command": [
+								"summon nba:slab_sit ~ ~ ~ facing_east"
+							]
+						}
+					}
+				]
+			},
+			"sit": {
+				"sequence": [
+					{
+						"run_command": {
+							"command": [
+								"tag @s add player_chair_interact"
+							],
+							"target": "other"
+						}
+					},
+					{
+						"run_command": {
+							"command": [
+								"event entity @e[type=nba:slab_sit,r=0.01] player_interact"
+							]
+						}
+					}
+				]
+			},
+			"nba:face": {
+				"set_block_property": {
+					"nba:face": "query.cardinal_facing_2d-2"
+				}
+			}
+		}
+	}
+}

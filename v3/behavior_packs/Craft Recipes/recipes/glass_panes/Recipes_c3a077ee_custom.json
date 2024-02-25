@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_3fb8b649"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "A A",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:log",
+        "data": 1
+      }
+    },
+    "result": {
+      "item": "minecraft:chest",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

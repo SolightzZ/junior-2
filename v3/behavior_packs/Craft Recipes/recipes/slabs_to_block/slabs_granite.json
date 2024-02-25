@@ -1,0 +1,27 @@
+//bridge-file-version: #34
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:slabs_granite"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:double_stone_slab3",
+				"data": 6
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:stone",
+				"data": 1
+			}
+		]
+	}
+}

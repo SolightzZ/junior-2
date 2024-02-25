@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_84111165"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:chest",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:planks",
+      "count": 8,
+      "data": 0
+    }
+  }
+}
