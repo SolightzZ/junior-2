@@ -4,30 +4,35 @@
 <br>
 
 # Addon packs
-### Dual Rider
-### Pack Servers
 ### Server chat to Discord
-### Super Tables
+### Pack Servers
+### Dual Rider
+### Advanced crafting table
 ### Death count
 ### Playtime
+### ------------------------
 
 <br>
 
 # New Addons
+### Pack Servers
 ### Custom Diamond 1 ore fix
 ### Item magnet
+### PlayerRevive
 ### Head Players block and Helmet
 ### Head Player Rider
+### head Drop 
 ### Chairs Head Rider 
 ### Ride playerss
-### Dual Rider
 ### Cooked Axolotl
-### Grilled Pork with Sticky rice [ ข้าวเหนียวหมูปิ้ง ]
 ### New Food
 ### Deathnerite Armor and tool
 ### Parcanite Armor and tool
 ### Copper Armor and tool
 ### SitDown woodslab 1.19
+### Camera Server
+### ❌ Grilled Pork with Sticky rice [ ข้าวเหนียวหมูปิ้ง ]
+### ------------------------
 
 <br>
 
@@ -50,6 +55,7 @@
 ### warden 	[Boss Bar]
 ### wither skeleton [Boss Bar]
 ### zombie 	[Boss Bar]
+### ------------------------
 
 <br>
 
@@ -67,19 +73,42 @@
 ### Clear Spyglass
 ### New Panorama Server
 ### Armor stand Model
-
-<br>
-
-# Txts
-### Multiplayer player joined New
-### Multiplayer player left New
-### Chat type sleeping New
-### Tile bed noSleep New
-### Tile bed notSafe New
-### Tile bed respawnSet New
+### Emote animations
+### ------------------------
 
 <br>
 
 # Craft Recipes
 ### Name tag
-### Arrow from
+### light block
+### arrow from
+### Blast furnace
+### - Ore block
+### Powder snow
+### carpet
+### Stonecutters
+### - concrete powder
+### - concrete
+### door
+### furnace
+### glass
+### glass panes
+### quart
+### slab
+### slabs to block
+### slimeball
+### Slime block new crafting
+### Honey bottle to  slime
+### smoker
+### experience bottle
+### Glow ink sac
+### end stone
+### Dragon egg to shulker shell
+### trapdoor
+### log
+### chest
+### terracotta
+### wool
+### wall
+### more..... 1530+ Crafting
+### ------------------------
