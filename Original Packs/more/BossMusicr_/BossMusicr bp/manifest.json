@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Alien Edds Gaming"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.6.1"
+			],
+			"dash": [
+				"0.10.10"
+			]
+		}
+	},
+	"header": {
+		"name": "Boss Music release v2",
+		"description": "adds music for boss fights",
+		"min_engine_version": [
+			1,
+			20,
+			0
+		],
+		"uuid": "31b55bc3-6c1e-4f04-a0f9-230bd0fb0067",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "e40fff82-768a-4735-9b3f-9a3cd13ec129",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

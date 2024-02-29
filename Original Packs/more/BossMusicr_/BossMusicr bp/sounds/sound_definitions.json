@@ -1,0 +1,29 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"witherbossmusic": {
+			"category": "ui",
+			"sounds": [
+				"sounds/bossmusic/witherstormmusicfadein"
+			]
+		},
+		"dragonbossmusic": {
+			"category": "ui",
+			"sounds": [
+				"sounds/bossmusic/Minecraft_UST-_Tall_End_Music_Disc_Concept"
+			]
+		},
+		"wardenbossmusic": {
+			"category": "ui",
+			"sounds": [
+				"sounds/bossmusic/Warden-Run-Fan-Made-Minecraft-1.19-Music-Disc"
+			]
+		},
+		"elder_guardianbossmusic": {
+			"category": "ui",
+			"sounds": [
+				"sounds/bossmusic/Ancient-Guardian"
+			]
+		}
+	}
+}
