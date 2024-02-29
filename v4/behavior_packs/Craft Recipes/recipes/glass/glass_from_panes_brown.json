@@ -1,0 +1,53 @@
+//bridge-file-version: #7
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "polish:glass_from_panes_brown"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:stained_glass_pane",
+				"data": 12
+			},
+			{
+				"item": "minecraft:stained_glass_pane",
+				"data": 12
+			},
+			{
+				"item": "minecraft:stained_glass_pane",
+				"data": 12
+			},
+			{
+				"item": "minecraft:stained_glass_pane",
+				"data": 12
+			},
+			{
+				"item": "minecraft:stained_glass_pane",
+				"data": 12
+			},
+			{
+				"item": "minecraft:stained_glass_pane",
+				"data": 12
+			},
+			{
+				"item": "minecraft:stained_glass_pane",
+				"data": 12
+			},
+			{
+				"item": "minecraft:stained_glass_pane",
+				"data": 12
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:stained_glass",
+				"data": 12,
+				"count": 3
+			}
+		]
+	}
+}

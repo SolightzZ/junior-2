@@ -1,0 +1,128 @@
+// Head
+item.fxnt_ph:player_head_1_item=Head §7()§r
+entity.fxnt_ph:player_head_1.name=Head §7()§r
+action.hint.exit.fxnt_ph:player_head_1=Jump to Exit
+
+entity.bt:gv.diamonds_for_gems.name=§bGem Trader§r
+entity.bt:gv.gem_collector.name=§6Gem Collector§r
+entity.bt:gv.hermit_heads.name=§eHermit Heads§r
+
+item.spawn_egg.entity.bt:gv.diamonds_for_gems.name=§bSpawn Gem Trader§r
+item.spawn_egg.entity.bt:gv.gem_collector.name=§6Spawn Gem Collector§r
+item.spawn_egg.entity.bt:gv.hermit_heads.name=§eSpawn Hermit Heads§r
+
+tile.bt:tg.amber_gem.name=§6Amber Gem§r
+tile.bt:tg.aquamarine_gem.name=§bAquamarine Gem§r
+tile.bt:tg.ruby_gem.name=§4Ruby Gem§r
+tile.bt:tg.sapphire_gem.name=§9Sapphire Gem§r
+tile.bt:tg.topaz_gem.name=§gTopaz Gem§r
+
+item.bt:tg.amber_gem_helmet=§6Amber Gem 
+item.bt:tg.aquamarine_gem_helmet=§bAquamarine Gem 
+item.bt:tg.ruby_gem_helmet=§4Ruby Gem 
+item.bt:tg.sapphire_gem_helmet=§9Sapphire Gem 
+item.bt:tg.topaz_gem_helmet=§gTopaz Gem 
+itemGroup.name.mini_blocks=§eMini Blocks
+
+
+
+item.bt:mb.amethyst_block_helmet=§eAmethyst Block 
+item.bt:mb.azalea_leaves_helmet=§eAzalea Leaves 
+item.bt:mb.calcite_helmet=§eCalcite 
+item.bt:mb.cobbled_deepslate_helmet=§eCobbled Deepslate 
+item.bt:mb.copper_ore_helmet=§eCopper Ore 
+item.bt:mb.cut_copper_helmet=§eCut Copper 
+item.bt:mb.deepslate_helmet=§eDeepslate 
+item.bt:mb.deepslate_coal_ore_helmet=§eDeepslate Coal Ore 
+item.bt:mb.deepslate_copper_ore_helmet=§eDeepslate Copper Ore 
+item.bt:mb.deepslate_diamond_ore_helmet=§eDeepslate Diamond Ore 
+item.bt:mb.deepslate_emerald_ore_helmet=§eDeepslate Emerald Ore 
+item.bt:mb.deepslate_gold_ore_helmet=§eDeepslate Gold Ore 
+item.bt:mb.deepslate_iron_ore_helmet=§eDeepslate Iron Ore 
+item.bt:mb.deepslate_lapis_lazuli_ore_helmet=§eDeepslate Lapis Lazuli Ore 
+item.bt:mb.deepslate_redstone_ore_helmet=§eDeepslate Redstone Ore 
+item.bt:mb.dripstone_helmet=§eDripstone Block 
+item.bt:mb.exposed_cut_copper_helmet=§eExposed Cut Copper 
+item.bt:mb.flowering_azalea_leaves_helmet=§eFlowering Azalea Leaves 
+item.bt:mb.mangrove_log_helmet=§eMangrove Log 
+item.bt:mb.mangrove_planks_helmet=§eMangrove Planks 
+item.bt:mb.moss_block_helmet=§eMoss Block 
+item.bt:mb.mud_helmet=§eMud 
+item.bt:mb.mud_bricks_helmet=§eMud Bricks 
+item.bt:mb.oxidized_cut_copper_helmet=§eOxidized Cut Copper 
+item.bt:mb.packed_mud_helmet=§ePacked Mud 
+item.bt:mb.pearlescent_froglight_helmet=§ePearlescent Froglight 
+item.bt:mb.polished_deepslate_helmet=§ePolished Deepslate 
+item.bt:mb.raw_copper_block_helmet=§eRaw Copper Block 
+item.bt:mb.raw_gold_block_helmet=§eRaw Gold Block 
+item.bt:mb.raw_iron_block_helmet=§eRaw Iron Block 
+item.bt:mb.sculk_helmet=§eSculk 
+item.bt:mb.tuff_helmet=§eTuff 
+item.bt:mb.verdant_froglight_helmet=§eVerdant Froglight 
+item.bt:mb.weathered_cut_copper_helmet=§eWeathered Cut Copper 
+item.bt:mb.ochre_froglight_helmet=§eOchre Froglight 
+
+itemGroup.name.hermit_heads=§eHermit Heads
+
+///Title
+tile.bt:hh.bdoubleo100.name=§eSolight§r (§7Helmet)§r
+tile.bt:hh.biffa2001.name=§eDemonkung9987§r (§7Helmet)§r
+tile.bt:hh.cubfan135.name=§eGDuM71§r (§7Helmet)§r
+tile.bt:hh.docm77.name=§eGuyyaReiki§r (§7Helmet)§r
+tile.bt:hh.drav0011.name=§eIronbongbang951§r (§7Helmet)§r
+tile.bt:hh.etho.name=§eKinorlSAO§r (§7Helmet)§r
+tile.bt:hh.falsesymmetry.name=§eLove Bullet8722§r (§7Helmet)§r
+tile.bt:hh.goodtimeswithscar.name=§eMrDoomyzazaz§r (§7Helmet)§r
+tile.bt:hh.grian.name=§eNaraphatZ§r (§7Helmet)§r
+tile.bt:hh.hypnotizd.name=§eNEUMAXz§r (§7Helmet)§r
+tile.bt:hh.ijevin.name=§eROOKMAN X§r (§7Helmet)§r
+tile.bt:hh.impulsesv.name=§eTawan8347T§r (§7Helmet)§r
+tile.bt:hh.iskall85.name=§ewinosata2009§r (§7Helmet)§r
+tile.bt:hh.jessassin.name=§exNoRisE§r (§7Helmet)§r
+tile.bt:hh.joehillssays.name=§eXxsomponxX7448§r (§7Helmet)§r
+tile.bt:hh.keralis1.name=§eKeralis1§r
+tile.bt:hh.mumbo_jumbo.name=§eMumbo Jumbo§r
+tile.bt:hh.pythongb.name=§eDAM0NZ17§r (§7Helmet)§r
+tile.bt:hh.renthedog.name=§eRevers§r (§7Helmet)§r
+tile.bt:hh.stressmonster101.name=§eStressmonster101§r
+tile.bt:hh.tango_tek.name=§eTango Tek§r
+tile.bt:hh.tinfoilchef.name=§eTinfoilchef§r
+tile.bt:hh.vintagebeef.name=§eVintageBeef§r
+tile.bt:hh.welsknight.name=§eWelsknight§r
+tile.bt:hh.xbcrafted.name=§exBCrafted§r
+tile.bt:hh.xisuma.name=§eXisuma§r
+tile.bt:hh.zedaph.name=§eZedaph§r
+tile.bt:hh.zombiecleo.name=§eZombieCleo§r
+
+
+///Items
+item.bt:hh.bdoubleo100_helmet=§eSolight§r (§7Helmet)§r
+item.bt:hh.biffa2001_helmet=§eDemonkung9987§r (§7Helmet)§r
+item.bt:hh.cubfan135_helmet=§eGDuM71§r (§7Helmet)§r
+item.bt:hh.docm77_helmet=§eGuyyaReiki§r (§7Helmet)§r
+item.bt:hh.drav0011_helmet=§eIronbongbang951§r (§7Helmet)§r
+item.bt:hh.etho_helmet=§eKinorlSAO§r (§7Helmet)§r
+item.bt:hh.falsesymmetry_helmet=§eLove Bullet8722§r (§7Helmet)§r
+item.bt:hh.goodtimeswithscar_helmet=§eMrDoomyzazaz§r (§7Helmet)§r
+item.bt:hh.grian_helmet=§eNaraphatZ§r (§7Helmet)§r
+item.bt:hh.hypnotizd_helmet=§eNEUMAXz§r (§7Helmet)§r
+item.bt:hh.ijevin_helmet=§eROOKMAN X§r (§7Helmet)§r
+item.bt:hh.impulsesv_helmet=§eTawan8347T§r (§7Helmet)§r
+item.bt:hh.iskall85_helmet=§ewinosata2009§r (§7Helmet)§r
+item.bt:hh.jessassin_helmet=§exNoRisE§r (§7Helmet)§r
+item.bt:hh.joehillssays_helmet=§eXxsomponxX7448§r (§7Helmet)§r
+item.bt:hh.keralis1_helmet=§eKeralis1 
+item.bt:hh.mumbo_jumbo_helmet=§eMumbo Jumbo 
+item.bt:hh.pythongb_helmet=§eDAM0NZ17 (§7Helmet)§r
+item.bt:hh.renthedog_helmet=§eRevers§r (§7Helmet)§r
+item.bt:hh.stressmonster101_helmet=§eStressmonster101 
+item.bt:hh.tango_tek_helmet=§eTango Tek 
+item.bt:hh.tinfoilchef_helmet=§eTinfoilchef 
+item.bt:hh.vintagebeef_helmet=§eVintageBeef 
+item.bt:hh.welsknight_helmet=§eWelsknight 
+item.bt:hh.xbcrafted_helmet=§exBCrafted 
+item.bt:hh.xisuma_helmet=§eXisuma 
+item.bt:hh.zedaph_helmet=§eZedaph 
+item.bt:hh.zombiecleo_helmet=§eZombieCleo 
+
+bdoubleo100

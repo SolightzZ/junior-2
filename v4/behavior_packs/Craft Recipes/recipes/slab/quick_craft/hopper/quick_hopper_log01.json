@@ -1,0 +1,33 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:quick_hopper_log01"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AoA",
+			"AlA",
+			" A "
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:iron_ingot"
+			},
+			"o": {
+				"item": "minecraft:log"
+			},
+			"l": {
+				"item": "minecraft:log2"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:hopper"
+			}
+		]
+	}
+}

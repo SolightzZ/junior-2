@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:jungle_slab_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:jungle_slab"
+			}
+		},
+		"result": {
+			"item": "minecraft:wooden_slab",
+				"data": 3
+			,
+			"count": 1
+		}
+	}
+}

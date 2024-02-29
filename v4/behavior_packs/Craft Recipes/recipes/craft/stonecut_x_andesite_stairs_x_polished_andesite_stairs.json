@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "nicothekid:stonecut_x_andesite_stairs_x_polished_andesite_stairs"
+    },
+    "priority": 4,
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:andesite_stairs",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:polished_andesite_stairs",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,25 @@
+//bridge-file-version: #9
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:sandstone_wall_to_sandstone_brick"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:cobblestone_wall",
+				"data": 5,
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:sandstone",
+				"count": 1
+			}
+		]
+	}
+}

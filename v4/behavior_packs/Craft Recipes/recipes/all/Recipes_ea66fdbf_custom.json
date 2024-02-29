@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_0e73363a"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AA ",
+      "BA "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:honey_bottle",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:ender_eye",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:experience_bottle",
+      "count": 3,
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_nether_wart_block_x_crimson_fungus"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "BAB",
+      "AAA",
+      "BAB"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:crimson_fungus",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:crimson_roots",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:nether_wart_block",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

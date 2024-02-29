@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "slabs:plank_8"
+    },
+    "groups": [
+      "slabs"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "0",
+      "1"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:warped_slab"
+      },
+      "1": {
+        "item": "minecraft:warped_slab"
+      }
+    },
+    "result": {
+      "item": "minecraft:warped_planks",
+      "count": 1
+    }
+  }
+}

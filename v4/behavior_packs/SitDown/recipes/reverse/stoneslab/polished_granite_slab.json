@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:polished_granite_slab_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+			"item": "nba:polished_granite_slab"
+				
+			}
+		},
+		"result": {
+			"item": "minecraft:double_stone_slab3",
+      			"data": 7,
+			"count": 1
+		}
+	}
+}

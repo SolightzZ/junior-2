@@ -1,0 +1,29 @@
+//bridge-file-version: #23
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:polished_andesite_slab_to_polished_andesite_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:stone_slab3",
+				"data": 2
+			}
+		},
+		"pattern": [
+			"#",
+			"#"
+		],
+		"result": [
+			{
+				"item": "minecraft:stone",
+				"data": 6,
+				"count": 1
+			}
+		]
+	}
+}
