@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "nicothekid:furnace_x_iron_door"
+    },
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "minecraft:iron_door",
+      "data": 0
+    },
+    "output": {
+      "item": "minecraft:iron_nugget",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

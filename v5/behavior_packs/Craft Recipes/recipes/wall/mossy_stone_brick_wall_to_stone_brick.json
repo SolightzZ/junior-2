@@ -1,0 +1,26 @@
+//bridge-file-version: #14
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:mossy_stone_brick_wall_to_stone_brick"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:cobblestone_wall",
+				"data": 8,
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:stonebrick",
+				"data": 1,
+				"count": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_2ec92fad"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:totem",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:gold_ingot",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

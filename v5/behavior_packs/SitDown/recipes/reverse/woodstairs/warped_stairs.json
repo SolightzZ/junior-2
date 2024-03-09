@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:warped_stairs_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:warped_stairs"
+			}
+		},
+		"result": {
+			"item": "minecraft:warped_stairs"
+			,
+			"count": 1
+		}
+	}
+}

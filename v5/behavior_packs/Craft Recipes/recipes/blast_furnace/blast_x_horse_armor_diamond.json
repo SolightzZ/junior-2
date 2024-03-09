@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "nicothekid:blast_x_horse_armor_diamond"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": {
+      "item": "minecraft:horsearmordiamond",
+      "data": 0
+    },
+    "output": {
+      "item": "minecraft:diamond",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

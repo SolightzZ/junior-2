@@ -1,0 +1,1 @@
+execute @a[hasitem={item=magnet:iron_magnet,location=slot.inventory,slot=!9..}] ^^^ particle minecraft:villager_happy ~ ~2 ~

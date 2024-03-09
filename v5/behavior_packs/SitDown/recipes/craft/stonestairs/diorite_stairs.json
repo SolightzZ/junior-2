@@ -1,0 +1,23 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:diorite_stairs"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:diorite_stairs"
+			}
+		},
+		"result": {
+			"item": "nba:diorite_stairs",
+			"count": 1
+		}
+	}
+}

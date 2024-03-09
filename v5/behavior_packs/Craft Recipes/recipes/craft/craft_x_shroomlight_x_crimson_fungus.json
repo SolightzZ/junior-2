@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_shroomlight_x_crimson_fungus"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "BBB",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:crimson_fungus",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:glowstone_dust",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:shroomlight",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

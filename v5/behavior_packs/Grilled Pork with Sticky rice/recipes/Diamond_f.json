@@ -1,0 +1,20 @@
+{
+    "format_version": "1.16.221",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "addon:Diamond_f"
+        },
+        "tags": [
+            "multiplying_crafting_table"
+        ],
+        "pattern": [
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:egg"
+            }
+        },
+        "result": "addon:Diamond_f"
+    }
+}

@@ -1,0 +1,23 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:polished_deepslate_stairs"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:polished_deepslate_stairs"
+			}
+		},
+		"result": {
+			"item": "nba:polished_deepslate_stairs",
+			"count": 1
+		}
+	}
+}

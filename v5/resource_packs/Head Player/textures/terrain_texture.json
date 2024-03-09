@@ -1,0 +1,477 @@
+{
+  "padding": 8,
+  "resource_pack_name": "vanilla",
+  "texture_data": {
+    "mb.dark_prismarine": {
+      "textures": ["textures/mini_blocks/blocks/dark_prismarine"]
+    },
+    "mb.sponge": { "textures": ["textures/mini_blocks/blocks/sponge"] },
+    "mb.oak_planks": { "textures": ["textures/mini_blocks/blocks/oak_planks"] },
+    "mb.blue_concrete": {
+      "textures": ["textures/mini_blocks/blocks/blue_concrete"]
+    },
+    "mb.raw_iron_block": {
+      "textures": ["textures/mini_blocks/blocks/raw_iron_block"]
+    },
+    "mb.lime_concrete": {
+      "textures": ["textures/mini_blocks/blocks/lime_concrete"]
+    },
+    "mb.green_concrete": {
+      "textures": ["textures/mini_blocks/blocks/green_concrete"]
+    },
+    "mb.fletching_table": {
+      "textures": ["textures/mini_blocks/blocks/fletching_table"]
+    },
+    "mb.emerald_ore": {
+      "textures": ["textures/mini_blocks/blocks/emerald_ore"]
+    },
+    "hh.falsesymmetry": {
+      "textures": ["textures/hermit_heads/blocks/falsesymmetry"]
+    },
+    "mb.redstone_block": {
+      "textures": ["textures/mini_blocks/blocks/redstone_block"]
+    },
+    "mb.nether_quartz_ore": {
+      "textures": ["textures/mini_blocks/blocks/nether_quartz_ore"]
+    },
+    "mb.warped_planks": {
+      "textures": ["textures/mini_blocks/blocks/warped_planks"]
+    },
+    "mb.tnt": { "textures": ["textures/mini_blocks/blocks/tnt"] },
+    "mb.sea_lantern": {
+      "textures": ["textures/mini_blocks/blocks/sea_lantern"]
+    },
+    "mb.piston": { "textures": ["textures/mini_blocks/blocks/piston"] },
+    "mb.packed_mud": { "textures": ["textures/mini_blocks/blocks/packed_mud"] },
+    "mb.mangrove_planks": {
+      "textures": ["textures/mini_blocks/blocks/mangrove_planks"]
+    },
+    "mb.deepslate_diamond_ore": {
+      "textures": ["textures/mini_blocks/blocks/deepslate_diamond_ore"]
+    },
+    "hh.joehillssays": {
+      "textures": ["textures/hermit_heads/blocks/joehillssays"]
+    },
+    "hh.hypnotizd": { "textures": ["textures/hermit_heads/blocks/hypnotizd"] },
+    "mb.furnace": { "textures": ["textures/mini_blocks/blocks/furnace"] },
+    "mb.target": { "textures": ["textures/mini_blocks/blocks/target"] },
+    "mb.shulker_box": {
+      "textures": ["textures/mini_blocks/blocks/shulker_box"]
+    },
+    "mb.diorite": { "textures": ["textures/mini_blocks/blocks/diorite"] },
+    "mb.tube_coral_block": {
+      "textures": ["textures/mini_blocks/blocks/tube_coral_block"]
+    },
+    "mb.pearlescent_froglight": {
+      "textures": ["textures/mini_blocks/blocks/pearlescent_froglight"]
+    },
+    "mb.horn_coral_block": {
+      "textures": ["textures/mini_blocks/blocks/horn_coral_block"]
+    },
+    "mb.deepslate_iron_ore": {
+      "textures": ["textures/mini_blocks/blocks/deepslate_iron_ore"]
+    },
+    "mb.dripstone": { "textures": ["textures/mini_blocks/blocks/dripstone"] },
+    "mb.chest": { "textures": ["textures/mini_blocks/blocks/chest"] },
+    "mb.birch_log": { "textures": ["textures/mini_blocks/blocks/birch_log"] },
+    "mb.calcite": { "textures": ["textures/mini_blocks/blocks/calcite"] },
+    "hh.jessassin": { "textures": ["textures/hermit_heads/blocks/jessassin"] },
+    "mb.obsidian": { "textures": ["textures/mini_blocks/blocks/obsidian"] },
+    "hh.iskall85": { "textures": ["textures/hermit_heads/blocks/iskall85"] },
+    "mb.blast_furnace": {
+      "textures": ["textures/mini_blocks/blocks/blast_furnace"]
+    },
+    "mb.dispenser": { "textures": ["textures/mini_blocks/blocks/dispenser"] },
+    "hh.goodtimeswithscar": {
+      "textures": ["textures/hermit_heads/blocks/goodtimeswithscar"]
+    },
+    "hh.tinfoilchef": {
+      "textures": ["textures/hermit_heads/blocks/tinfoilchef"]
+    },
+    "tg.topaz_gem": { "textures": ["textures/treasure_gems/blocks/topaz_gem"] },
+    "mb.diamond_ore": {
+      "textures": ["textures/mini_blocks/blocks/diamond_ore"]
+    },
+    "mb.deepslate_copper_ore": {
+      "textures": ["textures/mini_blocks/blocks/deepslate_copper_ore"]
+    },
+    "mb.light_blue_concrete": {
+      "textures": ["textures/mini_blocks/blocks/light_blue_concrete"]
+    },
+    "mb.snow_block": { "textures": ["textures/mini_blocks/blocks/snow_block"] },
+    "hh.stressmonster101": {
+      "textures": ["textures/hermit_heads/blocks/stressmonster101"]
+    },
+    "mb.iron_ore": { "textures": ["textures/mini_blocks/blocks/iron_ore"] },
+    "mb.lapis_ore": { "textures": ["textures/mini_blocks/blocks/lapis_ore"] },
+    "mb.birch_planks": {
+      "textures": ["textures/mini_blocks/blocks/birch_planks"]
+    },
+    "mb.chiseled_stone_bricks": {
+      "textures": ["textures/mini_blocks/blocks/chiseled_stone_bricks"]
+    },
+    "mb.smoker": { "textures": ["textures/mini_blocks/blocks/smoker"] },
+    "hh.grian": { "textures": ["textures/hermit_heads/blocks/grian"] },
+    "hh.xbcrafted": { "textures": ["textures/hermit_heads/blocks/xbcrafted"] },
+    "mb.prismarine_bricks": {
+      "textures": ["textures/mini_blocks/blocks/prismarine_bricks"]
+    },
+    "mb.glowstone": { "textures": ["textures/mini_blocks/blocks/glowstone"] },
+    "mb.smooth_stone": {
+      "textures": ["textures/mini_blocks/blocks/smooth_stone"]
+    },
+    "mb.enchanting_table": {
+      "textures": ["textures/mini_blocks/blocks/enchanting_table"]
+    },
+    "mb.pumpkin": { "textures": ["textures/mini_blocks/blocks/pumpkin"] },
+    "mb.iron_block": { "textures": ["textures/mini_blocks/blocks/iron_block"] },
+    "mb.polished_blackstone_bricks": {
+      "textures": ["textures/mini_blocks/blocks/polished_blackstone_bricks"]
+    },
+    "mb.jukebox": { "textures": ["textures/mini_blocks/blocks/jukebox"] },
+    "mb.deepslate_gold_ore": {
+      "textures": ["textures/mini_blocks/blocks/deepslate_gold_ore"]
+    },
+    "mb.red_mushroom_block": {
+      "textures": ["textures/mini_blocks/blocks/red_mushroom_block"]
+    },
+    "mb.moss_block": { "textures": ["textures/mini_blocks/blocks/moss_block"] },
+    "mb.gilded_blackstone": {
+      "textures": ["textures/mini_blocks/blocks/gilded_blackstone"]
+    },
+    "mb.gray_concrete": {
+      "textures": ["textures/mini_blocks/blocks/gray_concrete"]
+    },
+    "mb.mud": { "textures": ["textures/mini_blocks/blocks/mud"] },
+    "mb.grass_block": {
+      "textures": ["textures/mini_blocks/blocks/grass_block"]
+    },
+    "mb.cobbled_deepslate": {
+      "textures": ["textures/mini_blocks/blocks/cobbled_deepslate"]
+    },
+    "mb.andesite": { "textures": ["textures/mini_blocks/blocks/andesite"] },
+    "mb.redstone_ore": {
+      "textures": ["textures/mini_blocks/blocks/redstone_ore"]
+    },
+    "mb.stone_bricks": {
+      "textures": ["textures/mini_blocks/blocks/stone_bricks"]
+    },
+    "mb.dark_oak_planks": {
+      "textures": ["textures/mini_blocks/blocks/dark_oak_planks"]
+    },
+    "mb.shroomlight": {
+      "textures": ["textures/mini_blocks/blocks/shroomlight"]
+    },
+    "mb.crimson_nylium": {
+      "textures": ["textures/mini_blocks/blocks/crimson_nylium"]
+    },
+    "mb.loom": { "textures": ["textures/mini_blocks/blocks/loom"] },
+    "mb.mud_bricks": { "textures": ["textures/mini_blocks/blocks/mud_bricks"] },
+    "mb.purple_concrete": {
+      "textures": ["textures/mini_blocks/blocks/purple_concrete"]
+    },
+    "mb.verdant_froglight": {
+      "textures": ["textures/mini_blocks/blocks/verdant_froglight"]
+    },
+    "mb.melon": { "textures": ["textures/mini_blocks/blocks/melon"] },
+    "mb.bricks": { "textures": ["textures/mini_blocks/blocks/bricks"] },
+    "mb.cobblestone": {
+      "textures": ["textures/mini_blocks/blocks/cobblestone"]
+    },
+    "hh.drav0011": { "textures": ["textures/hermit_heads/blocks/drav0011"] },
+    "hh.zombiecleo": {
+      "textures": ["textures/hermit_heads/blocks/zombiecleo"]
+    },
+    "mb.deepslate_lapis_lazuli_ore": {
+      "textures": ["textures/mini_blocks/blocks/deepslate_lapis_lazuli_ore"]
+    },
+    "mb.diamond_block": {
+      "textures": ["textures/mini_blocks/blocks/diamond_block"]
+    },
+    "mb.prismarine": { "textures": ["textures/mini_blocks/blocks/prismarine"] },
+    "mb.bee_nest": { "textures": ["textures/mini_blocks/blocks/bee_nest"] },
+    "mb.bone_block": { "textures": ["textures/mini_blocks/blocks/bone_block"] },
+    "mb.spruce_log": { "textures": ["textures/mini_blocks/blocks/spruce_log"] },
+    "mb.warped_wart_block": {
+      "textures": ["textures/mini_blocks/blocks/warped_wart_block"]
+    },
+    "mb.stone": { "textures": ["textures/mini_blocks/blocks/stone"] },
+    "mb.dropper": { "textures": ["textures/mini_blocks/blocks/dropper"] },
+    "mb.lapis_block": {
+      "textures": ["textures/mini_blocks/blocks/lapis_block"]
+    },
+    "mb.chiseled_nether_bricks": {
+      "textures": ["textures/mini_blocks/blocks/chiseled_nether_bricks"]
+    },
+    "mb.sculk": { "textures": ["textures/mini_blocks/blocks/sculk"] },
+    "tg.aquamarine_gem": {
+      "textures": ["textures/treasure_gems/blocks/aquamarine_gem"]
+    },
+    "mb.emerald_block": {
+      "textures": ["textures/mini_blocks/blocks/emerald_block"]
+    },
+    "mb.azalea_leaves": {
+      "textures": ["textures/mini_blocks/blocks/azalea_leaves"]
+    },
+    "mb.oak_log": { "textures": ["textures/mini_blocks/blocks/oak_log"] },
+    "mb.clay": { "textures": ["textures/mini_blocks/blocks/clay"] },
+    "mb.cut_copper": { "textures": ["textures/mini_blocks/blocks/cut_copper"] },
+    "mb.weathered_cut_copper": {
+      "textures": ["textures/mini_blocks/blocks/weathered_cut_copper"]
+    },
+    "mb.sticky_piston": {
+      "textures": ["textures/mini_blocks/blocks/sticky_piston"]
+    },
+    "mb.cyan_concrete": {
+      "textures": ["textures/mini_blocks/blocks/cyan_concrete"]
+    },
+    "mb.ancient_debris": {
+      "textures": ["textures/mini_blocks/blocks/ancient_debris"]
+    },
+    "mb.basalt": { "textures": ["textures/mini_blocks/blocks/basalt"] },
+    "mb.ochre_froglight": {
+      "textures": ["textures/mini_blocks/blocks/ochre_froglight"]
+    },
+    "mb.polished_andesite": {
+      "textures": ["textures/mini_blocks/blocks/polished_andesite"]
+    },
+    "mb.deepslate_emerald_ore": {
+      "textures": ["textures/mini_blocks/blocks/deepslate_emerald_ore"]
+    },
+    "mb.dark_oak_log": {
+      "textures": ["textures/mini_blocks/blocks/dark_oak_log"]
+    },
+    "mb.terracotta": { "textures": ["textures/mini_blocks/blocks/terracotta"] },
+    "mb.orange_concrete": {
+      "textures": ["textures/mini_blocks/blocks/orange_concrete"]
+    },
+    "mb.exposed_cut_copper": {
+      "textures": ["textures/mini_blocks/blocks/exposed_cut_copper"]
+    },
+    "mb.netherrack": { "textures": ["textures/mini_blocks/blocks/netherrack"] },
+    "mb.crafting_table": {
+      "textures": ["textures/mini_blocks/blocks/crafting_table"]
+    },
+    "mb.deepslate_coal_ore": {
+      "textures": ["textures/mini_blocks/blocks/deepslate_coal_ore"]
+    },
+    "tg.sapphire_gem": {
+      "textures": ["textures/treasure_gems/blocks/sapphire_gem"]
+    },
+    "mb.polished_basalt": {
+      "textures": ["textures/mini_blocks/blocks/polished_basalt"]
+    },
+    "mb.hay_block": { "textures": ["textures/mini_blocks/blocks/hay_block"] },
+    "mb.acacia_planks": {
+      "textures": ["textures/mini_blocks/blocks/acacia_planks"]
+    },
+    "hh.docm77": { "textures": ["textures/hermit_heads/blocks/docm77"] },
+    "mb.honeycomb_block": {
+      "textures": ["textures/mini_blocks/blocks/honeycomb_block"]
+    },
+    "mb.red_nether_bricks": {
+      "textures": ["textures/mini_blocks/blocks/red_nether_bricks"]
+    },
+    "hh.keralis1": { "textures": ["textures/hermit_heads/blocks/keralis1"] },
+    "hh.zedaph": { "textures": ["textures/hermit_heads/blocks/zedaph"] },
+    "mb.magenta_concrete": {
+      "textures": ["textures/mini_blocks/blocks/magenta_concrete"]
+    },
+    "hh.tango_tek": { "textures": ["textures/hermit_heads/blocks/tango_tek"] },
+    "hh.bdoubleo100": {
+      "textures": ["textures/hermit_heads/blocks/bdoubleo100"]
+    },
+    "mb.coal_ore": { "textures": ["textures/mini_blocks/blocks/coal_ore"] },
+    "mb.crimson_planks": {
+      "textures": ["textures/mini_blocks/blocks/crimson_planks"]
+    },
+    "hh.vintagebeef": {
+      "textures": ["textures/hermit_heads/blocks/vintagebeef"]
+    },
+    "mb.crimson_stem": {
+      "textures": ["textures/mini_blocks/blocks/crimson_stem"]
+    },
+    "mb.end_stone_bricks": {
+      "textures": ["textures/mini_blocks/blocks/end_stone_bricks"]
+    },
+    "mb.dried_kelp_block": {
+      "textures": ["textures/mini_blocks/blocks/dried_kelp_block"]
+    },
+    "mb.oxidized_cut_copper": {
+      "textures": ["textures/mini_blocks/blocks/oxidized_cut_copper"]
+    },
+    "hh.mumbo_jumbo": {
+      "textures": ["textures/hermit_heads/blocks/mumbo_jumbo"]
+    },
+    "mb.mycelium": { "textures": ["textures/mini_blocks/blocks/mycelium"] },
+    "mb.quartz_block": {
+      "textures": ["textures/mini_blocks/blocks/quartz_block"]
+    },
+    "mb.spruce_planks": {
+      "textures": ["textures/mini_blocks/blocks/spruce_planks"]
+    },
+    "mb.nether_wart_block": {
+      "textures": ["textures/mini_blocks/blocks/nether_wart_block"]
+    },
+    "mb.sand": { "textures": ["textures/mini_blocks/blocks/sand"] },
+    "hh.ijevin": { "textures": ["textures/hermit_heads/blocks/ijevin"] },
+    "mb.lodestone": { "textures": ["textures/mini_blocks/blocks/lodestone"] },
+    "hh.cubfan135": { "textures": ["textures/hermit_heads/blocks/cubfan135"] },
+    "mb.mangrove_log": {
+      "textures": ["textures/mini_blocks/blocks/mangrove_log"]
+    },
+    "mb.jungle_log": { "textures": ["textures/mini_blocks/blocks/jungle_log"] },
+    "hh.renthedog": { "textures": ["textures/hermit_heads/blocks/renthedog"] },
+    "hh.biffa2001": { "textures": ["textures/hermit_heads/blocks/biffa2001"] },
+    "mb.polished_diorite": {
+      "textures": ["textures/mini_blocks/blocks/polished_diorite"]
+    },
+    "mb.white_wool": { "textures": ["textures/mini_blocks/blocks/white_wool"] },
+    "tg.amber_gem": { "textures": ["textures/treasure_gems/blocks/amber_gem"] },
+    "mb.granite": { "textures": ["textures/mini_blocks/blocks/granite"] },
+    "mb.pink_concrete": {
+      "textures": ["textures/mini_blocks/blocks/pink_concrete"]
+    },
+    "mb.cartography_table": {
+      "textures": ["textures/mini_blocks/blocks/cartography_table"]
+    },
+    "mb.end_stone": { "textures": ["textures/mini_blocks/blocks/end_stone"] },
+    "mb.red_sand": { "textures": ["textures/mini_blocks/blocks/red_sand"] },
+    "mb.nether_gold_ore": {
+      "textures": ["textures/mini_blocks/blocks/nether_gold_ore"]
+    },
+    "mb.yellow_concrete": {
+      "textures": ["textures/mini_blocks/blocks/yellow_concrete"]
+    },
+    "mb.gold_block": { "textures": ["textures/mini_blocks/blocks/gold_block"] },
+    "mb.white_concrete": {
+      "textures": ["textures/mini_blocks/blocks/white_concrete"]
+    },
+    "mb.respawn_anchor": {
+      "textures": ["textures/mini_blocks/blocks/respawn_anchor"]
+    },
+    "mb.crying_obsidian": {
+      "textures": ["textures/mini_blocks/blocks/crying_obsidian"]
+    },
+    "mb.polished_deepslate": {
+      "textures": ["textures/mini_blocks/blocks/polished_deepslate"]
+    },
+    "mb.acacia_log": { "textures": ["textures/mini_blocks/blocks/acacia_log"] },
+    "mb.barrel": { "textures": ["textures/mini_blocks/blocks/barrel"] },
+    "hh.impulsesv": { "textures": ["textures/hermit_heads/blocks/impulsesv"] },
+    "mb.chiseled_polished_blackstone": {
+      "textures": ["textures/mini_blocks/blocks/chiseled_polished_blackstone"]
+    },
+    "mb.gravel": { "textures": ["textures/mini_blocks/blocks/gravel"] },
+    "mb.raw_copper_block": {
+      "textures": ["textures/mini_blocks/blocks/raw_copper_block"]
+    },
+    "mb.polished_granite": {
+      "textures": ["textures/mini_blocks/blocks/polished_granite"]
+    },
+    "mb.smithing_table": {
+      "textures": ["textures/mini_blocks/blocks/smithing_table"]
+    },
+    "mb.noteblock": { "textures": ["textures/mini_blocks/blocks/noteblock"] },
+    "mb.packed_ice": { "textures": ["textures/mini_blocks/blocks/packed_ice"] },
+    "mb.deepslate": { "textures": ["textures/mini_blocks/blocks/deepslate"] },
+    "mb.redstone_lamp_lit": {
+      "textures": ["textures/mini_blocks/blocks/redstone_lamp_lit"]
+    },
+    "mb.soul_sand": { "textures": ["textures/mini_blocks/blocks/soul_sand"] },
+    "mb.brown_concrete": {
+      "textures": ["textures/mini_blocks/blocks/brown_concrete"]
+    },
+    "mb.warped_nylium": {
+      "textures": ["textures/mini_blocks/blocks/warped_nylium"]
+    },
+    "mb.warped_stem": {
+      "textures": ["textures/mini_blocks/blocks/warped_stem"]
+    },
+    "mb.brain_coral_block": {
+      "textures": ["textures/mini_blocks/blocks/brain_coral_block"]
+    },
+    "mb.magma_block": {
+      "textures": ["textures/mini_blocks/blocks/magma_block"]
+    },
+    "tg.ruby_gem": { "textures": ["textures/treasure_gems/blocks/ruby_gem"] },
+    "mb.gold_ore": { "textures": ["textures/mini_blocks/blocks/gold_ore"] },
+    "mb.mossy_cobblestone": {
+      "textures": ["textures/mini_blocks/blocks/mossy_cobblestone"]
+    },
+    "mb.raw_gold_block": {
+      "textures": ["textures/mini_blocks/blocks/raw_gold_block"]
+    },
+    "hh.etho": { "textures": ["textures/hermit_heads/blocks/etho"] },
+    "mb.observer": { "textures": ["textures/mini_blocks/blocks/observer"] },
+    "mb.red_concrete": {
+      "textures": ["textures/mini_blocks/blocks/red_concrete"]
+    },
+    "mb.amethyst_block": {
+      "textures": ["textures/mini_blocks/blocks/amethyst_block"]
+    },
+    "hh.welsknight": {
+      "textures": ["textures/hermit_heads/blocks/welsknight"]
+    },
+    "mb.beehive": { "textures": ["textures/mini_blocks/blocks/beehive"] },
+    "mb.copper_ore": { "textures": ["textures/mini_blocks/blocks/copper_ore"] },
+    "mb.nether_bricks": {
+      "textures": ["textures/mini_blocks/blocks/nether_bricks"]
+    },
+    "mb.honey_block": {
+      "textures": ["textures/mini_blocks/blocks/honey_block"]
+    },
+    "mb.dirt": { "textures": ["textures/mini_blocks/blocks/dirt"] },
+    "mb.tuff": { "textures": ["textures/mini_blocks/blocks/tuff"] },
+    "mb.red_sandstone": {
+      "textures": ["textures/mini_blocks/blocks/red_sandstone"]
+    },
+    "mb.purpur_block": {
+      "textures": ["textures/mini_blocks/blocks/purpur_block"]
+    },
+    "mb.coal_block": { "textures": ["textures/mini_blocks/blocks/coal_block"] },
+    "mb.deepslate_redstone_ore": {
+      "textures": ["textures/mini_blocks/blocks/deepslate_redstone_ore"]
+    },
+    "mb.sandstone": { "textures": ["textures/mini_blocks/blocks/sandstone"] },
+    "mb.netherite_block": {
+      "textures": ["textures/mini_blocks/blocks/netherite_block"]
+    },
+    "mb.slime_block": {
+      "textures": ["textures/mini_blocks/blocks/slime_block"]
+    },
+    "mb.ender_chest": {
+      "textures": ["textures/mini_blocks/blocks/ender_chest"]
+    },
+    "hh.pythongb": { "textures": ["textures/hermit_heads/blocks/pythongb"] },
+    "mb.black_concrete": {
+      "textures": ["textures/mini_blocks/blocks/black_concrete"]
+    },
+    "mb.bubble_coral_block": {
+      "textures": ["textures/mini_blocks/blocks/bubble_coral_block"]
+    },
+    "mb.jungle_planks": {
+      "textures": ["textures/mini_blocks/blocks/jungle_planks"]
+    },
+    "mb.blackstone": { "textures": ["textures/mini_blocks/blocks/blackstone"] },
+    "mb.light_gray_concrete": {
+      "textures": ["textures/mini_blocks/blocks/light_gray_concrete"]
+    },
+    "mb.flowering_azalea_leaves": {
+      "textures": ["textures/mini_blocks/blocks/flowering_azalea_leaves"]
+    },
+    "mb.polished_blackstone": {
+      "textures": ["textures/mini_blocks/blocks/polished_blackstone"]
+    },
+    "mb.podzol": { "textures": ["textures/mini_blocks/blocks/podzol"] },
+    "mb.redstone_lamp_unlit": {
+      "textures": ["textures/mini_blocks/blocks/redstone_lamp_unlit"]
+    },
+    "hh.xisuma": { "textures": ["textures/hermit_heads/blocks/xisuma"] },
+    "mb.fire_coral_block": {
+      "textures": ["textures/mini_blocks/blocks/fire_coral_block"]
+    }
+  },
+  "num_mip_levels": 4,
+  "texture_name": "atlas.terrain"
+}

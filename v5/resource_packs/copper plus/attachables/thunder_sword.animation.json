@@ -1,0 +1,33 @@
+//Hero Studios and Andriel Games
+{
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "heavy:thunder_sword",
+      "materials": {
+        "default": "spider",
+        "enchanted": "entity_alphatest_change_color_glint"
+      },
+      "textures": {
+        "item_frame_1": "textures/items/thunder_sword",
+        "item_frame_2": "textures/items/thunder_sword2",
+        "item_frame_3": "textures/items/thunder_sword3",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+       "model_frame_1": "geometry.item_frame_1_true",
+       "model_frame_2": "geometry.item_frame_2_true",
+       "model_frame_3": "geometry.item_frame_3_true"
+      },
+      "animations": {
+        "vision": "animation.item_animated_true.vision"
+      },
+      "scripts": {
+        "animate": [
+          "vision"
+        ]
+      },
+      "render_controllers": [ "controller.render.item_animated_type_2" ]
+    }
+  }
+}

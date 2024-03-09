@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_4805c2a2"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:scaffolding",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:bamboo",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

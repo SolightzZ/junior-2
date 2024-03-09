@@ -1,0 +1,26 @@
+{
+    "format_version": "1.16.221",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "addon:sp_2"
+        },
+        "tags": [
+            "multiplying_crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "#P#",
+            "# #"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:emerald"
+            },
+            "P": {
+                "item": "minecraft:potion",
+                "data": 5
+            }
+        },
+        "result": "addon:sp_2"
+    }
+}

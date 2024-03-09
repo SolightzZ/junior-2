@@ -1,0 +1,32 @@
+//bridge-file-version: #5
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.getreviving": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"reviving": "query.variant == 3 || query.variant == 2"
+						}
+					],
+					"on_entry": [
+						"@s minecraft:entity_spawned",
+						"/playanimation @s animation.humanoid.revive_end"
+					]
+				},
+				"reviving": {
+					"transitions": [
+						{
+							"default": "query.all_animations_finished"
+						}
+					],
+					"animations": [
+						"reviving"
+					]
+				}
+			}
+		}
+	}
+}

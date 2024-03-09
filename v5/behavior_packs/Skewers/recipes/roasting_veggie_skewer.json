@@ -1,0 +1,16 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "roasting_veggie_skewer"
+    },
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
+    "input": "skw:raw_veggie_skewer",
+    "output": "skw:roasted_veggie_skewer"
+  }
+}

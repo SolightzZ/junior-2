@@ -1,0 +1,26 @@
+{
+    "format_version": "1.16.221",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "addon:sp_3"
+        },
+        "tags": [
+            "multiplying_crafting_table"
+        ],
+        "pattern": [
+            "###",
+            "#P#",
+            "# #"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:redstone"
+            },
+            "P": {
+                "item": "minecraft:potion",
+                "data": 12
+            }
+        },
+        "result": "addon:sp_3"
+    }
+}

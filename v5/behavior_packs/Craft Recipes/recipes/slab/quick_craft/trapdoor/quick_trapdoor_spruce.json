@@ -1,0 +1,28 @@
+//bridge-file-version: #15
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:quick_trapdoor_spruce"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ooo",
+			"ooo"
+		],
+		"key": {
+			"o": {
+				"item": "minecraft:log",
+				"data": 1
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:spruce_trapdoor",
+				"count": 8
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:acacia_stairs"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:acacia_stairs"
+			}
+		},
+		"result": {
+			"item": "nba:acacia_stairs",
+			"count": 1
+		}
+	}
+}

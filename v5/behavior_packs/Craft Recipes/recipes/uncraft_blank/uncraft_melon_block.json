@@ -1,0 +1,23 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "polish:uncraft_melon_block"
+		},
+		"tags": [
+			"stonecutter"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:melon_block"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:melon",
+				"count": 6
+			}
+		]
+	}
+}

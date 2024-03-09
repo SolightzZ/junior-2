@@ -1,0 +1,27 @@
+//bridge-file-version: #14
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:slabs_dark_prismarine"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:double_stone_slab2",
+				"data": 3
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:prismarine",
+				"data": 1
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+    "identifier": "minecraft:stonecutter_dark_oak_planks"
+    },
+
+    
+    "tags": [ "stonecutter" ],
+    "priority": 0,
+    "ingredients": [
+      {
+        "item": "minecraft:log2",
+        "data": 1
+      }
+    ],
+    "result": {
+      "item": "minecraft:planks",
+      "data": 5,
+      "count": 4
+    }
+  }
+  
+}

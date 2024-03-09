@@ -1,0 +1,36 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Emotes",
+		"description": "By Dexten and Halo333 \nEdit By SolightzZ",
+		"uuid": "0d9c3dac-ff0c-4a2f-858c-e3176f395e53",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "adf9615a-cc00-4ab7-879b-48766261fec1",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"1.8.3"
+			]
+		}
+	}
+}
