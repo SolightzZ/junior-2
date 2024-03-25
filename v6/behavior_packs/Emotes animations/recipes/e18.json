@@ -1,0 +1,20 @@
+{
+    "format_version": "1.16.221",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "addon:e18"
+        },
+        "tags": [
+            "multiplying_crafting_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:raw_copper"
+            }
+        },
+        "result": "addon:e18"
+    }
+}

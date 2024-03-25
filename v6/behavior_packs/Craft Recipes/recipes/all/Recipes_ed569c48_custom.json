@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_d0c5d685"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:beehive",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:honeycomb",
+      "count": 3,
+      "data": 0
+    }
+  }
+}

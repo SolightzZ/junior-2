@@ -1,0 +1,61 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+
+    "bc": {
+      "textures": "textures/items/bc"
+    },
+    "ch": {
+      "textures": "textures/items/ch"
+    },
+    "Diamond_f": {
+      "textures": "textures/items/Diamond_f"
+    },
+    "la_1": {
+      "textures": "textures/items/la_1"
+    },
+    "la_2": {
+      "textures": "textures/items/la_2"
+    },
+    "la_3": {
+      "textures": "textures/items/la_3"
+    },
+    "mu": {
+      "textures": "textures/items/mu"
+    },
+    "mumber": {
+      "textures": "textures/items/mumber"
+    },
+    "pig_1": {
+      "textures": "textures/items/pig_1"
+    },
+    "pig_2": {
+      "textures": "textures/items/pig_2"
+    },
+    "pig_3": {
+      "textures": "textures/items/pig_3"
+    },
+    "sp_1": {
+      "textures": "textures/items/sp_1"
+    },
+    "sp_2": {
+      "textures": "textures/items/sp_2"
+    },
+    "sp_3": {
+      "textures": "textures/items/sp_3"
+    },
+    "sp_4": {
+      "textures": "textures/items/sp_4"
+    },
+    "Terra_Blade": {
+      "textures": "textures/items/Terra_Blade"
+    },
+    "e_0":{
+      "textures":"textures/items/emo"
+    },
+    "emote_0": {
+      "textures": "textures/items/emo"
+    }
+  }
+}

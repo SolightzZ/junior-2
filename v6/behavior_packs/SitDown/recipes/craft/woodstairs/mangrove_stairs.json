@@ -1,0 +1,23 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:mangrove_stairs"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:mangrove_stairs"
+			}
+		},
+		"result": {
+			"item": "nba:mangrove_stairs",
+			"count": 1
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "nicothekid:smoker_x_poisonous_potato"
+    },
+    "tags": [
+      "smoker"
+    ],
+    "input": {
+      "item": "minecraft:poisonous_potato",
+      "data": 0
+    },
+    "output": {
+      "item": "minecraft:potato",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

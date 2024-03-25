@@ -1,0 +1,20 @@
+{
+    "format_version": "1.16.221",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "pl2_helmet"
+        },
+        "tags": [
+            "mcrafting_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "bt:pl2"
+            }
+        },
+        "result": "bt:pl2_helmet"
+    }
+}

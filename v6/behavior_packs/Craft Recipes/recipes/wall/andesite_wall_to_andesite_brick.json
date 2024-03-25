@@ -1,0 +1,26 @@
+//bridge-file-version: #8
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:andesite_wall_to_andesite_brick"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:cobblestone_wall",
+				"data": 4,
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:stone",
+				"data": 5,
+				"count": 1
+			}
+		]
+	}
+}

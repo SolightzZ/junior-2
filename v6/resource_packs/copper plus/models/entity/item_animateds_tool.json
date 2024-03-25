@@ -1,0 +1,71 @@
+//Hero Studios and Andriel Games
+{
+	"format_version" : "1.16.0",
+	"minecraft:geometry" : [
+// for items type tools and sword non-static
+
+		{
+			"description" : {
+				"identifier" : "geometry.item_frame_1_true",
+				"texture_width" : 16.0,
+				"texture_height" : 16.0
+			},
+			"bones" : [
+				{
+					"name" : "rightitem",
+					"texture_meshes" : [
+						{
+							"local_pivot" : [ 6.0, 0.0, 6.0 ],
+							"position" : [ -0.3, 3.1, -7.2 ],
+							"rotation" : [ 0.0, 35.0, -95.0 ],
+							"scale": [ 0.92, 0.92, 0.92 ],
+							"texture" : "item_frame_1"
+						}
+					]
+				}
+			]
+		},
+     {
+			"description" : {
+				"identifier" : "geometry.item_frame_2_true",
+				"texture_width" : 16.0,
+				"texture_height" : 16.0
+			},
+			"bones" : [
+				{
+					"name" : "rightitem",
+					"texture_meshes" : [
+						{
+							"local_pivot" : [ 6.0, 0.0, 6.0 ],
+							"position" : [ -0.3, 3.1, -7.2 ],
+							"rotation" : [ 0.0, 35.0, -95.0 ],
+							"scale": [ 0.92, 0.92, 0.92 ],
+							"texture" : "item_frame_2"
+						}
+					]
+				}
+			]
+		},
+		{
+			"description" : {
+				"identifier" : "geometry.item_frame_3_true",
+				"texture_width" : 16.0,
+				"texture_height" : 16.0
+			},
+			"bones" : [
+				{
+					"name" : "rightitem",
+					"texture_meshes" : [
+						{
+							"local_pivot" : [ 6.0, 0.0, 6.0 ],
+							"position" : [ -0.3, 3.1, -7.2 ],
+							"rotation" : [ 0.0, 35.0, -95.0 ],
+							"scale": [ 0.92, 0.92, 0.92 ],
+							"texture" : "item_frame_3"
+						}
+					]
+				}
+			]
+		}
+	]
+}

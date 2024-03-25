@@ -1,0 +1,24 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:mossy_cobblestone_stairs_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:mossy_cobblestone_stairs"
+			}
+		},
+		"result": {
+			"item": "minecraft:mossy_cobblestone_stairs"
+			,
+			"count": 1
+		}
+	}
+}

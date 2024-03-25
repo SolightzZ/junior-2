@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "nicothekid:stonecut_x_sandstone_slab_x_cut_sandstone_slab"
+    },
+    "priority": 4,
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:double_stone_slab",
+        "data": 1
+      }
+    ],
+    "result": {
+      "item": "minecraft:double_stone_slab4",
+      "data": 3,
+      "count": 1
+    }
+  }
+}

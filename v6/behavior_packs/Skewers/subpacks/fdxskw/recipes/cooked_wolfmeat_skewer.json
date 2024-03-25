@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "cooked_wolfmeat_skewer"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "fdx:cooked_wolfmeat"
+      },
+      "B": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": [
+      {
+        "item": "skw:cooked_wolfmeat_skewer"
+      }
+    ]
+  }
+}

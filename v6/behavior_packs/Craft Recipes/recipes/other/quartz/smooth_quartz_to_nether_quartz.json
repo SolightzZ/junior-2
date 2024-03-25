@@ -1,0 +1,26 @@
+//bridge-file-version: #2
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:smooth_quartz_to_nether_quartz"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:quartz_block",
+				"count": 1,
+				"data": 3
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:quartz",
+				"data": 0,
+				"count": 4
+			}
+		]
+	}
+}

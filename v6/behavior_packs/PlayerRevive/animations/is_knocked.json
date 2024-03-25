@@ -1,0 +1,314 @@
+//bridge-file-version: #15
+{
+	"format_version": "1.10.0",
+	"animations": {
+		"animation.knocked": {
+			"timeline": {
+				"0": [
+					"/title @a[r=8] actionbar §c60s ██████§8█",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"1":[
+					"/tp @s ~~~",
+					"/playsound game.player.hurt @a[r=60]",
+					"/title @a subtitle §c@s",
+					"/title @a title §a",
+					"/say /////////////////////////",
+					"/playsound player.death @a[r=512] ~ ~ ~"
+				],
+				"2": [
+					"/title @a[r=8] actionbar §c59s ██████§8█"
+				],
+				"3":[],
+				"4": [
+					"/title @a[r=8] actionbar §c58s ██████§8█"
+				],
+				"5":[],
+				"6": [
+					"/title @a[r=8] actionbar §c57s ██████§8█"
+				],
+				"7":[],
+				"8": [
+					"/title @a[r=8] actionbar §c56s ██████§8█"
+				],
+				"9":[],
+				"10": [
+					"/title @a[r=8] actionbar §c55s ██████§8█",
+					"/title @a[r=3] title §a",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"11":[],
+				"12": [
+					"/title @a[r=8] actionbar §c54s ██████§8█"
+				],
+				"13":[],
+				"14": [
+					"/title @a[r=8] actionbar §c53s ██████§8█"
+				],
+				"15":[],
+				"16": [
+					"/title @a[r=8] actionbar §c52s ██████§8█"
+				],
+				"17":[],
+				"18": [
+					"/title @a[r=8] actionbar §c51s ██████§8█"
+				],
+				"19":[],
+				"20": [
+					"/title @a[r=8] actionbar §c50s █████§8██",
+					"/title @a[r=3] title §a",
+					"/title @s subtitle Sneak to surrender",
+					"/playsound random.click @a[r=60]",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"21":[],
+				"22": [
+					"/title @a[r=8] actionbar §c49s █████§8██"
+				],
+				"23":[],
+				"24": [
+					"/title @a[r=8] actionbar §c48s █████§8██"
+				],
+				"25":[],
+				"26": [
+					"/title @a[r=8] actionbar §c47s █████§8██"
+				],
+				"27":[],
+				"28": [
+					"/title @a[r=8] actionbar §c46s █████§8██"
+				],
+				"29":[],
+				"30": [
+					"/title @a[r=8] actionbar §c45s █████§8██",
+					"/title @a[r=3] title §a",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"31":[],
+				"32": [
+					"/title @a[r=8] actionbar §c44s █████§8██"
+				],
+				"33":[],
+				"34": [
+					"/title @a[r=8] actionbar §c43s █████§8██"
+				],
+				"35":[],
+				"36": [
+					"/title @a[r=8] actionbar §c42s █████§8██"
+				],
+				"37":[],
+				"38": [
+					"/title @a[r=8] actionbar §c41s █████§8██"
+				],
+				"39":[],
+				"40": [
+					"/title @a[r=8] actionbar §c40s ████§8███",
+					"/title @a[r=3] title §a",
+					"/playsound random.click @a[r=60]",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"41":[],
+				"42": [
+					"/title @a[r=8] actionbar §c39s ████§8███"
+				],
+				"43":[],
+				"44": [
+					"/title @a[r=8] actionbar §c38s ████§8███"
+				],
+				"45":[],
+				"46": [
+					"/title @a[r=8] actionbar §c37s ████§8███"
+				],
+				"47":[],
+				"48": [
+					"/title @a[r=8] actionbar §c36s ████§8███"
+				],
+				"49":[],
+				"50": [
+					"/title @a[r=8] actionbar §c35s ████§8███",
+					"/title @a[r=3] title §a",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"51":[],
+				"52": [
+					"/title @a[r=8] actionbar §c34s ████§8███"
+				],
+				"53":[],
+				"54": [
+					"/title @a[r=8] actionbar §c33s ████§8███"
+				],
+				"55":[],
+				"56": [
+					"/title @a[r=8] actionbar §c32s ████§8███"
+				],
+				"57":[],
+				"58": [
+					"/title @a[r=8] actionbar §c31s ████§8███"
+				],
+				"59":[],
+				"60": [
+					"/title @a[r=8] actionbar §c30s ███§8████",
+					"/title @a[r=3] title §a",
+					"/playsound random.click @a[r=60]",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"61":[],
+				"62": [
+					"/title @a[r=8] actionbar §c29s ███§8████"
+				],
+				"63":[],
+				"64": [
+					"/title @a[r=8] actionbar §c28s ███§8████"
+				],
+				"65":[],
+				"66": [
+					"/title @a[r=8] actionbar §c27s ███§8████"
+				],
+				"67":[],
+				"68": [
+					"/title @a[r=8] actionbar §c26s ███§8████"
+				],
+				"69":[],
+				"70": [
+					"/title @a[r=8] actionbar §c25s ███§8████",
+					"/title @a[r=3] title §a",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"71":[],
+				"72": [
+					"/title @a[r=8] actionbar §c24s ███§8████"
+				],
+				"73":[],
+				"74": [
+					"/title @a[r=8] actionbar §c23s ███§8████"
+				],
+				"76":[],
+				"77": [
+					"/title @a[r=8] actionbar §c22s ███§8████"
+				],
+				"78":[],
+				"79": [
+					"/title @a[r=8] actionbar §c21s ███§8████"
+				],
+				"80":[],
+				"81": [
+					"/title @a[r=8] actionbar §c20s ██§8█████",
+					"/title @a[r=3] title §a",
+					"/playsound random.click @a[r=60]",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"82":[],
+				"83": [
+					"/title @a[r=8] actionbar §c19s ██§8█████"
+				],
+				"84":[],
+				"85": [
+					"/title @a[r=8] actionbar §c18s ██§8█████"
+				],
+				"86":[],
+				"87": [
+					"/title @a[r=8] actionbar §c17s ██§8█████"
+				],
+				"88":[],
+				"89": [
+					"/title @a[r=8] actionbar §c16s ██§8█████"
+				],
+				"90":[],
+				"91": [
+					"/title @a[r=8] actionbar §c15s ██§8█████",
+                    "/title @a[r=3] title §a",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"92":[],
+				"93": [
+					"/title @a[r=8] actionbar §c14s ██§8█████"
+				],
+				"94":[],
+				"95": [
+					"/title @a[r=8] actionbar §c13s ██§8█████"
+				],
+				"96":[],
+				"97": [
+					"/title @a[r=8] actionbar §c12s ██§8█████"
+				],
+				"98":[],
+				"99": [
+					"/title @a[r=8] actionbar §c11s ██§8█████"
+				],
+				"100":["/playsound random.click @a[r=60]"],
+				"101": [
+					"/title @a[r=8] actionbar §c10s ██§8█████",
+					"/title @a[r=3] title §a",
+					"/playsound random.click @a[r=60]",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10",
+					"/playsound random.click @a[r=60]"
+				],
+				"102":["/playsound random.click @a[r=60]"],
+				"103": [
+					"/title @a[r=8] actionbar §c09s █§8██████",
+					"/playsound random.click @a[r=60]"
+				],
+				"104":["/playsound random.click @a[r=60]"],
+				"105": [
+					"/title @a[r=8] actionbar §c08s █§8██████",
+					"/playsound random.click @a[r=60]"
+				],
+				"106":["/playsound random.click @a[r=60]"],
+				"107": [
+					"/title @a[r=8] actionbar §c07s █§8██████",
+					"/playsound random.click @a[r=60]"
+				],
+				"108":["/playsound random.click @a[r=60]"],
+				"109": [
+					"/title @a[r=8] actionbar §c06s █§8██████",
+					"/playsound random.click @a[r=60]"
+				],
+				"110":["/playsound random.click @a[r=60]"],
+				"111": [
+					"/title @a[r=8] actionbar §c05s █§8██████",
+					"/title @a[r=3] title §a",
+					"/playsound random.click @a[r=60]",
+					"/title @s subtitle Sneak to surrender",
+					"/playanimation @s animation.humanoid.knocked t 10"
+				],
+				"112":["/playsound random.click @a[r=60]"],
+				"113": [
+					"/title @a[r=8] actionbar §c04s █§8██████",
+					"/playsound random.click @a[r=60]"
+				],
+				"114":["/playsound random.click @a[r=60]"],
+				"115": [
+					"/title @a[r=8] actionbar §c03s █§8██████",
+					"/playsound random.click @a[r=60]"
+				],
+				"116":["/playsound random.click @a[r=60]"],
+				"117": [
+					"/title @a[r=8] actionbar §c02s █§8██████",
+					"/playsound random.click @a[r=60]"
+				],
+				"118":["/playsound random.click @a[r=60]"],
+				"119": [
+					"/title @a[r=8] actionbar §c01s █§8██████",
+					"/playsound random.click @a[r=60]"
+				],
+				"120": [
+					"@s pr:respawn",
+					"/title @a[r=3] title §a",
+					"/playsound mob.wither.ambient @a[r=60] ~ ~ ~",
+					"/title @a[r=8] actionbar §c00s §8███████",
+					"/playsound mob.wither.ambient @a",
+					"/kill @s"
+				]
+			},
+			"animation_length": 121
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "head_x_player"
+      },
+      "tags": [
+        "multiplying_crafting_table"
+      ],
+      "pattern": [
+        "#"
+      ],
+      "key": {
+        "#": {
+          "item": "fxnt_ph:player_head_1_item"
+        }
+      },
+      "result": {
+        "item": "minecraft:skull",
+        "data": 3,
+        "count": 1
+      }
+    }
+  }
+  

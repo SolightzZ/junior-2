@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "nicothekid:blast_x_activator_rail"
+    },
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": {
+      "item": "minecraft:activator_rail",
+      "data": 0
+    },
+    "output": {
+      "item": "minecraft:iron_nugget",
+      "data": 0,
+      "count": 2
+    }
+  }
+}

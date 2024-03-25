@@ -1,0 +1,31 @@
+{
+    "format_version": "1.16.221",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "magnet:iron_magnet"
+        },
+        "tags": [
+            "multiplying_crafting_table"
+        ],
+        "pattern": [
+            "# N",
+            "i  ",
+            "iiR"
+        ],
+        "key": {
+                "#": {
+                    "item": "minecraft:lapis_lazuli"
+                },
+                "N": {
+                    "item": "minecraft:nether_star"
+                },
+                "i": {
+                    "item": "minecraft:iron_ingot"
+                },
+                "R": {
+                    "item": "minecraft:redstone"
+                }
+        },
+        "result": "magnet:iron_magnet"
+    }
+}
