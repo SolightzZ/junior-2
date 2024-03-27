@@ -1,4 +1,4 @@
-// Head
+## Head
 item.fxnt_ph:player_head_1_item=Head §f
 entity.fxnt_ph:player_head_1.name=Head §f
 action.hint.exit.fxnt_ph:player_head_1=Jump to Exit
@@ -66,7 +66,7 @@ itemGroup.name.hermit_heads=§eHermit Heads §f
 
 
 
-/// Block head players
+## Block head players
 tile.bt:hh.bdoubleo100.name=Solight§r §f
 tile.bt:hh.biffa2001.name=XxsomponxX§r §f
 tile.bt:hh.cubfan135.name=SataKung§r §f
@@ -88,7 +88,7 @@ tile.bt:hh.pythongb.name=sekpongpipat258§r §f
 tile.bt:hh.renthedog.name=MC BASKUNG§r §f
 tile.bt:hh.stressmonster101.name=DeMonKung9987§r §f
 
-// Junior 2
+## Junior 2
 tile.bt:hh.tango_tek.name=maewsanCH8§r §f
 tile.bt:hh.tinfoilchef.name=KwanXD009§r §f
 tile.bt:hh.vintagebeef.name=Momoi3727§r §f
@@ -98,7 +98,7 @@ tile.bt:hh.xisuma.name=(3)§r §f
 tile.bt:hh.zedaph.name=(4)§r §f
 tile.bt:hh.zombiecleo.name=(5)§r §f
 
-// tile pl
+## tile pl
 
 tile.bt:pl1.name=Cxnthiaz§r §f
 tile.bt:pl2.name=NAMI9519§r §f
@@ -123,7 +123,7 @@ tile.bt:pl20.name=(Discord) rachata5013
 tile.bt:pl21.name=FailedElm805139§r §f
 tile.bt:pl22.name=TaFlookXD§r §f
 
-// Item head plaers
+## Item head players
 item.bt:hh.bdoubleo100_helmet=Solight§r §f
 item.bt:hh.biffa2001_helmet=XxsomponxX§r §f
 item.bt:hh.cubfan135_helmet=SataKung§r §f
@@ -145,7 +145,7 @@ item.bt:hh.pythongb_helmet=HENRY TV CHANEL§f
 item.bt:hh.renthedog_helmet=MC BASKUNG§r §f
 item.bt:hh.stressmonster101_helmet=DeMonKung9987§r §f\
 
-// Junior 2
+## Junior 2
 item.bt:hh.tango_tek_helmet=maewsanCH8§r §f
 item.bt:hh.tinfoilchef_helmet=KwanXD009§r §f
 item.bt:hh.vintagebeef_helmet=Momoi3727§r §f
@@ -155,7 +155,7 @@ item.bt:hh.xisuma_helmet=(3)§r §f
 item.bt:hh.zedaph_helmet=(4)§r §f
 item.bt:hh.zombiecleo_helmet=(5)§r §f
 
-// item.bt:pl
+## item.bt:pl
 
 item.bt:pl1_helmet=Cxnthiaz§r §f
 item.bt:pl2_helmet=NAMI9519§r §f

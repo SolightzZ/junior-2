@@ -7,7 +7,7 @@
         "default": "armor"
       },
       "textures": {
-        "default": "textures/hermit_heads/blocks/hypnotizd"
+        "default": "textures/hermit_heads/helmets/hypnotizd"
       },
       "geometry": {
         "default": "geometry.player.armor.helmet"

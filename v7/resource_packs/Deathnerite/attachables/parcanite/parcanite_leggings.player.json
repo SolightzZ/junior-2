@@ -4,7 +4,7 @@
 		"description": {
 			"identifier": "heavy:parcanite_leggings.player",
 			"item": {
-				"heavy:parcanite_leggings": "query.owner_identifier == 'minecraft:player'"
+				"heavy:parcanite_leggings": "query.is_owner_identifier_any == 'minecraft:player'"
 			},
 			"materials": {
 				"default": "armor",

@@ -9,8 +9,7 @@
     "hh.joehillssays": {
       "textures": ["textures/hermit_heads/blocks/joehillssays"]
     },
-    "hh.hypnotizd": { "textures": ["textures/hermit_heads/blocks/zero"]
-    },
+    "hh.hypnotizd": { "textures": ["textures/hermit_heads/blocks/zero"] },
     "mb.dripstone": { "textures": ["textures/mini_blocks/blocks/dripstone"] },
     "mb.chest": { "textures": ["textures/mini_blocks/blocks/chest"] },
     "mb.birch_log": { "textures": ["textures/mini_blocks/blocks/birch_log"] },

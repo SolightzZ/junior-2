@@ -1,7 +1,7 @@
 chat.type.sleeping=  §r%s §6Nightfall, heading to bed now. Sweet dreams!
 map.position=%s %s %s
 multiplayer.player.joined= §7 %s §ajoined the 
-multiplayer.player.left= §7 %s §cleft the 
+multiplayer.player.left= §7 %s §c left the 
 
 item.elytra.name=§dElytra§f
 item.netherStar.name=§dNether Star§f
@@ -24,7 +24,7 @@ pauseScreen.title=Game Paused
 pauseScreen.betaFeedback=Beta Feedback
 pauseScreen.xboxLiveDisconnect=Oops! Your Microsoft Account was disconnected. To invite more players, sign in on the Main Menu and restart your world.
 pauseScreen.joinCode.Label=JOIN CODE
-pauseScreen.joinCode.Icon=%3 join code icon, %1 of %2	# Example: Apple join code icon, 2 of 5
+pauseScreen.joinCode.Icon=%3 join code icon, %1 of %2	## Example: Apple join code icon, 2 of 5
 
 permissions.operator=Admin 
 permissions.member=support
@@ -61,10 +61,9 @@ content.import.succeeded_with_warnings.subtitle=Click here for more info
 content.import.started=§l§bSever started...§f
 
 entity.add:floating_text.name=Floating text - §dspecial§f
-entity.add:floating_text.name=Floating text - §dspecial§f
 item.spawn_egg.entity.add:floating_text.name=Floating text - §dspecial§f
 
-//block//
+
 tile.add:sleep.name=sleeplite Block - §dspecial§f
 tile.add:uss.name=Universe Survival Block - §dspecial§f
 tile.add:mw.name=MyWorld Block - §dspecial§f

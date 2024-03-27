@@ -1,28 +1,26 @@
 {
-	"format_version": "1.10.0",
-	"minecraft:attachable": {
-		"description": {
-			"identifier": "heavy:parcanite_chestplate.player",
-			"item": {
-				"heavy:parcanite_chestplate": "query.owner_identifier == 'minecraft:player'"
-			},
-			"materials": {
-				"default": "spider",
-				"enchanted": "entity_alphatest_change_color_glint"
-			},
-			"textures": {
-				"default": "textures/models/armor/parcanite_chestplate",
-				"enchanted": "textures/misc/enchanted_item_glint"
-			},
-			"geometry": {
-				"default": "geometry.parcanite_chestplate"
-			},
-			"scripts": {
-				"parent_setup": "variable.chest_layer_visible = 0.0;"
-			},
-			"render_controllers": [
-				"controller.render.armor"
-			]
-		}
-	}
+  "format_version": "1.10.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "heavy:parcanite_chestplate.player",
+      "item": {
+        "heavy:parcanite_chestplate": "query.is_owner_identifier_any == 'minecraft:player'"
+      },
+      "materials": {
+        "default": "spider",
+        "enchanted": "entity_alphatest_change_color_glint"
+      },
+      "textures": {
+        "default": "textures/models/armor/parcanite_chestplate",
+        "enchanted": "textures/misc/enchanted_item_glint"
+      },
+      "geometry": {
+        "default": "geometry.parcanite_chestplate"
+      },
+      "scripts": {
+        "parent_setup": "variable.chest_layer_visible = 0.0;"
+      },
+      "render_controllers": ["controller.render.armor"]
+    }
+  }
 }

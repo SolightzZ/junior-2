@@ -607,74 +607,74 @@
     "mb.purple_concrete.helmet": {
       "textures": ["textures/mini_blocks/helmets/purple_concrete"]
     },
-    "player_head_1": { 
-      "textures": ["textures/items/player_head_1"] 
+    "player_head_1": {
+      "textures": ["textures/items/player_head_1"]
     },
-    "pl1":{
-      "textures":["textures/hermit_heads/helmets/pl1"]
+    "pl1": {
+      "textures": ["textures/hermit_heads/helmets/pl1"]
     },
-    "pl2":{
-      "textures":["textures/hermit_heads/helmets/pl2"]
+    "pl2": {
+      "textures": ["textures/hermit_heads/helmets/pl2"]
     },
-    "pl3":{
-      "textures":["textures/hermit_heads/helmets/pl3"]
+    "pl3": {
+      "textures": ["textures/hermit_heads/helmets/pl3"]
     },
-    "pl4":{
-      "textures":["textures/hermit_heads/helmets/pl4"]
+    "pl4": {
+      "textures": ["textures/hermit_heads/helmets/pl4"]
     },
-    "pl5":{
-      "textures":["textures/hermit_heads/helmets/pl5"]
+    "pl5": {
+      "textures": ["textures/hermit_heads/helmets/pl5"]
     },
-    "pl6":{
-      "textures":["textures/hermit_heads/helmets/pl6"]
+    "pl6": {
+      "textures": ["textures/hermit_heads/helmets/pl6"]
     },
-    "pl7":{
-      "textures":["textures/hermit_heads/helmets/pl7"]
+    "pl7": {
+      "textures": ["textures/hermit_heads/helmets/pl7"]
     },
-    "pl8":{
-      "textures":["textures/hermit_heads/helmets/pl8"]
+    "pl8": {
+      "textures": ["textures/hermit_heads/helmets/pl8"]
     },
-    "pl9":{
-      "textures":["textures/hermit_heads/helmets/pl9"]
+    "pl9": {
+      "textures": ["textures/hermit_heads/helmets/pl9"]
     },
-    "pl10":{
-      "textures":["textures/hermit_heads/helmets/pl10"]
+    "pl10": {
+      "textures": ["textures/hermit_heads/helmets/pl10"]
     },
-    "pl11":{
-      "textures":["textures/hermit_heads/helmets/pl11"]
+    "pl11": {
+      "textures": ["textures/hermit_heads/helmets/pl11"]
     },
-    "pl12":{
-      "textures":["textures/hermit_heads/helmets/pl12"]
+    "pl12": {
+      "textures": ["textures/hermit_heads/helmets/pl12"]
     },
-    "pl13":{
-      "textures":["textures/hermit_heads/helmets/pl13"]
+    "pl13": {
+      "textures": ["textures/hermit_heads/helmets/pl13"]
     },
-    "pl14":{
-      "textures":["textures/hermit_heads/helmets/pl14"]
+    "pl14": {
+      "textures": ["textures/hermit_heads/helmets/pl14"]
     },
-    "pl15":{
-      "textures":["textures/hermit_heads/helmets/pl15"]
+    "pl15": {
+      "textures": ["textures/hermit_heads/helmets/pl15"]
     },
-    "pl16":{
-      "textures":["textures/hermit_heads/helmets/pl16"]
+    "pl16": {
+      "textures": ["textures/hermit_heads/helmets/pl16"]
     },
-    "pl17":{
-      "textures":["textures/hermit_heads/helmets/pl17"]
+    "pl17": {
+      "textures": ["textures/hermit_heads/helmets/pl17"]
     },
-    "pl18":{
-      "textures":["textures/hermit_heads/helmets/pl18"]
+    "pl18": {
+      "textures": ["textures/hermit_heads/helmets/pl18"]
     },
-    "pl19":{
-      "textures":["textures/hermit_heads/helmets/pl19"]
+    "pl19": {
+      "textures": ["textures/hermit_heads/helmets/pl19"]
     },
-    "pl20":{
-      "textures":["textures/hermit_heads/helmets/pl20"]
+    "pl20": {
+      "textures": ["textures/hermit_heads/helmets/pl20"]
     },
-    "pl21":{
-      "textures":["textures/hermit_heads/helmets/pl21"]
+    "pl21": {
+      "textures": ["textures/hermit_heads/helmets/pl21"]
     },
-    "pl22":{
-      "textures":["textures/hermit_heads/helmets/pl22"]
+    "pl22": {
+      "textures": ["textures/hermit_heads/helmets/pl22"]
     }
   },
   "resource_pack_name": "vanilla",

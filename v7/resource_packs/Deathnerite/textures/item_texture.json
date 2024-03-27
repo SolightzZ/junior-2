@@ -1,244 +1,133 @@
 {
-	"resource_pack_name": "bridgeRP",
-	"texture_name": "atlas.items",
-	"texture_data": {
-		"deathnerite_upgrade_smithing_template": {
-			"textures": [
-				"textures/items/deathnerite_upgrade_smithing_template"
-			]
-		},
-		"darkness_upgrade_smithing_template": {
-			"textures": [
-				"textures/items/darkness_upgrade_smithing_template"
-			]
-		},
-		"parcanite_axe": {
-			"textures": [
-				"textures/items/parcanite_axe"
-			]
-		},
-		"parcanite_boots": {
-			"textures": [
-				"textures/items/parcanite_boots"
-			]
-		},
-		"parcanite_leggings": {
-			"textures": [
-				"textures/items/parcanite_leggings"
-			]
-		},
-		"parcanite_chestplate": {
-			"textures": [
-				"textures/items/parcanite_chestplate"
-			]
-		},
-		"parcanite_helmet": {
-			"textures": [
-				"textures/items/parcanite_helmet"
-			]
-		},
-		"parcanite_hoe": {
-			"textures": [
-				"textures/items/parcanite_hoe"
-			]
-		},
-		"parcanite_pickaxe": {
-			"textures": [
-				"textures/items/parcanite_pickaxe"
-			]
-		},
-		"parcanite_shovel": {
-			"textures": [
-				"textures/items/parcanite_shovel"
-			]
-		},
-		"parcanite_sword": {
-			"textures": [
-				"textures/items/parcanite_sword"
-			]
-		},
-		"deathnerite_axe": {
-			"textures": [
-				"textures/items/deathnerite_axe"
-			]
-		},
-		"deathnerite_boots": {
-			"textures": [
-				"textures/items/deathnerite_boots"
-			]
-		},
-		"deathnerite_leggings": {
-			"textures": [
-				"textures/items/deathnerite_leggings"
-			]
-		},
-		"deathnerite_chestplate": {
-			"textures": [
-				"textures/items/deathnerite_chestplate"
-			]
-		},
-		"deathnerite_helmet": {
-			"textures": [
-				"textures/items/deathnerite_helmet"
-			]
-		},
-		"deathnerite_hoe": {
-			"textures": [
-				"textures/items/deathnerite_hoe"
-			]
-		},
-		"deathnerite_pickaxe": {
-			"textures": [
-				"textures/items/deathnerite_pickaxe"
-			]
-		},
-		"deathnerite_shovel": {
-			"textures": [
-				"textures/items/deathnerite_shovel"
-			]
-		},
-		"deathnerite_sword": {
-			"textures": [
-				"textures/items/deathnerite_sword"
-			]
-		},
-		"gold_plate": {
-			"textures": [
-				"textures/items/gold_plate"
-			]
-		},
-		"deathnerite": {
-			"textures": [
-				"textures/items/deathnerite"
-			]
-		},
-		"gilded_deathnerite_boots": {
-			"textures": [
-				"textures/items/gilded_deathnerite_boots"
-			]
-		},
-		"gilded_deathnerite_leggings": {
-			"textures": [
-				"textures/items/gilded_deathnerite_leggings"
-			]
-		},
-		"gilded_deathnerite_chestplate": {
-			"textures": [
-				"textures/items/gilded_deathnerite_chestplate"
-			]
-		},
-		"gilded_deathnerite_helmet": {
-			"textures": [
-				"textures/items/gilded_deathnerite_helmet"
-			]
-		},
-		"deathnerite_apple": {
-			"textures": [
-				"textures/items/deathnerite_apple"
-			]
-		},
-		"deathnerite_carrot": {
-			"textures": [
-				"textures/items/deathnerite_carrot"
-			]
-		},
-		//project_ateneu
-		"deathnerite_katana": {
-			"textures": [
-				"textures/items/deathnerite_katana"
-			]
-		},
-		//true_weapons
-		"deathnerite_katana_true": {
-			"textures": [
-				"textures/items/true_weapons/katanas/deathnerite"
-			]
-		},
-		"deathnerite_long_sword": {
-			"textures": [
-				"textures/items/true_weapons/longs_sword/deathnerite"
-			]
-		},
-		"deathnerite_knife": {
-			"textures": [
-				"textures/items/true_weapons/knife/deathnerite"
-			]
-		},
-		"deathnerite_barbed_mace": {
-			"textures": [
-				"textures/items/true_weapons/barbed_mace/deathnerite"
-			]
-		},
-		"deathnerite_kama": {
-			"textures": [
-				"textures/items/true_weapons/kama/deathnerite"
-			]
-		},
-		"deathnerite_bearded_axe": {
-			"textures": [
-				"textures/items/true_weapons/bearded_axe/deathnerite"
-			]
-		},
-		"deathnerite_dane_axe": {
-			"textures": [
-				"textures/items/true_weapons/dane_axe/deathnerite"
-			]
-		},
-		"deathnerite_wakizashi": {
-			"textures": [
-				"textures/items/true_weapons/wakizashi/deathnerite"
-			]
-		},
-		"deathnerite_ninjatō": {
-			"textures": [
-				"textures/items/true_weapons/ninjatō/deathnerite"
-			]
-		},
-		"deathnerite_ōdachi": {
-			"textures": [
-				"textures/items/true_weapons/ōdachi/deathnerite"
-			]
-		},
-		"deathnerite_naginata": {
-			"textures": [
-				"textures/items/true_weapons/naginata/deathnerite"
-			]
-		},
-		"deathnerite_machete": {
-			"textures": [
-				"textures/items/true_weapons/machete/deathnerite"
-			]
-		},
-		"deathnerite_zweihander": {
-			"textures": [
-				"textures/items/true_weapons/zweihander/deathnerite"
-			]
-		},
-		"deathnerite_seitengewehr": {
-			"textures": [
-				"textures/items/true_weapons/seitengewehr/deathnerite"
-			]
-		},
-		//leather_plus
-		"leather_deathnerite_boots": {
-			"textures": [
-				"textures/items/leather_plus/leather_deathnerite_boots"
-			]
-		},
-		"leather_deathnerite_leggings": {
-			"textures": [
-				"textures/items/leather_plus/leather_deathnerite_leggings"
-			]
-		},
-		"leather_deathnerite_chestplate": {
-			"textures": [
-				"textures/items/leather_plus/leather_deathnerite_chestplate"
-			]
-		},
-		"leather_deathnerite_helmet": {
-			"textures": [
-				"textures/items/leather_plus/leather_deathnerite_helmet"
-			]
-		}
-	}
+  "resource_pack_name": "bridgeRP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "deathnerite_upgrade_smithing_template": {
+      "textures": ["textures/items/deathnerite_upgrade_smithing_template"]
+    },
+    "darkness_upgrade_smithing_template": {
+      "textures": ["textures/items/darkness_upgrade_smithing_template"]
+    },
+    "parcanite_axe": {
+      "textures": ["textures/items/parcanite_axe"]
+    },
+    "parcanite_boots": {
+      "textures": ["textures/items/parcanite_boots"]
+    },
+    "parcanite_leggings": {
+      "textures": ["textures/items/parcanite_leggings"]
+    },
+    "parcanite_chestplate": {
+      "textures": ["textures/items/parcanite_chestplate"]
+    },
+    "parcanite_helmet": {
+      "textures": ["textures/items/parcanite_helmet"]
+    },
+    "parcanite_hoe": {
+      "textures": ["textures/items/parcanite_hoe"]
+    },
+    "parcanite_pickaxe": {
+      "textures": ["textures/items/parcanite_pickaxe"]
+    },
+    "parcanite_shovel": {
+      "textures": ["textures/items/parcanite_shovel"]
+    },
+    "parcanite_sword": {
+      "textures": ["textures/items/parcanite_sword"]
+    },
+    "deathnerite_axe": {
+      "textures": ["textures/items/deathnerite_axe"]
+    },
+    "deathnerite_boots": {
+      "textures": ["textures/items/deathnerite_boots"]
+    },
+    "deathnerite_leggings": {
+      "textures": ["textures/items/deathnerite_leggings"]
+    },
+    "deathnerite_chestplate": {
+      "textures": ["textures/items/deathnerite_chestplate"]
+    },
+    "deathnerite_helmet": {
+      "textures": ["textures/items/deathnerite_helmet"]
+    },
+    "deathnerite_hoe": {
+      "textures": ["textures/items/deathnerite_hoe"]
+    },
+    "deathnerite_pickaxe": {
+      "textures": ["textures/items/deathnerite_pickaxe"]
+    },
+    "deathnerite_shovel": {
+      "textures": ["textures/items/deathnerite_shovel"]
+    },
+    "deathnerite_sword": {
+      "textures": ["textures/items/deathnerite_sword"]
+    },
+
+    "deathnerite": {
+      "textures": ["textures/items/deathnerite"]
+    },
+    "deathnerite_apple": {
+      "textures": ["textures/items/deathnerite_apple"]
+    },
+    "deathnerite_carrot": {
+      "textures": ["textures/items/deathnerite_carrot"]
+    },
+
+    "deathnerite_katana": {
+      "textures": ["textures/items/deathnerite_katana"]
+    },
+
+    "deathnerite_katana_true": {
+      "textures": ["textures/items/true_weapons/katanas/deathnerite"]
+    },
+    "deathnerite_long_sword": {
+      "textures": ["textures/items/true_weapons/longs_sword/deathnerite"]
+    },
+    "deathnerite_knife": {
+      "textures": ["textures/items/true_weapons/knife/deathnerite"]
+    },
+    "deathnerite_barbed_mace": {
+      "textures": ["textures/items/true_weapons/barbed_mace/deathnerite"]
+    },
+    "deathnerite_kama": {
+      "textures": ["textures/items/true_weapons/kama/deathnerite"]
+    },
+    "deathnerite_bearded_axe": {
+      "textures": ["textures/items/true_weapons/bearded_axe/deathnerite"]
+    },
+    "deathnerite_dane_axe": {
+      "textures": ["textures/items/true_weapons/dane_axe/deathnerite"]
+    },
+    "deathnerite_wakizashi": {
+      "textures": ["textures/items/true_weapons/wakizashi/deathnerite"]
+    },
+    "deathnerite_ninjato": {
+      "textures": ["textures/items/true_weapons/ninjato/deathnerite"]
+    },
+    "deathnerite_odachi": {
+      "textures": ["textures/items/true_weapons/odachi/deathnerite"]
+    },
+    "deathnerite_machete": {
+      "textures": ["textures/items/true_weapons/machete/deathnerite"]
+    },
+    "deathnerite_zweihander": {
+      "textures": ["textures/items/true_weapons/zweihander/deathnerite"]
+    },
+    "deathnerite_seitengewehr": {
+      "textures": ["textures/items/true_weapons/seitengewehr/deathnerite"]
+    },
+
+    "leather_deathnerite_boots": {
+      "textures": ["textures/items/leather_plus/leather_deathnerite_boots"]
+    },
+    "leather_deathnerite_leggings": {
+      "textures": ["textures/items/leather_plus/leather_deathnerite_leggings"]
+    },
+    "leather_deathnerite_chestplate": {
+      "textures": ["textures/items/leather_plus/leather_deathnerite_chestplate"]
+    },
+    "leather_deathnerite_helmet": {
+      "textures": ["textures/items/leather_plus/leather_deathnerite_helmet"]
+    }
+  }
 }
