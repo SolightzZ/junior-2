@@ -1,0 +1,49 @@
+//bridge-file-version: #18
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"tags": [
+			"crafting_table"
+		],
+		"description": {
+			"identifier": "polish:carpet_brown_beans"
+		},
+		"ingredients": [
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:carpet"
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 3
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:carpet",
+				"data": 12,
+				"count": 8
+			}
+		]
+	}
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_deepslate_bricks_x_slabs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B",
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:deepslate_brick_slab"
+      }
+    },
+    "result": {
+      "item": "minecraft:deepslate_bricks",
+      "count": 1
+    }
+  }
+}

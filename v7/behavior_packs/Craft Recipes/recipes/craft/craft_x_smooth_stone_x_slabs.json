@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_smooth_stone_x_slabs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "D",
+      "D"
+    ],
+    "key": {
+      "D": {
+        "item": "minecraft:double_stone_slab",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:smooth_stone",
+      "count": 1
+    }
+  }
+}

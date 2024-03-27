@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_blackstone_brick_x_slabs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B",
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:polished_blackstone_brick_slab"
+      }
+    },
+    "result": {
+      "item": "minecraft:polished_blackstone_bricks",
+      "count": 1
+    }
+  }
+}

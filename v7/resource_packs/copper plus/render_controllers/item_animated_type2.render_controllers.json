@@ -1,0 +1,35 @@
+//Hero Studios and Andriel Games
+//type 2 for non-static items ex: fire effect on sword
+{
+  "format_version": "1.10",
+  "render_controllers": {
+    "controller.render.item_animated_type_2": {
+      "arrays": {
+        "textures": {
+          "array.item_frames": [
+         //corresponding frames in model and attachable
+            "texture.item_frame_1",
+            "texture.item_frame_2",
+            "texture.item_frame_3"
+          ]
+        },
+        "geometries": {
+          "array.model_frames": [
+         //model frames for each non-static frame
+        //please do not use reused geometries, create new models different from the default
+            "geometry.model_frame_1",
+            "geometry.model_frame_2",
+            "geometry.model_frame_3"
+          ]
+        }
+      },
+      "geometry": "temp.life_time = query.life_time * 8.0; return array.model_frames[temp.life_time];",
+      "materials": [
+        {
+          "*": "variable.is_enchanted ? material.enchanted : material.default"
+        }
+      ],
+      "textures": [ "temp.life_time = query.life_time * 8.0; return array.item_frames[temp.life_time];", "texture.enchanted" ]
+    }
+  }
+}

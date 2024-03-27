@@ -1,0 +1,59 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "heavy:deathnerite_leggings",
+			"category": "equipment"
+		},
+		"components": {
+			"tag:minecraft:trimmable_armors": {},
+			"tag:weight_6": {},
+			"minecraft:max_stack_size": 1,
+			"minecraft:enchantable": {
+				"value": 25,
+				"slot": "armor_legs"
+			},
+			"minecraft:knockback_resistance": {
+				"protection": 0.2
+			  },
+			"minecraft:durability": {
+				"max_durability": 662,
+				"damage_chance": {
+					"min": 60,
+					"max": 100
+				}
+			},
+			"minecraft:icon": {
+				"texture": "deathnerite_leggings"
+			},
+			"minecraft:render_offsets": "leggings",
+			"minecraft:armor": {
+				"protection": 5
+			},
+			"minecraft:wearable": {
+				"slot": "slot.armor.legs"
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.leggings"
+			},
+			"minecraft:display_name": {},
+			"minecraft:on_use": {
+				"on_use": {
+					"event": "armor",
+					"target": "self"
+				}
+			}
+		},
+		"events": {
+			"armor": {
+				"condition": "query.equipped_item_any_tag('slot.armor.legs','air')",
+				"run_command": {
+				  "command": [
+					"playsound armor.equip_diamond @p"
+				  ],
+				  "target": "holder"
+				}
+			  }
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_a42bb29f"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:warped_fence",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:warped_planks",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

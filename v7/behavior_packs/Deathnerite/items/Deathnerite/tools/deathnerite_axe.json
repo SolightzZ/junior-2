@@ -1,0 +1,719 @@
+{
+	"format_version": "1.16.100",
+	"minecraft:item": {
+		"description": {
+			"identifier": "heavy:deathnerite_axe",
+			"category": "equipment"
+		},
+		"components": {
+			"minecraft:allow_off_hand": true,
+			"tag:minecraft:transformable_items": {},
+			"minecraft:max_stack_size": 1,
+			"minecraft:hand_equipped": true,
+			"minecraft:mining_speed": 1,
+			"minecraft:damage": 8,
+			"minecraft:use_on": {
+				"blocks": [
+					"log",
+					"log2",
+					"wood"
+				]
+			},
+			"minecraft:enchantable": {
+				"value": 25,
+				"slot": "axe"
+			},
+			"tag:minecraft:is_axe": {},
+			"minecraft:digger": {
+				"use_efficiency": true,
+				"destroy_speeds": [
+					{
+						"block": "minecraft:mangrove_fence_gate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_fence",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_planks",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_button",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_double_slab",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_slab",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_door",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:carved_pumpkin",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:lit_pumpkin",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:dark_oak_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:acacia_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:jungle_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:birch_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:spruce_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:wooden_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_standing_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_standing_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_standing_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:darkoak_standing_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:acacia_standing_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:jungle_standing_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:birch_standing_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:spruce_standing_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:standing_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:smithing_table",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:fletching_table",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_mangrove_wood",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_wood",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:wood",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_mangrove_log",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_log",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_dark_oak_log",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_acacia_log",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_jungle_log",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_birch_log",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_spruce_log",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_oak_log",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:log",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:log2",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:chest",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:melon_block",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crafting_table",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_planks",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_stem",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_crimson_stem",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_crimson_hyphae",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_hyphae",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_slab",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_fence",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_trapdoor",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_fence_gate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:oak_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:spruce_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:jungle_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:acacia_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:dark_oak_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:mangrove_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_stairs",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_button",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_wall_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_planks",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_stem",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_warped_stem",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:stripped_warped_hyphae",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_hyphae",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_slab",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_pressure_plate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_fence",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_trapdoor",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_fence_gate",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_button",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_door",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:warped_wall_sign",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:crimson_door",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:loom",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:trapped_chest",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:lectern",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:bookshelf",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:composter",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:jukebox",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:soul_campfire",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:campfire",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:bee_nest",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:beehive",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:cartography_table",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:scaffolding",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					},
+					{
+						"block": "minecraft:noteblock",
+						"speed": 16,
+						"on_dig": {
+							"event": "break_blocks"
+						}
+					}
+				],
+				"on_dig": {
+					"event": "break_blocks",
+					"target": "self"
+				}
+			},
+			"minecraft:display_name": {},
+			"minecraft:durability": {
+				"max_durability": 2437
+			},
+			"minecraft:weapon": {
+				"on_hurt_entity": {
+					"event": "break_blocks"
+				}
+			},
+			"minecraft:creative_category": {
+				"parent": "itemGroup.name.axe"
+			},
+			"minecraft:icon": {
+				"texture": "deathnerite_axe"
+			}
+		},
+		"events": {
+			"break_blocks": {
+				"damage": {
+					"type": "durability",
+					"amount": 1
+				}
+			}
+		}
+	}
+}

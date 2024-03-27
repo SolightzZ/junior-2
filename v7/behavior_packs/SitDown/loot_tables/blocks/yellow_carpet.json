@@ -1,0 +1,16 @@
+//bridge-file-version: #4
+{
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "item",
+					"name": "nba:yellow_carpet",
+					"weight": 1,
+					"count": 1
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,239 @@
+{
+  "student_button_custom@npc_interact.student_button": {
+    "size": [ "102%-10px", 33 ]
+  },
+
+  "student_custom_dialog": {
+    "type": "panel",
+    "size": [ "100%", "100%c" ],
+    "controls": [
+      { "student_custom_dialog_stack_panel@npc_interact.student_custom_dialog_stack_panel": {} }
+    ]
+  },
+
+  "button_image@horse.overlay_image": {
+    "type": "image",
+    "texture": "textures/ui/cartography_table_empty",
+    "size": [ 40, 40 ],
+    "offset": [ 22, 32 ]
+  },
+
+  "student_custom_dialog_stack_panel": {
+    "type": "stack_panel",
+    "texture": "textures/ui/cartography_table_empty",
+    "orientation": "vertical",
+    "size": [ "95%", "120%c" ],
+    "controls": [
+      {
+        "top_padding": {
+          "type": "panel",
+          "size": [ "100%", 2 ]
+        }
+      },
+      {
+        "middle_padding": {
+          "type": "panel",
+          "size": [ "100%", 2 ]
+        }
+      },
+      { 
+        "buttons": {
+          "type": "stack_panel",
+          "orientation": "horizontal",
+          "size": [ "102%", "100%cm" ],
+          "controls": [
+            {
+              "actions": {
+                "type": "grid",
+                "size": [ "fill", "default" ],
+                "grid_item_template": "npc_interact.student_button_custom",
+                "grid_dimension_binding": "#student_button_grid_dimensions",
+                "collection_name": "student_buttons_collection",
+                "bindings": [
+                  {
+                    "binding_name": "#student_button_grid_dimensions"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "bottom_padding": {
+          "type": "panel",
+          "size": [ "170%", 250 ]
+        }
+      }
+    ]
+  },
+  
+  "close_button_holder_custom": {
+    "type": "panel",
+    "size": [ "100%c", "100%c" ],
+    "anchor_from": "top_right",
+    "anchor_to": "bottom_right",
+    "offset": [ 8, -3 ],
+    "controls": [
+      {
+        "close_basic@npc_interact.x_close_button": {
+          "$close_button_to_button_id": "button.exit_basic",
+          "$visibility_binding_name": "#basic_visible"
+        }
+      },
+      {
+        "close_student_edit@npc_interact.ignorable_x_close_button": {
+          "ignored": "(not $is_worldbuilder)",
+          "$close_button_to_button_id": "button.exit_student_edit",
+          "$visibility_binding_name": "#student_view_visible"
+        }
+      },
+      {
+        "close_student@npc_interact.ignorable_x_close_button": {
+          "ignored": "$is_worldbuilder",
+          "$close_button_to_button_id": "button.exit_student",
+          "$visibility_binding_name": "#student_view_visible"
+        }
+      },
+      {
+        "close_maximized_action_edit@npc_interact.close_button_base": {
+          "$close_button_to_button_id": "button.exit_maximized",
+          "$default_texture": "textures/ui/minimize",
+          "$hover_texture": "textures/ui/minimizeHover",
+          "$pressed_texture": "textures/ui/minimizePress",
+          "$visibility_binding_name": "#maximized_edit_visible"
+        }
+      },
+      {
+        "close_advanced@npc_interact.close_button_base": {
+          "$close_button_to_button_id": "button.exit_advanced",
+          "$default_texture": "textures/ui/back_button_default",
+          "$hover_texture": "textures/ui/back_button_hover",
+          "$pressed_texture": "textures/ui/back_button_pressed",
+          "$visibility_binding_name": "#advanced_visible"
+        }
+      }
+    ]
+  },
+  "npc_screen_contents_custom": {
+    "type": "panel",
+    "controls": [
+      { "npc_screen_contents@npc_interact.npc_screen_contents": { "ignored": "(not $is_worldbuilder)" } },
+      {
+        "student_custom@common.root_panel": {
+          "size": [ 450, 270 ],
+          "$dialog_background": "textures/ui/dialog_background_npc",
+          "ignored": "$is_worldbuilder",
+          "controls": [
+            { "common_panel@common.common_panel": {} },
+            {
+              "title_panel": {
+                "type": "panel",
+                "size": [ "100%", "100%c" ],
+                "controls": [
+                  {
+                    "message_label": {
+                      "type": "label",
+                      "anchor_from": "top_left",
+                      "anchor_to": "top_left",
+                      "shadow": true,
+                      "size": [ "100%-8px", "default" ],
+                      "offset": [ 0, -120 ],
+                      "text": "#title_text",
+                      "font_size": "large",
+                      "bindings": [
+                        {
+                          "binding_name": "#title_text"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "dialogue_background": {
+                "type": "image",
+                "texture": "textures/ui/dialogue_background",
+                "size": [ 450, 270 ]
+              }
+            },
+            {
+              "text_panel": {
+                "type": "panel",
+                "size": [ 180, "100%" ],
+                "layer": 1,
+                "controls": [
+                  {
+                    "message_label": {
+                      "type": "label",
+                      "anchor_from": "top_right",
+                      "anchor_to": "top_right",
+                      "font_size": "left",
+                      "shadow": true,
+                      "size": [ "100%-8px", "default" ],
+                      "offset": [ 110,50 ],
+                      "text": "#dialogtext",
+                      "bindings": [
+                        {
+                          "binding_name": "#dialogtext"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "top_banner": {
+                "type": "image",
+                "texture": "textures/ui/banner",
+                "anchor_from": "top_right",
+                "anchor_to": "top_right",
+                "shadow": true,
+                "size": [ "100%", 75 ],
+                "offset": [ 115, 180 ]
+              }
+            },
+            {
+              "scrolling_panel@common.scrolling_panel": {
+                "size": [ 190, 250 ],
+                "offset": [ 17, 47 ],
+                "anchor_from": "top_left",
+                "anchor_to": "top_left",
+                "$scrolling_content": "npc_interact.student_custom_dialog",
+                "$show_background": false,
+                "$scroll_size": [ "-20px", "0% - 0px" ],
+                "$scroll_bar_left_padding_size": [ 0, 0 ]
+              }
+            }
+          ],
+          "bindings": [
+            {
+              "binding_name": "#student_view_visible",
+              "binding_name_override": "#visible",
+              "binding_type": "global"
+            }
+          ]
+        }
+      },
+      {
+        "close@close_button_holder_custom": {
+          "$close_button_to_button_id": "button.exit_student"
+        }
+      }
+    ]
+  },
+
+  "npc_screen": {
+    "type": "screen",
+    "$screen_content": "npc_interact.npc_screen_contents_custom",
+    "button_mappings": [
+      {
+        "from_button_id": "button.menu_exit",
+        "to_button_id": "button.menu_continue",
+        "mapping_type": "global"
+      }
+    ]
+  }
+}

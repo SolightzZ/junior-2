@@ -1,0 +1,42 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Diablo-Styled Mob Abilities!",
+    "name": "Tartarean Mobs",
+    "uuid": "3ec69960-1240-4175-8e8f-3f73aac0e918",
+    "version": [
+      12,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      10
+    ]
+  },
+  "modules": [
+    {
+      "description": "Diablo-Styled Mob Abilities!",
+      "type": "data",
+      "uuid": "87740e6f-6e28-4fb7-aaff-acb6e9b88508",
+      "version": [
+        12,
+        0,
+        0
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "blight",
+      "name": "§dBlight §fTartareans",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "empty",
+      "name": "§bVanilla §fTartareans",
+      "memory_tier": 1
+    }
+  ]
+}

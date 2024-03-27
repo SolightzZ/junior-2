@@ -1,0 +1,20 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.pose_4": {
+			"loop": true,
+			"animation_length": 1000,
+			"bones": {
+				"waist": {
+					"rotation": [0, 0, 0]
+				},
+				"root": {
+					"scale": [0.6, 0.6, 0.6]
+				},
+				"head": {
+					"scale": [1.1, 1.1, 1.1]
+				}
+			}
+		}
+	}
+}

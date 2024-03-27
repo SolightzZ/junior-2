@@ -1,0 +1,16 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "cooking_wolfmeat_skewer"
+    },
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
+    "input": "skw:wolfmeat_skewer",
+    "output": "skw:cooked_wolfmeat_skewer"
+  }
+}

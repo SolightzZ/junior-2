@@ -1,0 +1,21 @@
+{
+    "format_version": "1.16.221",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "addon:ch"
+        },
+        "tags": [
+            "multiplying_crafting_table"
+        ],
+        "pattern": [
+            "###"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:cocoa_beans",
+                "data": 3
+            }
+        },
+        "result": "addon:ch"
+    }
+}

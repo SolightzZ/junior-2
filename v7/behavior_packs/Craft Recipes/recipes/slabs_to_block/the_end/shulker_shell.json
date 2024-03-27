@@ -1,0 +1,28 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:shulker_shell"
+    },
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "f*",
+      "#f"
+   ],
+   "key": {
+      "#": {
+        "item": "minecraft:trident"
+      },
+      "*": {
+        "item": "minecraft:ender_eye",
+        "count": 2
+      },
+      "f": {
+          "item": "minecraft:dye_powder_pink"
+      }
+    },
+    "result": {
+      "item": "minecraft:shulker_shell"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_horse_armor_iron"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A A",
+      "ABA",
+      "A A"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:horsearmorleather",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:horsearmoriron",
+      "data": 0,
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:cyan_carpet_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:cyan_carpet"
+			}
+		},
+		"result": {
+			
+			
+			"item": "minecraft:carpet",
+				"data": 9,
+				"count": 1
+		}
+	}
+}

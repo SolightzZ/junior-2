@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:quartz_slab_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:quartz_slab"
+			}
+		},
+		"result": {
+			"item": "minecraft:stone_slab",
+     			 "data": 6
+			,
+			"count": 1
+		}
+	}
+}

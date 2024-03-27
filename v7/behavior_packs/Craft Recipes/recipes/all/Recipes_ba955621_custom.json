@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_472a7b05"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:grindstone",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:stone_slab",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

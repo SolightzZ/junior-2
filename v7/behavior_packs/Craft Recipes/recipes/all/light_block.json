@@ -1,0 +1,19 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "minecraft:light_block"
+		},
+		"tags": ["crafting_table"],
+		"ingredients": [{
+				"item": "minecraft:torch",
+				"count": 1
+			}
+		],
+		"result": [{
+			"item": "minecraft:light_block",
+			"data":15,
+			"count": 1
+		}]
+	}
+}

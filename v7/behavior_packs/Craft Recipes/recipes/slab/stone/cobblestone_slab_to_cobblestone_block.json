@@ -1,0 +1,28 @@
+//bridge-file-version: #15
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "bridge:cobblestone_slab_to_cobblestone_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:stone_slab",
+				"data": 3
+			}
+		},
+		"pattern": [
+			"#",
+			"#"
+		],
+		"result": [
+			{
+				"item": "minecraft:cobblestone",
+				"count": 1
+			}
+		]
+	}
+}

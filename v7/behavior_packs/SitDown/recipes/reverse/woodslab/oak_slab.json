@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:oak_slab_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:oak_slab"
+			}
+		},
+		"result": {
+			"item": "minecraft:wooden_slab",
+			"data": 0
+			,
+			"count": 1
+		}
+	}
+}

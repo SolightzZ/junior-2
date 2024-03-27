@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_dc49bbe9"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:enchanting_table",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:diamond",
+      "count": 2,
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:cobblestone_slab_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:cobblestone_slab"
+			}
+		},
+		"result": {
+			"item": "minecraft:double_stone_slab",
+			"data": 3
+			,
+			"count": 1
+		}
+	}
+}
