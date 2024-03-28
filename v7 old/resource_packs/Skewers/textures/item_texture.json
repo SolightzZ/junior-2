@@ -1,0 +1,45 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "cookie_skewer": {
+      "textures": "textures/items/skewer_cookie"
+    },
+    "raw_beef_skewer": {
+      "textures": "textures/items/skewer_beef_raw"
+    },
+    "raw_chicken_skewer": {
+      "textures": "textures/items/skewer_chicken_raw"
+    },
+    "raw_cod_skewer": {
+      "textures": "textures/items/skewer_cod_raw"
+    },
+    "raw_porkchop_skewer": {
+      "textures": "textures/items/skewer_porkchop_raw"
+    },
+    "raw_salmon_skewer": {
+      "textures": "textures/items/skewer_salmon_raw"
+    },
+    "raw_veggie_skewer": {
+      "textures": "textures/items/skewer_veggie_raw"
+    },
+    "cooked_beef_skewer": {
+      "textures": "textures/items/skewer_beef_cooked"
+    },
+    "cooked_chicken_skewer": {
+      "textures": "textures/items/skewer_chicken_cooked"
+    },
+    "cooked_cod_skewer": {
+      "textures": "textures/items/skewer_cod_cooked"
+    },
+    "cooked_porkchop_skewer": {
+      "textures": "textures/items/skewer_porkchop_cooked"
+    },
+    "cooked_salmon_skewer": {
+      "textures": "textures/items/skewer_salmon_cooked"
+    },
+    "roasted_veggie_skewer": {
+      "textures": "textures/items/skewer_veggie_cooked"
+    }
+  }
+}

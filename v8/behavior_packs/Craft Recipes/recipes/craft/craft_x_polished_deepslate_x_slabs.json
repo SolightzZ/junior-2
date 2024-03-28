@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_polished_deepslate_x_slabs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B",
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:polished_deepslate_slab"
+      }
+    },
+    "result": {
+      "item": "minecraft:polished_deepslate",
+      "count": 1
+    }
+  }
+}

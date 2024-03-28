@@ -1,0 +1,98 @@
+{
+	"format_version": [1,1,0],
+	"nba:white_carpet": {
+		"sound": "cloth"
+	},
+	"nba:black_carpet": {
+		"sound": "cloth"
+	},
+	"nba:blue_carpet": {
+		"sound": "cloth"
+	},
+	"nba:brown_carpet": {
+		"sound": "cloth"
+	},
+	"nba:cyan_carpet": {
+		"sound": "cloth"
+	},
+	"nba:gray_carpet": {
+		"sound": "cloth"
+	},
+	"nba:green_carpet": {
+		"sound": "cloth"
+	},
+	"nba:light_blue_carpet": {
+		"sound": "cloth"
+	},
+	"nba:light_gray_carpet": {
+		"sound": "cloth"
+	},
+	"nba:lime_carpet": {
+		"sound": "cloth"
+	},
+	"nba:magenta_carpet": {
+		"sound": "cloth"
+	},
+	"nba:orange_carpet": {
+		"sound": "cloth"
+	},
+	"nba:pink_carpet": {
+		"sound": "cloth"
+	},
+	"nba:red_carpet": {
+		"sound": "cloth"
+	},
+	"nba:purple_carpet": {
+		"sound": "cloth"
+	},
+	"nba:yellow_carpet": {
+		"sound": "cloth"
+	},
+	"nba:sit_warped_slab": {
+		"sound": "wood"
+	},
+	"nba:spruce_slab": {
+		"sound": "wood"
+	},
+	"nba:jungle_slab": {
+		"sound": "wood"
+	},
+	"nba:sit_crimson_slab": {
+		"sound": "wood"
+	},
+	"nba:birch_slab": {
+		"sound": "wood"
+	},
+	"nba:big_oak_slab": {
+		"sound": "wood"
+	},
+	"nba:acacia_slab": {
+		"sound": "wood"
+	},
+	"nba:oak_slab": {
+		"sound": "wood"
+	},"nba:sit_warped_stair": {
+		"sound": "wood"
+	},
+	"nba:spruce_stair": {
+		"sound": "wood"
+	},
+	"nba:jungle_stair": {
+		"sound": "wood"
+	},
+	"nba:sit_crimson_stair": {
+		"sound": "wood"
+	},
+	"nba:birch_stair": {
+		"sound": "wood"
+	},
+	"nba:big_oak_stair": {
+		"sound": "wood"
+	},
+	"nba:acacia_stair": {
+		"sound": "wood"
+	},
+	"nba:oak_stair": {
+		"sound": "wood"
+	}
+}

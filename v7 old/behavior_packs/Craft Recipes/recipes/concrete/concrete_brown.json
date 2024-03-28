@@ -1,0 +1,49 @@
+//bridge-file-version: #23
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"tags": [
+			"crafting_table"
+		],
+		"description": {
+			"identifier": "polish:concrete_brown_dye"
+		},
+		"ingredients": [
+			{
+				"item": "minecraft:concrete"
+			},
+			{
+				"item": "minecraft:concrete"
+			},
+			{
+				"item": "minecraft:concrete"
+			},
+			{
+				"item": "minecraft:concrete"
+			},
+			{
+				"item": "minecraft:concrete"
+			},
+			{
+				"item": "minecraft:concrete"
+			},
+			{
+				"item": "minecraft:concrete"
+			},
+			{
+				"item": "minecraft:concrete"
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 17
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:concrete",
+				"data": 12,
+				"count": 8
+			}
+		]
+	}
+}

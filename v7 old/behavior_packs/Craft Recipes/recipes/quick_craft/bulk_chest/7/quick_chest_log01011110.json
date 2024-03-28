@@ -1,0 +1,32 @@
+//bridge-file-version: #47
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:quick_chest_log01011110"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"olo",
+			"o l",
+			"lll"
+		],
+		"key": {
+			"o": {
+				"item": "minecraft:log"
+			},
+			"l": {
+				"item": "minecraft:log2"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:chest",
+				"count": 4
+			}
+		],
+		"group": "quick_chest"
+	}
+}

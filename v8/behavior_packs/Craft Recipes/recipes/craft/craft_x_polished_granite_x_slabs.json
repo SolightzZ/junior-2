@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "nicothekid:craft_x_polished_granite_x_slabs"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "G",
+      "G"
+    ],
+    "key": {
+      "G": {
+        "item": "minecraft:double_stone_slab3",
+        "data": 7
+      }
+    },
+    "result": {
+      "item": "minecraft:stone",
+      "data": 2,
+      "count": 1
+    }
+  }
+}

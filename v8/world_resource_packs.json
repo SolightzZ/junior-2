@@ -1,0 +1,73 @@
+
+[
+	
+	{
+		"pack_id" : "c19960ae-000a-4bdd-95d7-73732d295f19",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "75d90e26-c5fb-43a8-9c1c-5f5d86a5ce11",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "00482d07-2168-4cfa-b065-373bfc8386da",
+		"version" : [ 1, 1, 0 ]
+	},
+	
+	{
+		"pack_id" : "fa5ed77c-8640-474b-8331-d214d4d7f8fb",
+		"version" : [ 1, 1, 0 ]
+	},
+	
+	{
+		"pack_id" : "cbf1661e-011b-4257-9867-11fde4c1dc4a",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "3ebbb0c2-9866-43c2-be50-5943057f5bc7",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "249a3b34-20a4-423a-b791-1586a3dea404",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "e0868775-2943-45bb-aa8b-c5c272988051",
+		"version" : [ 1, 1, 0 ]
+	},
+	
+	{
+		"pack_id" : "cb1eb0fb-8b9b-41b8-b859-25b3ea521011",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "bf085f7f-1bed-4b86-aa4b-820b61a86b05",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "28c8501c-c3c5-4a1d-8311-71e1f450fbbc",
+		"version" : [ 0, 0, 1 ]
+	},
+	
+	{
+		"pack_id" : "2673bfd9-41f7-4fe9-a1c4-643bd6983b27",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "974d186e-88c5-4b49-b993-f5d631120a37",
+		"version" : [ 1, 0, 0 ]
+	},
+	
+	{
+		"pack_id" : "16b8b8fc-bd4f-4d9d-8ca8-0dc1349d58dd",
+		"version" : [ 1, 0, 0 ]
+	}
+]

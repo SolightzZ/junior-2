@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "slabs:plank_4"
+    },
+    "groups": [
+      "slabs"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "0",
+      "1"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:wooden_slab",
+        "data": 3
+      },
+      "1": {
+        "item": "minecraft:wooden_slab",
+        "data": 3
+      }
+    },
+    "result": {
+      "item": "minecraft:planks",
+      "data": 3,
+      "count": 1
+    }
+  }
+}

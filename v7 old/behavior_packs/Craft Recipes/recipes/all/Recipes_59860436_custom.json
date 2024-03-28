@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_e90973b4"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:composter",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:wooden_slab",
+      "count": 7,
+      "data": 0
+    }
+  }
+}

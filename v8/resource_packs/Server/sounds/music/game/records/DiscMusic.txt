@@ -1,0 +1,19 @@
+Music Disc [ ต้องเป็นนามสกุล .ogg เท่านั้น ]
+
+[  ตัวอย่างเช่น 13.ogg  ]
+
+- 13
+- cat
+- blocks
+- chirp
+- far
+- mall
+- mellohi
+- stal
+- strad
+- ward
+- 11
+- wait
+- pigstep
+
+ [มี  Disc  ทั้งหมด 13 Disc  ]

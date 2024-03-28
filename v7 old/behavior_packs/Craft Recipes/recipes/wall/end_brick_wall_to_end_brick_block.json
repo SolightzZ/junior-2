@@ -1,0 +1,25 @@
+//bridge-file-version: #19
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:end_brick_wall_to_end_brick_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:cobblestone_wall",
+				"data": 10,
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:end_bricks",
+				"count": 1
+			}
+		]
+	}
+}

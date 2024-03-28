@@ -1,0 +1,27 @@
+//bridge-file-version: #10
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:slabs_cobble_mossy"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:double_stone_slab2",
+				"data": 5
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:mossy_cobblestone",
+				"data": 0
+			}
+		]
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_13d00eed"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:bookshelf",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:book",
+      "count": 3,
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_09132598"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:daylight_detector",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:quartz",
+      "count": 3,
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_b0d62ec1"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:bed",
+        "data": 1
+      }
+    },
+    "result": {
+      "item": "minecraft:wool",
+      "count": 3,
+      "data": 1
+    }
+  }
+}

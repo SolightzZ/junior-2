@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "raw_mutton_skewer"
+    },
+    "tags": [
+      "multiplying_crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "A",
+      "B"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:mutton"
+      },
+      "B": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": [
+      {
+        "item": "skw:raw_mutton_skewer"
+      }
+    ]
+  }
+}

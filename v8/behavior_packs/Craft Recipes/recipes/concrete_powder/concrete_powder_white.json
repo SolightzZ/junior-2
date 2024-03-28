@@ -1,0 +1,49 @@
+//bridge-file-version: #47
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shapeless": {
+		"tags": [
+			"crafting_table"
+		],
+		"description": {
+			"identifier": "polish:concretepowder_white_dye"
+		},
+		"ingredients": [
+			{
+				"item": "minecraft:concrete_powder"
+			},
+			{
+				"item": "minecraft:concrete_powder"
+			},
+			{
+				"item": "minecraft:concrete_powder"
+			},
+			{
+				"item": "minecraft:concrete_powder"
+			},
+			{
+				"item": "minecraft:concrete_powder"
+			},
+			{
+				"item": "minecraft:concrete_powder"
+			},
+			{
+				"item": "minecraft:concrete_powder"
+			},
+			{
+				"item": "minecraft:concrete_powder"
+			},
+			{
+				"item": "minecraft:dye",
+				"data": 19
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:concrete_powder",
+				"data": 0,
+				"count": 8
+			}
+		]
+	}
+}

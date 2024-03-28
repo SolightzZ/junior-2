@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "slabs:plank_7"
+    },
+    "groups": [
+      "slabs"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "0",
+      "1"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:crimson_slab"
+      },
+      "1": {
+        "item": "minecraft:crimson_slab"
+      }
+    },
+    "result": {
+      "item": "minecraft:crimson_planks",
+      "count": 1
+    }
+  }
+}

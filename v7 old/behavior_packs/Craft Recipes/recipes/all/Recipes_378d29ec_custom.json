@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_bf382647"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AA ",
+      "AA "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:warped_stairs",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:warped_planks",
+      "count": 6,
+      "data": 0
+    }
+  }
+}

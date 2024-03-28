@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_6c51fa4b"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A A",
+      "ABA",
+      "A A"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:stick",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:honeycomb_block",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:bee_nest",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:oak_stairs"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:oak_stairs"
+			}
+		},
+		"result": {
+			"item": "nba:oak_stairs",
+			"count": 1
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+    "format_version": "1.16.221",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "addon:e3"
+        },
+        "tags": [
+            "craftimultiplying_crafting_tableng_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:raw_copper"
+            }
+        },
+        "result": "addon:e3"
+    }
+}

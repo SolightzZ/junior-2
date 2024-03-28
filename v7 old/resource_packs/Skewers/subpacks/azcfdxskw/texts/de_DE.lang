@@ -1,0 +1,36 @@
+## Raws:
+item.skw:raw_beef_skewer=Spieß mit Rohem Rindfleisch
+item.skw:raw_chicken_skewer=Spieß mit Rohem Hühnchen
+item.skw:raw_cod_skewer=Spieß mit Rohem Kabeljau
+item.skw:raw_mutton_skewer=Spieß mit Rohem Hammelfleisch
+item.skw:raw_porkchop_skewer=Spieß mit Rohem Schweinefleisch
+item.skw:raw_rabbit_skewer=Spieß mit Rohem Kaninchen
+item.skw:raw_salmon_skewer=Spieß mit Rohem Lachs
+item.skw:raw_veggie_skewer=Spieß mit Rohem Vegetarischer
+item.skw:raw_fish_fillet_skewer=Spieß mit Rohem Fischfilet
+item.skw:catmeat_skewer=Spieß mit Katzenfleisch
+item.skw:horsemeat_skewer=Spieß mit Pferdefleisch
+item.skw:raw_llama_skewer=Spieß mit Rohem Lama
+item.skw:raw_parrot_skewer=Spieß mit Rohem Papagei
+item.skw:raw_polarbear_skewer=Spieß mit Rohem Eisbär
+item.skw:wolfmeat_skewer=Spieß mit Wolfsfleisch
+
+## Cookeds:
+item.skw:cooked_beef_skewer=Spieß mit Gebratenem Rindfleisch
+item.skw:cooked_chicken_skewer=Spieß mit Gebratenem Hühnchen
+item.skw:cooked_cod_skewer=Spieß mit Gebratenem Kabeljau
+item.skw:cooked_mutton_skewer=Spieß mit Gebratenem Hammelfleisch
+item.skw:cooked_porkchop_skewer=Spieß mit Gebratenem Schweinefleisch
+item.skw:cooked_rabbit_skewer=Spieß mit Gebratenem Kaninchen
+item.skw:cooked_salmon_skewer=Spieß mit Gebratenem Lachs
+item.skw:roasted_veggie_skewer=Spieß mit Gerösteter Vegetarischer
+item.skw:cooked_fish_fillet_skewer=Spieß mit Gebratenem Fischfilet
+item.skw:cooked_catmeat_skewer=Spieß mit Gebratenem Katzenfleisch
+item.skw:cooked_horsemeat_skewer=Spieß mit Gebratenem Pferdefleisch
+item.skw:llama_steak_skewer=Spieß mit Lama Steak
+item.skw:cooked_parrot_skewer=Spieß mit Gebratenem Papagei
+item.skw:polarbear_steak_skewer=Spieß mit Eisbär Steak
+item.skw:cooked_wolfmeat_skewer=Spieß mit Gebratenem Wolfsfleisch
+
+## Miscellaneous:
+item.skw:cookie_skewer=Spieß mit Keks

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_66ad94c6"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:smoker",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:log",
+      "count": 4,
+      "data": 0
+    }
+  }
+}

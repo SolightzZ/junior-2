@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_e46e7b84"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:spruce_trapdoor",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:planks",
+      "count": 3,
+      "data": 1
+    }
+  }
+}

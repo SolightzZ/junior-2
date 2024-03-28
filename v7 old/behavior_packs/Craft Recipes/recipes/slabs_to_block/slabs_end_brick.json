@@ -1,0 +1,27 @@
+//bridge-file-version: #38
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:slabs_end_brick"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:double_stone_slab3",
+				"data": 0
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:end_bricks",
+				"data": 0
+			}
+		]
+	}
+}

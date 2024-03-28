@@ -1,0 +1,25 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:end_brick_slab_r"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "nba:end_brick_slab"
+			}
+		},
+		"result": {
+			"item": "minecraft:double_stone_slab3",
+      			"data": 0
+			,
+			"count": 1
+		}
+	}
+}

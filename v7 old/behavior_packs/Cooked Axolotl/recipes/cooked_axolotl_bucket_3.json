@@ -1,0 +1,15 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "mod:axolotl_3"
+		},
+		"tags": [
+			"furnace",
+			"campfire",
+			"smoker"
+		],
+		"input": "addon:cooked_axolotl_bucket_2",
+		"output": "addon:cooked_axolotl_bucket_3"
+	}
+}

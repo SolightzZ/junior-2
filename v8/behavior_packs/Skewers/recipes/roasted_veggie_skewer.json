@@ -1,0 +1,32 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "roasted_veggie_skewer"
+    },
+    "tags": [
+      "multiplying_crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "B",
+      "C"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:carrot"
+      },
+      "B": {
+        "item": "minecraft:baked_potato"
+      },
+      "C": {
+        "item": "minecraft:stick"
+      }
+    },
+    "result": [
+      {
+        "item": "skw:roasted_veggie_skewer"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:warped_slab"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:warped_slab"
+			}
+		},
+		"result": {
+			"item": "nba:warped_slab",
+			"count": 1
+		}
+	}
+}

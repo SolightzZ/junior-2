@@ -1,0 +1,28 @@
+//bridge-file-version: #20
+{
+	"format_version": 1.12,
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:quick_trapdoor_jungle"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ooo",
+			"ooo"
+		],
+		"key": {
+			"o": {
+				"item": "minecraft:log",
+				"data": 3
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:jungle_trapdoor",
+				"count": 8
+			}
+		]
+	}
+}

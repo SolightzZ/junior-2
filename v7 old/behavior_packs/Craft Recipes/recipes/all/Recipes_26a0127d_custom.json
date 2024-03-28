@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_939951a6"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:sweet_berries",
+        "data": 0
+      },
+      {
+        "item": "minecraft:glow_ink_sac",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:glow_berries",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

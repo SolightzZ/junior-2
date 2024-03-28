@@ -1,0 +1,27 @@
+//bridge-file-version: #29
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:slabs_red_sandstone_smooth"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:double_stone_slab3",
+				"data": 1
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:red_sandstone",
+				"data": 3
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "recipes_d966772e"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "priority": 1,
+    "ingredients": [
+      {
+        "item": "minecraft:planks",
+        "data": 2
+      }
+    ],
+    "result": {
+      "item": "minecraft:birch_pressure_plate",
+      "count": 1,
+      "data": 0
+    }
+  }
+}

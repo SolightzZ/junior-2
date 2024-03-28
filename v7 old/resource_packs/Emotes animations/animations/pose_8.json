@@ -1,0 +1,28 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.pose_8": {
+			"animation_length": 60,
+			"bones": {
+				"root": {
+					"rotation": [5, 0, 0]
+				},
+				"head": {
+					"rotation": [1.77687, 4.99782, 16.27282]
+				},
+				"leftArm": {
+					"rotation": [32.24702, -19.58991, 15.84766]
+				},
+				"rightArm": {
+					"rotation": [23.458, 23.37058, -19.36497]
+				},
+				"leftLeg": {
+					"rotation": [-12.68173, -10.84247, -2.69692]
+				},
+				"rightLeg": {
+					"rotation": [-15.53636, 15.12376, -1.56053]
+				}
+			}
+		}
+	}
+}

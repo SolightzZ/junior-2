@@ -1,0 +1,20 @@
+{
+    "format_version": "1.16.221",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "addon:camara_1"
+        },
+        "tags": [
+            "multiplying_crafting_table"
+        ],
+        "pattern": [
+            "#"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:dirt"
+            }
+        },
+        "result": "addon:camara_1"
+    }
+}

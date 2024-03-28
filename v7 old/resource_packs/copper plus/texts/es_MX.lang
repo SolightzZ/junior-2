@@ -1,0 +1,84 @@
+item.heavy:copper_pickaxe=Copper Pickaxe 
+item.heavy:exposed_copper_pickaxe=Exposed Copper Pickaxe 
+item.heavy:weathered_copper_pickaxe=Weathered Copper Pickaxe 
+item.heavy:oxidized_copper_pickaxe=Oxidized Copper Pickaxe 
+
+item.heavy:copper_shovel=Copper shovel 
+item.heavy:exposed_copper_shovel=Exposed Copper Shovel 
+item.heavy:weathered_copper_shovel=Weathered Copper Shovel 
+item.heavy:oxidized_copper_shovel=Oxidized Copper Shovel 
+
+item.heavy:copper_sword=Copper Sword 
+item.heavy:exposed_copper_sword=Exposed Copper Sword 
+item.heavy:weathered_copper_sword=Weathered Copper Sword 
+item.heavy:oxidized_copper_sword=Oxidized Copper Sword 
+
+item.heavy:copper_axe=Copper Axe 
+item.heavy:exposed_copper_axe=Exposed Copper Axe 
+item.heavy:weathered_copper_axe=Weathered Copper Axe 
+item.heavy:oxidized_copper_axe=Oxidized Copper Axe 
+
+item.heavy:copper_hoe=Copper Hoe 
+item.heavy:exposed_copper_hoe=Exposed Copper Hoe 
+item.heavy:weathered_copper_hoe=Weathered Copper Hoe 
+item.heavy:oxidized_copper_hoe=Oxidized Copper Hoe 
+
+
+item.heavy:copper_helmet=Copper Helmet 
+item.heavy:copper_chestplate=Copper Chestplate 
+item.heavy:copper_leggings=Copper Leggings 
+item.heavy:copper_boots=Copper Boots 
+item.heavy:rose_gold_pickaxe=Rose Gold Pickaxe 
+item.heavy:rose_gold_shovel=Rose Gold Shovel 
+item.heavy:rose_gold_sword=Rose Gold Sword 
+item.heavy:rose_gold_axe=Rose Gold Axe 
+item.heavy:rose_gold_hoe=Rose Gold Hoe 
+item.heavy:rose_gold_helmet=Rose Gold Helmet 
+item.heavy:rose_gold_chestplate=Rose Gold Chestplate 
+item.heavy:rose_gold_leggings=Rose Gold Leggings 
+item.heavy:rose_gold_boots=Rose Gold Boots 
+tile.heavy:lightning_attracts=Lightning Attracts 
+item.heavy:thunder_sword=Thunder Sword 
+item.heavy:lightning_attracts_item=Lightning Attracts  
+
+item.gold_plate:netherite_ingot=Gold Plate  
+
+item.heavy:ferro_copper_helmet=Ferro Copper Helmet 
+item.heavy:ferro_copper_chestplate=Ferro Copper Chestplate 
+item.heavy:ferro_copper_leggings=Ferro Copper Leggings 
+item.heavy:ferro_copper_boots=Ferro Copper Boots 
+
+item.heavy:ferro_copper_sword=Ferro Copper Sword 
+item.heavy:ferro_copper_axe=Ferro Copper Axe 
+item.heavy:ferro_copper_pickaxe=Ferro Copper Pickaxe 
+item.heavy:ferro_copper_shovel=Ferro Copper Shovel 
+item.heavy:ferro_copper_hoe=Ferro Copper Hoe 
+###################################
+###       True weapons          ###
+###################################
+
+item.true:copper_barbed_mace=Copper barbed mace 
+
+item.true:copper_katana=Copper katana 
+
+item.true:copper_knife=Copper knife 
+
+item.true:copper_long_sword=Copper Claymore 
+
+item.true:copper_kama=Copper kama 
+
+item.true:copper_bearded_axe=Copper bearbed axe 
+
+item.true:copper_dane_axe=Copper dane axe 
+
+item.true:copper_machete=Copper machete 
+
+item.true:copper_wakizashi=Copper wakizashi 
+
+item.true:copper_ninjatō=Copper ninjatō 
+
+item.true:copper_ōdachi=Copper ōdachi 
+
+item.true:copper_zweihander=Copper zweihander 
+
+item.true:copper_seitengewehr=Copper Seitengewehr 

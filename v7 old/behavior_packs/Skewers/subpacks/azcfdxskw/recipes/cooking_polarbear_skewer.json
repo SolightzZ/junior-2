@@ -1,0 +1,16 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "cooking_polarbear_skewer"
+    },
+    "tags": [
+      "furnace",
+      "smoker",
+      "campfire",
+      "soul_campfire"
+    ],
+    "input": "skw:raw_polarbear_skewer",
+    "output": "skw:polarbear_steak_skewer"
+  }
+}

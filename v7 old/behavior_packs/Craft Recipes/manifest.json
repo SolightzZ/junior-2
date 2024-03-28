@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Craft Recipes Data",
+		"description": "Copyright Park by Soligt can only be used on this server Sleeplite Servers",
+		"uuid": "20f9731e-cfce-40dd-b913-614c15bf88fd",
+		"version": [
+			1,
+			0,
+			1
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "8b12a996-136d-4010-a3c8-29d7ab5235dd",
+			"version": [
+				1,
+				0,
+				1
+			]
+		}
+	]
+}

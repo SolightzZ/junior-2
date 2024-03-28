@@ -1,0 +1,25 @@
+//bridge-file-version: #4
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:brick_wall_to_brick_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:cobblestone_wall",
+				"data": 6,
+				"count": 1
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:brick_block",
+				"count": 1
+			}
+		]
+	}
+}

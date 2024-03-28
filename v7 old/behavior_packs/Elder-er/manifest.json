@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Improved Elder Guardian, Wither & Ender Dragon!",
+    "name": "Elder-er BP",
+    "uuid": "1df443b2-8acc-4f29-982b-4ac3e0a87017",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      17,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Improved Elder Guardian, Wither & Ender Dragon!",
+      "type": "data",
+      "uuid": "f835a71e-ad13-4595-9311-2bd1be55a163",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

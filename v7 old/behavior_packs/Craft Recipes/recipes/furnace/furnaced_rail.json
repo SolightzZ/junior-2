@@ -1,0 +1,13 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "minecraft:furnace_rail"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "minecraft:rail",
+    "output": "minecraft:iron_nugget"
+  }
+}

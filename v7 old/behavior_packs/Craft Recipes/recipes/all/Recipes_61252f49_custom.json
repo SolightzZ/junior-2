@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_520fb4c8"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:boat",
+        "data": 4
+      }
+    },
+    "result": {
+      "item": "minecraft:planks",
+      "count": 5,
+      "data": 4
+    }
+  }
+}

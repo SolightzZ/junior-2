@@ -1,0 +1,23 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "bridge:crimson_door_to_crimson_planks"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:crimson_door"
+			}
+		],
+		"result": [
+			{
+				"item": "minecraft:crimson_planks",
+				"count": 2
+			}
+		]
+	}
+}
