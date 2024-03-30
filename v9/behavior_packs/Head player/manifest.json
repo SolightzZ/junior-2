@@ -1,0 +1,39 @@
+{
+    "metadata": {"authors": [
+        "Bedrock Tweaks",
+        "DrAv0011"
+    ]},
+    "format_version": 2,
+    "header": {
+        "min_engine_version": [
+            1,
+            19,
+            0
+        ],
+        "name": "Head Players",
+        "description": "Bedrock Tweaks §4Addons BP§r by §5DrAv0011§r",
+        "uuid": "d2e447a5-80e1-4111-8ce1-fd5fd4d04fa4",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [{
+        "type": "data",
+        "uuid": "d8966c08-c94b-4c88-ac34-29fb09d1a340",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    }],
+    "dependencies": [{
+        "uuid": "d3fc0214-16f3-467c-9736-e58e4f449545",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    }]
+}

@@ -1,0 +1,23 @@
+{
+	"format_version": "1.16.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "nba:crimson_slab"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"#"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:crimson_slab"
+			}
+		},
+		"result": {
+			"item": "nba:crimson_slab",
+			"count": 1
+		}
+	}
+}

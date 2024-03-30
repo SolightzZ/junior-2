@@ -1,0 +1,17 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.pose_17": {
+			"loop": true,
+			"animation_length": 120,
+			"bones": {
+				"root": {
+					"rotation": [0, 180, 0]
+				},
+				"head": {
+					"rotation": [0, 180, 0]
+				}
+			}
+		}
+	}
+}

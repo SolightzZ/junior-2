@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Camara Server",
+		"description": "By SoligtzZ",
+		"min_engine_version": [
+			1,
+			13,
+			0
+		],
+		"uuid": "249a3b34-20a4-423a-b791-1586a3dea404",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "2e5e996d-9ddc-43d5-844c-70301a95cfd5",
+			"version": [
+				0,
+				0,
+				1
+			]
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_20c16a2e"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:bucket",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:iron_ingot",
+      "count": 3,
+      "data": 0
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_35361134"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:ladder",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:stick",
+      "count": 7,
+      "data": 0
+    }
+  }
+}

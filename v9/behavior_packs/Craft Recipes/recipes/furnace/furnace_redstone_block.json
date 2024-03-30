@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "minecraft:redstone_block"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "minecraft:deepslate_redstone_ore",
+    "output": "minecraft:redstone_block"
+  }
+  
+}

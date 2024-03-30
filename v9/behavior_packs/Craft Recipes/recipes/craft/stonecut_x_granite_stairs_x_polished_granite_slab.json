@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "nicothekid:stonecut_x_granite_stairs_x_polished_granite_slab"
+    },
+    "priority": 4,
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:granite_stairs",
+        "data": 0
+      }
+    ],
+    "result": {
+      "item": "minecraft:double_stone_slab3",
+      "data": 7,
+      "count": 1
+    }
+  }
+}

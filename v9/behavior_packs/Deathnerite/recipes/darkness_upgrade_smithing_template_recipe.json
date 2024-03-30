@@ -1,0 +1,51 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "darkness_upgrade_smithing_template_recipe"
+		},
+		"tags": [
+			"multiplying_crafting_table"
+		],
+		"pattern": [
+            "#N#",
+            "NSN",
+            "#Y#"
+        ],
+        "key": {
+            "#": {
+                "item": "minecraft:skull",
+                "data": 1
+            },
+            "N": {
+                "item": "minecraft:netherite_scrap"
+            },
+            "S": {
+                "item": "minecraft:silence_armor_trim_smithing_template"
+            },
+            "Y": {
+                "item": "minecraft:netherite_upgrade_smithing_template"
+            }
+        },
+        "unlock": [
+			{
+                "item": "minecraft:skull",
+                "data": 1
+            },
+            {
+                "item": "minecraft:netherite_scrap"
+            },
+            {
+                "item": "minecraft:silence_armor_trim_smithing_template"
+            },
+            {
+                "item": "minecraft:netherite_upgrade_smithing_template"
+            }
+		  ],
+		"result": [
+			{
+				"item": "true:darkness_upgrade_smithing_template"
+			}
+		]
+	}
+}

@@ -1,0 +1,30 @@
+//bridge-file-version: #6
+{
+	"format_version": "1.12.0",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "polish:quick_shulker_log11"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" B ",
+			"l l",
+			" B "
+		],
+		"key": {
+			"l": {
+				"item": "minecraft:log2"
+			},
+			"B": {
+				"item": "minecraft:shulker_shell"
+			}
+		},
+		"result": [
+			{
+				"item": "minecraft:undyed_shulker_box"
+			}
+		]
+	}
+}

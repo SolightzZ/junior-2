@@ -1,0 +1,13 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.play6": {
+			"animation_length": 120,
+			"bones": {
+				"leftArm": {
+					"rotation": [-3.10036, -0.69119, -24.78187]
+				}
+			}
+		}
+	}
+}

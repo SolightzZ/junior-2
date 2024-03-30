@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+    "identifier": "minecraft:iron_block"
+    },
+
+    
+    "tags": ["furnace", "blast_furnace"],
+    "input": "minecraft:raw_iron_block",
+    "output": "minecraft:iron_block"
+  }
+  
+}

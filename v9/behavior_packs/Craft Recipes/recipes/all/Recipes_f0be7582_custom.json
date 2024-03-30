@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "recipes_b4e6cbf4"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "B"
+    ],
+    "key": {
+      "B": {
+        "item": "minecraft:golden_rail",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "minecraft:gold_ingot",
+      "count": 1,
+      "data": 0
+    }
+  }
+}
