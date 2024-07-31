@@ -1,1 +1,0 @@
-execute @e[type=npc,c=1] ^^^ scoreboard players add @a[tag=list] tick 1

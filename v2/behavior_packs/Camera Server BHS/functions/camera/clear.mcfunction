@@ -1,1 +1,0 @@
-camera @a[r=5] clear

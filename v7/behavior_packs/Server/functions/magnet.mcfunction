@@ -1,1 +1,0 @@
-execute @e[type=npc,c=1] ^^^ tp @e[type=item,r=5,c=15] @a[r=5,hasitem={location=slot.inventory,slot=0,item=magnet:iron_magnet}]
