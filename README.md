@@ -74,7 +74,7 @@
 Backup Server: ทุกๆเดือน
 
 ### Sleeplite Contact
-- [ Discord | Sleeplite Server ](https://discord.gg/gtqfbmvTJK)
-- [ Youtube | Sleeplite Official ](https://www.youtube.com/@SleepliteOfficial/videos)
-- [ TikTok | Sleepliteofficial ](https://www.tiktok.com/@sleeplite.official)
-- [ Wixsite | list players ](https://reimdes1.wixsite.com/shop/server)
+- [ Discord  Sleeplite Server ](https://discord.gg/gtqfbmvTJK)
+- [ Youtube Sleeplite Official ](https://www.youtube.com/@SleepliteOfficial/videos)
+- [ TikTok Sleepliteofficial ](https://www.tiktok.com/@sleeplite.official)
+- [ Wixsite list players ](https://reimdes1.wixsite.com/shop/server)
