@@ -13,7 +13,6 @@
 - [Bedrock Tweak](https://bedrocktweaks.net/)
 - [Bedrock Bridge](https://github.com/InnateAlpaca/BedrockBridge) 
 - Dual Rider
-- 
 
 ### Private Behavior packs
 - Magnet
@@ -26,15 +25,15 @@
 - Death loot Head
 - Cooked Axolotl 
 - Custom UI NPC
-* Entity Drops
- - Ender Dragon ดรอป Elytra / Dragon Head
- - Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
- - Creeper ดรอป Gunpowder looting enchant 2 เท่า
-* Water bottle 
- - Sprite
- - Matcha green tea
- - Fruit juice
- - Coca cola
+- Entity Drops
+ * Ender Dragon ดรอป Elytra / Dragon Head
+ * Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
+ * Creeper ดรอป Gunpowder looting enchant 2 เท่า
+- Water bottle 
+ * Sprite
+ * Matcha green tea
+ * Fruit juice
+ * Coca cola
 
 ### Compass Menu Server 
 - Emote Special
@@ -45,16 +44,16 @@
 - Contact
 
 ### Mod Batter
-* Elder Guardian 
- - Health: 80 > 120 
-* Wither
- - Health: 600 > 800 
-* Ender Dragon Buff 	
- - Health 200 < 600 
- - Flying speed 0.7 < 1
- - Attack 4 < 5
- - Movement 0.4 < 0.5
- - Not Explosions Damage
+- Elder Guardian 
+ * Health: 80 > 120 
+- Wither
+ * Health: 600 > 800 
+- Ender Dragon Buff 	
+ * Health 200 < 600 
+ * Flying speed 0.7 < 1
+ * Attack 4 < 5
+ * Movement 0.4 < 0.5
+ * Not Explosions Damage
 
 ### Resource packs
 - [Emoji Font](https://github.com/SolightzZ/Unicode-Bedrock)
