@@ -3,7 +3,7 @@
 
 <br>
 
-# ข้อมูลเบื้องต้นของ Sleeplite Junior Season 2
+## ข้อมูลเบื้องต้นของ Sleeplite Junior Season 2
 * Minecraft Bedrock Version : 1.21.20
 * Server : Vanilla
 * Seed - 1.20.73 : `8764718009920`
