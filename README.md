@@ -1,10 +1,17 @@
 
- ![](https://media.discordapp.net/attachments/1084301111177007155/1154383489836253246/All_sleepLite_JR.2png.png?width=1440&height=602)
+ ![](https://github.com/SolightzZ/junior-2/blob/main/Img%20Title/jr2.png)
 
 <br>
 
-# Addon packs
-### Server chat to Discord
+# ข้อมูลเบื้องต้นของ Sleeplite Junior Season 2
+* Minecraft Bedrock Version : 1.21.20
+* Server : Vanilla
+* Seed - 1.20.73 : `8764718009920`
+
+
+### Behavior packs
+- [Bedrock Tweak](https://bedrocktweaks.net/)
+- [Bedrock Bridge](https://github.com/InnateAlpaca/BedrockBridge) 
 ### Pack Servers
 ### Dual Rider
 ### Advanced crafting table
