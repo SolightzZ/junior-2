@@ -30,10 +30,10 @@
     * Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
     * Creeper ดรอป Gunpowder looting enchant 2 เท่า
 - Water bottle 
- * Sprite
- * Matcha green tea
- * Fruit juice
- * Coca cola
+    * Sprite
+    * Matcha green tea
+    * Fruit juice
+    * Coca cola
 
 ### Compass Menu Server 
 - Emote Special
@@ -45,15 +45,15 @@
 
 ### Mod Batter
 - Elder Guardian 
- * Health: 80 > 120 
+    * Health: 80 > 120 
 - Wither
- * Health: 600 > 800 
+    * Health: 600 > 800 
 - Ender Dragon Buff 	
- * Health 200 < 600 
- * Flying speed 0.7 < 1
- * Attack 4 < 5
- * Movement 0.4 < 0.5
- * Not Explosions Damage
+    * Health 200 < 600 
+    * Flying speed 0.7 < 1
+    * Attack 4 < 5
+    * Movement 0.4 < 0.5
+    * Not Explosions Damage
 
 ### Resource packs
 - [Emoji Font](https://github.com/SolightzZ/Unicode-Bedrock)
