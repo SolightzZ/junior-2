@@ -26,9 +26,9 @@
 - Cooked Axolotl 
 - Custom UI NPC
 - Entity Drops
- * Ender Dragon ดรอป Elytra / Dragon Head
- * Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
- * Creeper ดรอป Gunpowder looting enchant 2 เท่า
+    * Ender Dragon ดรอป Elytra / Dragon Head
+    * Shulker ดรอป 2 Shulker Shell และสุ่มดรอป Shulker Box
+    * Creeper ดรอป Gunpowder looting enchant 2 เท่า
 - Water bottle 
  * Sprite
  * Matcha green tea
