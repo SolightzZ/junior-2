@@ -36,7 +36,7 @@
     * Fruit juice
     * Coca cola
 
-### Compass Menu Server 
+### Recovery Compass  Menu Server 
 - Emote Special
 - Emote Normal
 - Emote Post
