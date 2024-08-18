@@ -55,6 +55,34 @@
     * Attack 4 < 5
     * Movement 0.4 < 0.5
     * Not Explosions Damage
+- Husk 
+  * เพิ่มความเร็ว 2 เท่า
+- skeleton
+  * ยิงเร็ว 1.1
+  * ระยะการมองเห็น 25 บล็อค
+- Snow golem 
+  * เพิ่มความเร็ว 2 เท่า 
+  * เลือด 5 เท่า
+- Spider 
+  * เพิ่มความเร็ว 2 เท่า
+- Zombie villager 
+  * เพิ่มความเร็ว 2 เท่า
+- Zombie 
+  * เพิ่มความเร็ว 2 เท่า
+
+
+### Elytra Raiyon's Mo
+- Elytra
+  * Ender elytra
+  * Magma elytra
+  * Phantom elytra
+  * TNT eltytra
+  * Turtle eltra
+  * Warden elytra
+- Elytra อัพเกรด
+  * Iron elytra
+  * Diamond elytra
+  * Netherite elytra
 
 ### Resource packs
 - [Emoji Font](https://github.com/SolightzZ/Unicode-Bedrock)
