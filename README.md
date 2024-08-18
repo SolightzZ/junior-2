@@ -12,6 +12,7 @@
 ### Behavior packs
 - [Bedrock Tweak](https://bedrocktweaks.net/)
 - [Bedrock Bridge](https://github.com/InnateAlpaca/BedrockBridge) 
+- [Holograms on dropped items](https://sirobaddons.com/)
 - Dual Rider
 
 ### Private Behavior packs
